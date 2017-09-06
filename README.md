@@ -13,7 +13,7 @@
 
 
 
-<img src="./photo/foot.jpg" width="400"/>
+<img src="./02photo/foot.jpg" width="400"/>
 
 # 微信公众号文章及源码分享
 
