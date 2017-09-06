@@ -1,0 +1,2001 @@
+年份,Rank,公司名称（英文）,公司名称（中文）,Country/area（国家或地区）,Industry（行业）,Sales （销售额）($bil十亿美元),Profits （利润）($bil),Assets 资产($bil),Market Value 市值($bil)
+2008,1,HSBC Holdings,汇丰集团,United Kingdom,Banking,146.5,19.13,"2,348.98",180.81
+2008,2,General Electric,通用电气公司,United States,Conglomerates,172.74,22.21,795.34,330.93
+2008,3,Bank of America,美国银行,United States,Banking,119.19,14.98,"1,715.75",176.53
+2008,4,JPMorgan Chase,摩根大通公司,United States,Banking,116.35,15.37,"1,562.15",136.88
+2008,5,ExxonMobil,埃克森美孚公司,United States,Oil & Gas Operations,358.6,40.61,242.08,465.51
+2008,6,Royal Dutch Shell,英荷壳牌集团,Netherlands,Oil & Gas Operations,355.78,31.33,266.22,221.09
+2008,7,BP,英国石油公司,United Kingdom,Oil & Gas Operations,281.03,20.6,236.08,204.94
+2008,8,Toyota Motor,丰田汽车公司,Japan,Consumer Durables,203.8,13.99,276.38,175.08
+2008,9,ING Group,荷兰国际集团,Netherlands,Insurance,197.93,12.65,"1,932.15",75.78
+2008,10,Berkshire Hathaway,美国伯克希尔哈撒韦公司,United States,Diversified Financials,118.25,13.21,273.16,216.65
+2008,11,Royal Bank of Scotland,苏格兰皇家银行,United Kingdom,Banking,108.45,14.62,"3,807.51",76.64
+2008,12,AT&T,美国电话电报公司,United States,Telecommunications Services,118.93,11.95,275.64,210.22
+2008,13,BNP Paribas,法国巴黎银行,France,Banking,116.16,10.71,"2,494.41",81.9
+2008,14,Allianz,德国安联集团,Germany,Insurance,139.12,10.9,"1,547.48",80.3
+2008,15,Total,道达尔公司,France,Oil & Gas Operations,199.74,19.24,165.75,181.8
+2008,16,Wal-Mart Stores,沃尔玛公司,United States,Retailing,378.8,12.73,163.38,198.6
+2008,17,Chevron,雪佛龙公司,United States,Oil & Gas Operations,203.97,18.69,148.79,179.97
+2008,18,American Intl Group,美国国际集团,United States,Insurance,110.06,6.2,"1,060.51",118.2
+2008,19,Gazprom,俄罗斯天然气公司,Russia,Oil & Gas Operations,81.76,23.3,201.72,306.79
+2008,20,AXA Group,法国安盛集团,France,Insurance,151.7,7.75,"1,064.67",70.33
+2008,21,Banco Santander,西班牙国际银行,Spain,Banking,72.26,10.02,"1,332.72",113.27
+2008,22,ConocoPhillips,康菲石油公司,United States,Oil & Gas Operations,171.5,11.89,177.76,129.15
+2008,23,Goldman Sachs Group,高盛集团,United States,Diversified Financials,87.97,11.6,"1,119.80",67.16
+2008,24,Citigroup,花旗集团,United States,Banking,159.23,3.62,"2,187.63",123.44
+2008,25,Barclays,英国巴克莱银行,United Kingdom,Banking,79.7,8.76,"2,432.34",62.43
+2008,26,EDF Group,法国电力集团,France,Utilities,81.6,7.69,271.66,170.81
+2008,27,E.ON,德国意昂集团,Germany,Utilities,94.04,9.86,200.84,126.22
+2008,28,ENI,意大利埃尼集团,Italy,Oil & Gas Operations,119.27,13.7,128.15,127.38
+2008,29,Petrobras-Petróleo Brasil,巴西石油公司,Brazil,Oil & Gas Operations,87.52,11.04,129.98,236.67
+2008,30,PetroChina,中国石油集团,China,Oil & Gas Operations,88.24,18.21,111.7,546.14
+2008,31,Procter & Gamble,宝洁公司,United States,Household & Personal Products,79.74,11.13,144.4,203.67
+2008,32,Deutsche Bank,德意志银行,Germany,Diversified Financials,95.5,7.45,"1,485.58",56.27
+2008,33,UniCredit Group,意大利联合信贷银行,Italy,Banking,63.67,7.19,"1,077.21",77.46
+2008,34,Telefónica,西班牙电话公司,Spain,Telecommunications Services,82.4,13,143.13,138.42
+2008,35,Mitsubishi UFJ Financial,三菱日联金融集团,Japan,Banking,49.49,7.5,"1,591.56",98.14
+2008,36,Volkswagen Group,大众汽车公司,Germany,Consumer Durables,149,5.64,210.88,90.23
+2008,37,IBM,国际商用机器公司,United States,Software & Services,98.79,10.42,120.43,157.62
+2008,38,ArcelorMittal,阿塞洛米塔尔钢铁集团,Luxembourg,Materials,105.22,10.37,133.65,108.82
+2008,39,Daimler,戴姆勒股份公司,Germany,Consumer Durables,145.11,5.82,199.77,85.16
+2008,40,BBVA-Banco Bilbao Vizcaya,西班牙毕尔巴鄂比斯开银行,Spain,Banking,54.34,8.94,733.14,78.29
+2008,41,Wells Fargo,美国富国银行,United States,Banking,53.59,8.06,575.44,96.37
+2008,42,ICBC,中国工商银行,China,Banking,37.48,6.31,961.65,289.57
+2008,43,Credit Suisse Group,瑞士瑞信银行,Switzerland,Diversified Financials,83.72,7.53,"1,194.75",50.85
+2008,44,HBOS,苏格兰哈里法克斯银行,United Kingdom,Banking,100.32,8.1,"1,336.17",44.84
+2008,45,Crédit Agricole,法国农业信贷银行,France,Banking,101.59,6.49,"1,662.60",45.73
+2008,46,Nestlé,雀巢集团,Switzerland,Food ，Drink & Tobacco,94.76,9.38,99.06,188.11
+2008,47,Fortis,富通集团,Netherlands,Diversified Financials,121.19,5.46,"1,020.98",49.04
+2008,48,Verizon Communications,美国韦里逊通讯公司,United States,Telecommunications Services,93.47,5.65,186.96,104.27
+2008,49,France Telecom,法国电信集团,France,Telecommunications Services,77.31,9.2,137.09,87.89
+2008,50,Siemens,西门子公司,Germany,Conglomerates,103.2,5.42,126.72,118.47
+2008,51,Wachovia,美国瓦乔维亚银行,United States,Banking,55.53,6.31,782.9,60.69
+2008,52,Sinopec-China Petroleum,中国石化,China,Oil & Gas Operations,133.79,6.9,77.44,186.38
+2008,53,Hewlett-Packard,惠普公司,United States,Technology Hardware & Equip,107.67,7.85,88.57,122.04
+2008,54,Lloyds TSB Group,劳埃德TSB集团,United Kingdom,Banking,58.74,6.53,701.08,50.95
+2008,55,Royal Bank of Canada,加拿大皇家银行,Canada,Banking,43.57,5.77,629.96,64.41
+2008,56,Bank of China,中国银行,China,Banking,31.13,5.49,679.57,171.45
+2008,57,Pfizer,美国辉瑞公司,United States,Drugs & Biotechnology,48.42,8.14,115.27,152.17
+2008,58,Johnson & Johnson,强生公司,United States,Drugs & Biotechnology,61.1,10.58,80.95,175.51
+2008,59,Samsung Electronics,三星集团,South Korea,Semiconductors,92.26,8.56,87.49,87.84
+2008,60,StatoilHydro,挪威国家石油海德罗公司,Norway,Oil & Gas Operations,89,7.52,89.16,98.36
+2008,61,Generali Group,意大利忠利集团,Italy,Insurance,102.16,3.17,486.43,60.79
+2008,62,CCB-China Construction Bank,中国建设银行,China,Banking,29.16,5.93,697.44,126.55
+2008,63,Microsoft,微软公司,United States,Software & Services,57.9,16.96,67.34,253.15
+2008,64,Suez Group,苏伊士里昂水务集团,France,Utilities,64.96,5.37,114.89,83.56
+2008,65,Zurich Financial Services,苏黎世金融服务集团,Switzerland,Insurance,55.05,5.63,387.67,45.76
+2008,66,Nippon Telegraph & Tel,日本电报电话公司,Japan,Telecommunications Services,91.57,4.06,149.71,60.27
+2008,67,Sanofi-aventis,法国赛诺菲-安万特集团,France,Drugs & Biotechnology,40.95,7.68,104.98,101.17
+2008,68,Honda Motor,本田汽车公司,Japan,Consumer Durables,94.35,5.04,101.82,56.82
+2008,69,Nokia,诺基亚公司,Finland,Technology Hardware & Equip,74.54,10.52,52.62,145.66
+2008,70,Munich Re,慕尼黑再保险公司,Germany,Insurance,67.57,5.63,306.03,37.34
+2008,71,Mizuho Financial,日本瑞穗金融集团,Japan,Banking,32.52,5.28,"1,272.17",48.8
+2008,72,Novartis,诺华公司,Switzerland,Drugs & Biotechnology,40.22,12.62,71.89,111.62
+2008,73,MetLife,大都会人寿保险公司,United States,Insurance,53.01,4.32,558.56,41.32
+2008,74,Roche Holding,瑞士罗氏公司,Switzerland,Drugs & Biotechnology,40.65,8.6,67.72,169.32
+2008,75,Morgan Stanley,摩根士丹利公司,United States,Diversified Financials,85.33,2.56,"1,045.41",46.53
+2008,76,Vale,巴西淡水河谷公司,Brazil,Materials,33.23,10.26,74.7,161.39
+2008,77,Rio Tinto,力拓集团,United Kingdom/Australia,Materials,29.7,7.31,100.81,165.48
+2008,78,China Mobile,中国移动通信集团公司,Hong Kong/China,Telecommunications Services,37.06,8.29,62.44,308.59
+2008,79,GlaxoSmithKline,英国葛兰素史克公司,United Kingdom,Drugs & Biotechnology,45.07,10.35,57.16,120.05
+2008,80,BASF,德国巴斯夫集团,Germany,Chemicals,84.6,5.93,67.33,60.96
+2008,81,RWE Group,德国莱茵集团,Germany,Utilities,56.17,3.64,119.5,68.19
+2008,82,Sumitomo Mitsui Financial,日本三井住友金融集团,Japan,Banking,33.04,3.76,850.75,56.1
+2008,83,BHP Billiton,澳大利亚必和必拓集团,Australia/United Kingdom,Materials,39.5,13.42,53.36,190.62
+2008,84,Time Warner,时代华纳公司,United States,Media,46.48,4.39,133.83,55.83
+2008,85,Banco Bradesco,巴西布拉德斯科银行,Brazil,Banking,36.12,4.11,192.65,59.8
+2008,86,KBC Group,比利时联合银行,Belgium,Banking,35.22,4.66,517.98,43.66
+2008,87,Dexia,比利时德克夏银行,Belgium,Banking,140.78,3.47,889.98,28.04
+2008,88,Altria Group,美国奥驰亚集团,United States,Food Drink & Tobacco,38.05,9.16,57.21,154.2
+2008,89,National Australia Bank,澳大利亚国家银行,Australia,Banking,38.88,4.06,499.44,43.95
+2008,90,Cisco Systems,思科系统公司,United States,Technology Hardware & Equip,37.68,8.07,55.3,145.39
+2008,91,Manulife Financial,加拿大宏利金融集团,Canada,Insurance,33.08,4.01,178.58,59.18
+2008,92,Bank of Nova Scotia,加拿大丰业银行,Canada,Banking,28.02,4.25,431.3,48.08
+2008,93,Intel,英特尔公司,United States,Semiconductors,38.33,6.98,55.65,115.59
+2008,94,Unilever,联合利华公司,Netherlands/United Kingdom,Food Drink & Tobacco,54.82,5.3,53.4,92.75
+2008,95,Toronto-Dominion Bank,加拿大多伦多道明银行,Canada,Banking,26.51,4.2,443.56,48.38
+2008,96,Nissan Motor,日产汽车公司,Japan,Consumer Durables,89.09,3.92,104.2,37.9
+2008,97,Lehman Bros Holdings,美国雷曼兄弟公司,United States,Diversified Financials,59,4.19,691.06,27.05
+2008,98,Carrefour Group,家乐福集团,France,Food Markets,112.4,3.15,75.73,49.95
+2008,99,Commonwealth Bank,澳大利亚联邦银行,Australia,Banking,26.48,3.8,360.42,51.86
+2008,100,Boeing,波音公司,United States,Aerospace & Defense,66.39,4.07,58.99,63.32
+2008,101,Aviva,英国英杰华集团,United Kingdom,Insurance,81.83,2.65,633.91,31.9
+2008,102,Société Générale Group,法国兴业银行,France,Banking,103.44,1.3,"1,573.13",62.93
+2008,103,ENEL,意大利国家电力公司,Italy,Utilities,49.47,4.01,69.85,67
+2008,103,Intesa Sanpaolo,意大利联合圣保罗银行,Italy,Banking,22.25,3.38,383.09,86.29
+2008,105,American Express,美国运通公司,United States,Diversified Financials,31.56,4.01,150,48.98
+2008,106,Telecom Italia,意大利电信集团,Italy,Telecommunications Services,42.81,3.35,121.86,48.62
+2008,107,Deutsche Post,德国邮政集团,Germany,Transportation,86.9,1.9,343.38,40.24
+2008,108,Lukoil Holding,俄罗斯卢克公司,Russia,Oil & Gas Operations,54.11,7.69,47.88,62.25
+2008,109,United Technologies,美国联合技术公司,United States,Conglomerates,54.76,4.22,54.58,69.11
+2008,110,Mitsubishi,三菱集团,Japan,Trading Companies,43.29,3.54,97.59,53.09
+2008,111,UnitedHealth Group,美国联合健康集团,United States,Health Care Equipment & Svcs,75.43,4.65,50.9,58.16
+2008,112,BMW-Bayerische Motor,宝马公司,Germany,Consumer Durables,64.64,3.78,103.3,35.93
+2008,113,Repsol-YPF,西班牙雷普索尔YPF公司,Spain,Oil & Gas Operations,61.80 E,4.36,67.93,42.35
+2008,114,Prudential Financial,美国保德信金融集团,United States,Insurance,34.4,3.7,485.81,32.54
+2008,115,Nordea Bank,瑞典北欧联合银行,Sweden,Banking,23.49,4.3,568.51,39.4
+2008,116,Tesco,英国特易购公司,United Kingdom,Food Markets,83.61,3.71,48.58,62.41
+2008,117,ANZ Banking,澳新银行,Australia,Banking,26.54,3.71,347.96,39.53
+2008,118,US Bancorp,美国合众银行,United States,Banking,20.31,4.32,237.62,55.39
+2008,119,Walt Disney,迪斯尼集团,United States,Media,36.38,4.24,62.77,61.03
+2008,120,Aegon,荷兰全球保险集团,Netherlands,Insurance,57.73,3.49,462.42,24.74
+2008,121,Swiss Re Group,瑞士再保险公司,Switzerland,Insurance,37.75,3.67,258.2,29.84
+2008,122,Iberdrola,西班牙伊维尔德罗拉公司,Spain,Utilities,25.5,3.44,97.59,72.78
+2008,123,Coca-Cola,可口可乐公司,United States,Food Drink & Tobacco,28.86,5.98,43.27,135.86
+2008,124,Xstrata,英国斯特拉塔公司,Switzerland,Materials,28.21,5.5,52.24,77.01
+2008,125,CVS Caremark,美国CVS公司,United States,Retailing,76.33,2.64,54.72,57.82
+2008,126,Comcast,美国康卡斯特电信公司,United States,Media,30.9,2.59,113.42,58.84
+2008,127,Home Depot,美国家得宝公司,United States,Retailing,77.35,4.4,44.32,44.81
+2008,128,Renault,雷诺汽车公司,France,Consumer Durables,54.79,3.78,90.41,30.8
+2008,129,Allstate,好事达保险公司,United States,Insurance,36.77,4.64,156.41,26.75
+2008,130,Westpac Banking Group,澳大利亚西太平洋银行,Australia,Banking,22.99,3.06,331.83,40.97
+2008,131,PepsiCo,百事公司,United States,Food Drink & Tobacco,39.47,5.66,34.63,111.42
+2008,132,Banco do Brasil,巴西银行,Brazil,Banking,28.61,2.6,202,41.54
+2008,133,Caterpillar,美国卡特彼勒公司,United States,Capital Goods,44.96,3.54,56.13,45.13
+2008,133,Royal Philips Electronics,飞利浦电子公司,Netherlands,Conglomerates,39.11,6.08,51.64,42
+2008,135,Standard Chartered Group,英国渣打银行,United Kingdom,Banking,21.25,2.81,328.65,46.94
+2008,136,News Corp,美国新闻集团,United States,Media,30.55,3.33,68.92,57.57
+2008,137,Prudential,英国保诚集团,United Kingdom,Insurance,70.34,1.71,419.89,30
+2008,138,Canon,佳能集团,Japan,Technology Hardware & Equip,40.06,4.37,40.34,61.75
+2008,139,Danske Bank Group,丹麦丹斯克银行,Denmark,Banking,33.87,2.9,655.61,26.33
+2008,140,Vivendi,法国威望迪集团,France,Media,31.62,3.83,63.73,46.36
+2008,141,Bayer Group,拜耳集团,Germany,Chemicals,38.2,2.32,72.15,59
+2008,142,Gaz de France,法国燃气公司,France,Utilities,36.47,3.03,56.53,56.73
+2008,143,Tokyo Electric Power,日本东京电力公司,Japan,Utilities,44.96,2.54,112.46,34.93
+2008,144,Valero Energy,美国瓦莱罗能源公司,United States,Oil & Gas Operations,94.53,5.23,41.86,31.8
+2008,145,Saudi Basic Industries,沙特基础工业公司,Saudi Arabia,Chemicals,23.02,5.41,44.42,124.85
+2008,146,Mitsui & Co,日本三井物产公司,Japan,Trading Companies,41.54,2.57,83.21,40.61
+2008,147,Anglo American,英美资源集团,United Kingdom,Materials,25.47,5.29,44.29,85.05
+2008,148,AstraZeneca,英国阿斯利康公司,United Kingdom,Drugs & Biotechnology,29.21,5.53,46.91,54.86
+2008,149,WellPoint,美国Wellpoint公司,United States,Health Care Equipment & Svcs,61.13,3.35,52.06,37.98
+2008,150,Matsushita Electric Indl,松下公司,Japan,Technology Hardware & Equip,77.51,1.85,65.89,45.31
+2008,151,Mxller-Maersk,马士基集团,Denmark,Transportation,46.83,2.75,54.77,45.66
+2008,151,UES of Russia,俄罗斯统一电力公司,Russia,Utilities,34,3.17,58.48,47.09
+2008,153,Kraft Foods,美国卡夫公司,United States,Food Drink & Tobacco,37.24,2.59,67.99,47.79
+2008,154,China Life Insurance,中国人寿保险股份有限公司,China,Insurance,18.86,2.56,97.9,144.45
+2008,155,Fiat Group,菲亚特集团,Italy,Consumer Durables,80.11,2.67,88.53,27.24
+2008,156,BT Group,英国电信集团,United Kingdom,Telecommunications Services,39.81,5.61,47.32,35.6
+2008,157,Marathon Oil,美国马拉松石油公司,United States,Oil & Gas Operations,57.64,3.96,42.75,37.76
+2008,158,Travelers Cos,美国圣保罗旅行者保险公司,United States,Insurance,26.02,4.6,115.22,28.79
+2008,159,Canadian Imperial Bank,加拿大帝国商业银行,Canada,Banking,24.54,3.47,359.49,25.96
+2008,160,Commerzbank,德国商业银行,Germany,Banking,39.98,2.8,899.96,20.03
+2008,160,Target,美国塔吉特公司,United States,Retailing,63.37,2.85,44.56,43.07
+2008,162,Merck & Co,美国默克集团,United States,Drugs & Biotechnology,24.2,3.28,48.35,95.92
+2008,163,América Móvil,墨西哥美洲电信公司,Mexico,Telecommunications Services,28.53,5.37,31.97,104.7
+2008,164,EnCana,加拿大能源公司,Canada,Oil & Gas Operations,24.28,4.24,46.97,57.47
+2008,165,Sberbank,俄罗斯联邦储蓄银行,Russia,Banking,14.75,3.15,131.7,71.88
+2008,166,ThyssenKrupp Group,德国蒂森克虏伯集团,Germany,Conglomerates,73.68,2.99,53.69,28.31
+2008,167,Abbott Laboratories,美国雅培公司,United States,Drugs & Biotechnology,25.91,3.61,39.71,82.77
+2008,168,China Telecom,中国电信,China,Telecommunications Services,22.42,3.48,51.63,61.89
+2008,169,Dow Chemical,美国陶氏化学公司,United States,Chemicals,53.51,2.89,48.8,35.41
+2008,170,Rosneft,俄罗斯石油公司,Russia,Oil & Gas Operations,21.96,3.63,46.68,77.94
+2008,171,Wyeth,美国惠氏公司,United States,Drugs & Biotechnology,22.4,4.62,42.72,58.36
+2008,172,Deutsche Telekom,德国电信,Germany,Telecommunications Services,91.26,0.83,166.5,83.19
+2008,173,Hartford Finl Service,美国哈特福德金融服务公司,United States,Insurance,25.92,2.95,360.36,21.95
+2008,174,Hutchison Whampoa,香港和记黄埔有限公司,Hong Kong/China,Conglomerates,23.63,2.57,84.88,40.66
+2008,175,Itaúsa,巴西伊塔乌投资银行,Brazil,Banking,28.97,2.05,167.06,28.22
+2008,176,Oracle,美国Oracle公司,United States,Software & Services,20.08,4.78,35.65,96.57
+2008,177,Volvo Group,沃尔沃集团,Sweden,Capital Goods,44.15,2.31,48.39,40.56
+2008,178,Apple,苹果电脑公司,United States,Technology Hardware & Equip,26.5,4.07,30.04,109.88
+2008,179,Occidental Petroleum,美国西方石油公司,United States,Oil & Gas Operations,20.01,5.4,36.52,63.64
+2008,180,Kookmin Bank,韩国国民银行,South Korea,Banking,30.86,2.65,214.79,21.1
+2008,181,British Amer Tobacco,英美烟草集团,United Kingdom,Food Drink & Tobacco,19.88,4.23,36.64,76.07
+2008,182,Sony,索尼公司,Japan,Technology Hardware & Equip,70.6,1.08,97.86,48.03
+2008,183,Bank of New York Mellon,美国纽约银行梅隆公司,United States,Banking,14.78,2.22,197.66,50.27
+2008,183,Schlumberger,美国斯伦贝谢公司,Netherlands,Oil & Gas Operations,23.71,5.18,27.85,103.38
+2008,185,Nippon Steel,新日本制铁公司,Japan,Materials,36.61,2.99,45.24,33.85
+2008,185,Saint-Gobain,法国圣戈班集团,France,Construction,54.88,2.16,54.52,29.66
+2008,187,Sun Life Financial,加拿大永明金融集团,Canada,Insurance,22.61,2.31,188.62,27.15
+2008,188,Legal & General Group,英国法通保险公司,United Kingdom,Insurance,41.03,3.06,423.45,15.32
+2008,189,Bank of Montreal,加拿大蒙特利尔银行,Canada,Banking,21.41,2.24,385.41,25.3
+2008,190,Posco,韩国浦项制铁集团,South Korea,Materials,27.91,3.58,33.35,49.21
+2008,191,InBev,比利时英博集团,Belgium,Food Drink & Tobacco,21.07,3.21,40.93,55.89
+2008,192,Dell,戴尔公司,United States,Technology Hardware & Equip,61.13,2.95,27.56,44.6
+2008,193,Reliance Industries,印度瑞来斯实业公司,India,Oil & Gas Operations,26.07,2.79,30.67,89.29
+2008,194,EI du Pont de Nemours,杜邦公司,United States,Chemicals,30.65,2.99,34.13,41.75
+2008,195,Lockheed Martin,美国洛克希德马丁公司,United States,Aerospace & Defense,41.86,3.03,28.93,42.12
+2008,195,Vinci Group,法国万喜集团,France,Construction,33.82,1.68,63.61,33.98
+2008,197,ABB,ABB集团,Switzerland,Capital Goods,30.67,2.72,30.14,58.07
+2008,198,Oil & Natural Gas,印度石油天然气公司,India,Oil & Gas Operations,18.9,4.11,33.79,54.11
+2008,199,LM Ericsson,爱立信公司,Sweden,Technology Hardware & Equip,29.05,3.38,36.11,34.53
+2008,200,Honeywell International,美国霍尼韦尔国际公司,United States,Conglomerates,34.59,2.44,33.81,42.83
+2008,201,Lowe's Cos,灵狮广告公司,United States,Retailing,48.28,2.81,30.92,34.95
+2008,202,Exelon,美国爱克斯龙电力公司,United States,Utilities,18.92,2.74,45.89,49.49
+2008,203,Korea Electric Power,韩国电力公司,South Korea,Utilities,29.6,2.4,83.63,22.72
+2008,204,Loews,美国洛斯保险公司,United States,Insurance,17.69,2.49,76.08,35.26
+2008,205,PTT Public Company Limited,泰国国家石油公司,Thailand,Oil & Gas Operations,50.14,3.28,29.88,30.61
+2008,206,L'Oréal Group,欧莱雅集团,France,Household & Personal Products,20.83,2.72,32.13,72.99
+2008,207,CNP Assurances,法国国家人寿保险公司,France,Insurance,54.23,1.51,339.47,16.36
+2008,208,National Grid,英国国家电力供应公司,United Kingdom,Utilities,17.12,2.74,55.88,36.85
+2008,209,3M,3M公司,United States,Conglomerates,24.46,4.1,24.69,55.48
+2008,210,Nomura Holdings,日本野村控股公司,Japan,Diversified Financials,16.55,1.5,303.95,30.91
+2008,211,Alcoa,美国铝业公司,United States,Materials,30.75,2.56,38.8,30.25
+2008,212,Archer Daniels,美国阿彻丹尼尔斯米德兰公司,United States,Food Drink & Tobacco,52.92,2.23,33.49,29.03
+2008,213,Google,Google公司,United States,Software & Services,16.59,4.2,25.34,147.66
+2008,214,Holcim,瑞士霍尔希姆公司,Switzerland,Construction,23.83,3.41,42.21,27.02
+2008,215,Telstra,澳大利亚电信公司,Australia,Telecommunications Services,20.11,2.76,32.18,56.68
+2008,216,BG Group,英国天然气集团,United Kingdom,Oil & Gas Operations,16.43,3.46,30.37,79.28
+2008,217,McDonald's,麦当劳公司,United States,"Hotels, Restaurants & Leisure",22.79,2.4,29.39,62.32
+2008,218,Metro AG,麦德龙集团,Germany,Food Markets,79,1.39,40.8,27.52
+2008,219,State Bank of India Group,印度国家银行集团,India,Banking,15.77,1.47,188.56,33.29
+2008,220,Deere & Co,美国迪尔公司,United States,Capital Goods,24.86,1.95,38.22,37.15
+2008,221,Freeport Copper,自由港铜业,United States,Materials,16.94,2.98,40.04,38.52
+2008,222,Allied Irish Banks,爱尔兰联合银行,Ireland,Banking,16.04,2.9,259.28,18.18
+2008,223,BAE Systems,英国BAE系统公司,United Kingdom,Aerospace & Defense,28.39,1.79,39.07,33.73
+2008,224,BCE,加拿大贝尔集团,Canada,Telecommunications Services,18.01,4.09,38.1,29.33
+2008,225,Royal KPN,荷兰皇家KPN电信集团,Netherlands,Telecommunications Services,18.19,3.87,33.01,35.04
+2008,226,ACS Group,西班牙ACS集团,Spain,Construction,31.11,2.26,72.4,18.06
+2008,227,East Japan Railway,东日本铁路公司,Japan,Transportation,22.61,1.5,57.51,32.21
+2008,228,Amgen,美国安进公司,United States,Drugs & Biotechnology,14.77,3.17,34.64,49.51
+2008,229,Eli Lilly & Co,美国礼来公司,United States,Drugs & Biotechnology,18.63,2.95,26.79,56.87
+2008,230,Old Mutual,英国耆卫保险公司,United Kingdom,Insurance,33.76,1.95,284.59,13.28
+2008,231,Veolia Environnement,法国威立雅集团,France,Utilities,37.76,1,51.15,42.78
+2008,232,Aetna,美国安泰保险金融集团,United States,Health Care Equipment & Svcs,27.6,1.83,50.06,24.62
+2008,233,Unibanco Group,联合银行集团,Brazil,Banking,15.29,1.94,84.04,27.37
+2008,234,Shinhan Financial,韩国新韩金融集团,South Korea,Banking,14.56,1.98,191.94,21.73
+2008,235,Surgutneftegas,苏尔古特石油天然气股份公司,Russia,Oil & Gas Operations,19.01,2.93,32.65,32.94
+2008,236,Millea Holdings,日本千禧控股公司,Japan,Insurance,35.35,0.79,146.22,30.7
+2008,237,JFE Holdings,日本钢铁工程控股公司,Japan,Materials,27.75,2.55,32.84,26.24
+2008,238,Toshiba,东芝集团,Japan,Technology Hardware & Equip,60.56,1.17,48.68,24.77
+2008,239,DnB NOR,挪威DNB NOR银行,Norway,Diversified Financials,13.29,2.52,272.37,19.67
+2008,240,Denso,日本电装公司,Japan,Consumer Durables,30.72,1.75,31.86,30.94
+2008,241,Lafarge,法国拉法基集团,France,Construction,22.31,1.81,39.07,30.06
+2008,242,Devon Energy,美国戴文能源公司(德逢能源),United States,Oil & Gas Operations,11.36,3.61,41.46,45.65
+2008,242,Natixis,法国Natixis银行,France,Banking,22.23,1.24,604.37,18.06
+2008,242,Sumitomo,日本住友商事株式会社,Japan,Trading Companies,26.19,1.8,71.64,18.49
+2008,245,Bank of Communications,中国交通银行,China,Banking,8.85,1.57,219.76,71.24
+2008,245,Hyundai Motor,现代汽车公司,South Korea,Consumer Durables,68.74,1.36,75.99,15.61
+2008,247,Bouygues Group,法国布伊格集团,France,Construction,34.84,1.64,39.01,23.97
+2008,248,Northrop Grumman,美国诺斯洛普格拉曼公司,United States,Aerospace & Defense,32.02,1.79,33.37,26.56
+2008,249,Cemex,墨西哥西迈克斯集团,Mexico,Construction,21.67,2.39,49.59,21.48
+2008,250,Walgreen,美国沃尔格林公司,United States,Retailing,55.08,2.07,20.48,36.2
+2008,251,Telenor,挪威电信公司,Norway,Telecommunications Services,17.01,3.31,29.08,34.79
+2008,252,TNK-BP Holding,俄罗斯TNK-BP控股公司,Russia,Oil & Gas Operations,22.77,6.58,21.71,27.82
+2008,253,Resona Holdings,日本理索纳银行,Japan,Banking,9.48,5.66,337.65,18.94
+2008,254,Diageo,英国帝亚吉欧公司,United Kingdom,Food Drink & Tobacco,15.02,2.99,26.48,52.92
+2008,254,Suncor Energy,森高能源公司,Canada,Oil & Gas Operations,18.08,2.85,24.36,47.96
+2008,256,Aflac,美国家庭人寿保险公司,United States,Insurance,15.39,1.63,65.81,30.36
+2008,257,Bristol-Myers Squibb,美国百时美施贵宝公司,United States,Drugs & Biotechnology,19.35,2.17,26.17,44.75
+2008,258,General Dynamics,美国通用动力公司,United States,Aerospace & Defense,27.24,2.07,25.73,32.92
+2008,259,Capital One Financial,美国第一资本金融公司,United States,Diversified Financials,19.13,1.57,150.59,17.16
+2008,260,Hess,美国阿美拉达赫斯公司,United States,Oil & Gas Operations,31.92,1.83,26.13,29.87
+2008,261,FedEx,联邦快递公司,United States,Transportation,36.39,2,24.35,27.27
+2008,262,Anadarko Petroleum,阿纳达科石油公司,United States,Oil & Gas Operations,11.23,3.78,48.48,29.83
+2008,262,Union Pacific,美国联合太平洋铁路公司,United States,Transportation,16.28,1.86,38.03,32.53
+2008,264,TeliaSonera Group,桑内拉电信,Sweden,Telecommunications Services,14.9,2.73,31.66,35.95
+2008,265,Centrica,英国森特理克集团,United Kingdom,Utilities,32.42,2.99,23.47,23.65
+2008,266,Standard Bank Group,标准银行集团,South Africa,Banking,18.41,1.54,137.97,17.39
+2008,267,Japan Tobacco,日本烟草公司,Japan,Food Drink & Tobacco,17.53,1.79,27.99,48.86
+2008,268,SunTrust Banks,美国太阳信托银行,United States,Banking,13.46,1.63,179.57,20.27
+2008,269,Hon Hai Precision Ind,鸿海精密集团,Taiwan,Technology Hardware & Equip,40.51,1.84,19.22,38.26
+2008,270,SEB-Skand Enskilda Bank,瑞典北欧斯安银行,Sweden,Banking,13.48,1.84,282.4,17.23
+2008,271,Bank of Ireland,爱尔兰银行,Ireland,Banking,15.46,2.21,252.39,14.19
+2008,272,EnBW-Energie Baden,EnBw能源,Germany,Utilities,21.48,1.85,41.47,20.77
+2008,273,ACE,ACE保险集团,Bermuda,Insurance,14.15,2.58,72.09,18.55
+2008,273,Kansai Electric Power,日本关西电力公司,Japan,Utilities,22.1,1.26,55.75,22.59
+2008,275,Emerson Electric,艾默生电气集团,United States,Conglomerates,23.16,2.26,20.85,40.05
+2008,276,Dominion Resources,美国道明尼资源公司,United States,Utilities,15.67,2.7,39.12,22.96
+2008,277,State Street,美国道富银行,United States,Diversified Financials,11.82,1.26,142.54,30.43
+2008,278,Banco Popular Banco Popular Espaol,西班牙宝培拉银行集团,Spain,Banking,12.66,1.84,156.45,19.21
+2008,279,Canadian Natural Res,加拿大自然资源公司,Canada,Oil & Gas Operations,11.24,2.63,36.41,40.69
+2008,280,CRH,爱尔兰CRH公司,Ireland,Construction,30.65,2.09,28.4,20.19
+2008,281,Southern Co,美国南方电力,United States,Utilities,15.35,1.73,45.79,26.41
+2008,282,Cardinal Health,美国卡地纳健康集团,United States,Drugs & Biotechnology,89.39,1.55,23.47,21.09
+2008,282,Power Corp of Canada,加拿大鲍尔集团,Canada,Diversified Financials,26.03,1.2,113.64,15.94
+2008,284,Burlington Santa Fe,北伯林顿三塔铁路公司,United States,Transportation,15.8,1.83,33.58,30.57
+2008,285,Carnival,嘉年华公司,Panama/United Kingdom,"Hotels, Restaurants & Leisure",13.03,2.41,34.18,32.93
+2008,286,Raytheon,美国雷神公司,United States,Aerospace & Defense,21.3,2.58,23.28,27.65
+2008,287,Seven & I Holdings,日本Seven&I公司,Japan,Food Markets,45.1,1.13,32,24.09
+2008,288,Husky Energy,赫斯基能源,Canada,Oil & Gas Operations,15.72,3.26,21.98,36.14
+2008,289,Erste Bank,奥地利第一储蓄银行,Austria,Banking,14.78,1.23,239.3,18.49
+2008,290,Chubb,美国丘博保险集团,United States,Insurance,14.11,2.81,50.57,18.85
+2008,291,Petro-Canada,加拿大石油公司,Canada,Oil & Gas Operations,21.88,2.76,24.04,23.25
+2008,292,Porsche,德国保时捷汽车公司,Germany,Consumer Durables,10.09,5.72,31.86,30.16
+2008,293,Ping An Insurance Group,中国平安保险集团,China,Insurance,11.28,1,63.25,67.93
+2008,294,KDDI,日本KDDI电信公司,Japan,Telecommunications Services,28.38,1.59,22.88,27.57
+2008,295,Swedbank,瑞典银行,Sweden,Banking,13.17,1.86,248.72,14.07
+2008,296,Cnooc,中国海洋石油总公司,Hong Kong/China,Oil & Gas Operations,11.16,3.88,19.89,76.06
+2008,296,PPR,法国巴黎春天百货集团,France,Retailing,28.85,1.35,40.16,17.65
+2008,298,Takeda Pharmaceutical,武田药厂,Japan,Drugs & Biotechnology,11.11,2.86,25.99,47.44
+2008,299,Groupe Danone,达能集团,France,Food Drink & Tobacco,18.57,1.78,21.78,37.45
+2008,300,Itochu,日本伊藤忠商事株式会社,Japan,Trading Companies,22.53,1.51,44.59,17.11
+2008,301,Costco Wholesale,美国好市多公司,United States,Retailing,67.91,1.19,21,26.92
+2008,302,Woori Finance Holdings,韩国友利金融控股公司,South Korea,Banking,11.28,2.19,228.92,14.63
+2008,303,Indian Oil,印度石油公司,India,Oil & Gas Operations,42.68,1.82,25.39,16.36
+2008,304,CIC Group,法国工商信贷集团,France,Banking,17.11,1.68,282.48,11.32
+2008,305,SABMiller,英国南非米勒酿酒公司,United Kingdom,Food Drink & Tobacco,14.86,1.65,28.57,31.52
+2008,306,Baoshan Iron & Steel,宝钢,China,Materials,20.15,1.67,19.26,42.16
+2008,306,Medtronic,美国美敦力公司,United States,Health Care Equipment & Svcs,12.93,2.23,21.41,55.81
+2008,308,FirstRand,第一兰特银行集团,South Africa,Banking,14.7,1.68,102.1,14.48
+2008,309,OMV Group,奥地利石油天然气集团,Austria,Oil & Gas Operations,25.03,1.82,23.41,21.72
+2008,310,Schneider Electric,施耐德电气公司,France,Capital Goods,18.11,1.73,24.13,28.18
+2008,311,PNC Financial Services,PNC金融服务集团,United States,Banking,10.08,1.47,138.92,20.95
+2008,312,Apache,阿帕奇,United States,Oil & Gas Operations,9.98,2.81,28.63,38.19
+2008,313,FPL Group,美国佛罗理达电力照明公司,United States,Utilities,15.26,1.31,40.12,24.56
+2008,314,MMC Norilsk Nickel,俄罗斯诺里尔斯克镍公司,Russia,Materials,11.93,6.19,16.28,51.45
+2008,315,BB&T,美国BB&T公司,United States,Banking,10.67,1.73,132.62,17
+2008,316,Duke Energy,美国杜克能源公司,United States,Utilities,12.72,1.53,49.72,22.14
+2008,317,Johnson Controls,美国约翰逊控制公司,United States,Consumer Durables,35.9,1.33,23.8,19.51
+2008,318,Christian Dior,法国克里斯汀迪奥公司,France,Household & Personal Products,21.13,1.05,42.66,19.6
+2008,319,SAP,德国SAP公司,Germany,Software & Services,14.96,2.81,14.93,57.77
+2008,320,Mitsubishi Electric,日本三菱电机股份有限公司,Japan,Capital Goods,32.81,1.05,27.84,20.1
+2008,321,Liberty Media,自由媒体集团,United States,Retailing,9.42,2.11,45.65,23.55
+2008,322,Anheuser-Busch Cos,美国安豪泽布施公司,United States,Food Drink & Tobacco,16.69,2.12,17.16,34.56
+2008,323,Kroger,美国克罗格公司,United States,Food Markets,69.86,1.24,21.9,16.38
+2008,324,Ahold,荷兰阿霍德集团,Netherlands,Food Markets,59.2,1.24,23.63,15.79
+2008,325,BOC Hong Kong,中国银行(香港)有限公司,Hong Kong/China,Banking,6.9,1.8,119.39,26.5
+2008,326,McKesson,美国麦克森公司,United States,Drugs & Biotechnology,99.64,0.94,25.37,16.97
+2008,326,Qualcomm,美国高通公司,United States,Technology Hardware & Equip,9.29,3.42,18.35,68.34
+2008,328,Kimberly-Clark,美国金佰利公司,United States,Household & Personal Products,18.27,1.82,18.44,27.39
+2008,329,Linde,德国林德公司,Germany,Conglomerates,10.18,2.05,36.55,21.81
+2008,330,EMC,美国易安信公司,United States,Technology Hardware & Equip,13.23,1.67,22.28,32.64
+2008,331,Scottish & Southern,南苏格兰电力公司,United Kingdom,Utilities,23.36,1.63,17.72,25.42
+2008,332,Taiwan Semiconductor,台湾积体电路制造股份有限公司,Taiwan,Semiconductors,9.95,3.37,17.61,52.66
+2008,333,Areva Group,法国阿海珐集团,France,Materials,14.33,0.86,33.01,37.78
+2008,334,Merck,美国默克集团,Germany,Drugs & Biotechnology,9.66,4.79,21.28,27.12
+2008,335,Viacom,美国维亚康姆集团,United States,Media,13.42,1.84,22.9,25.48
+2008,336,China Shenhua Energy,神华集团,China,Materials,8.23,2.24,20.69,134.73
+2008,336,SK Holdings,韩国SK集团,South Korea,Oil & Gas Operations,60.84,1.51,50.72,8.53
+2008,338,Marubeni,日本丸红株式会社,Japan,Trading Companies,31.14,1.02,41.02,13.5
+2008,339,United Parcel Service,UPS公司,United States,Transportation,49.69,0.38,39.04,73.81
+2008,340,Transocean,Transocean公司,Cayman Islands,Oil & Gas Operations,6.38,3.13,34.36,44.57
+2008,341,Gas Natural Group,西班牙天然气公司,Spain,Utilities,14.73,1.4,22.51,27.32
+2008,341,MAN,德国曼恩集团,Germany,Capital Goods,22.63,1.79,19.19,19.47
+2008,343,Regions Financial,[[]],United States,Banking,10.93,1.25,141.04,14.7
+2008,344,DBS Group,星展银行,Singapore,Banking,7.75,1.58,162.42,18.86
+2008,345,Aire Liquide Group,法国液化空气集团,France,Chemicals,14.44,1.32,20.97,34.08
+2008,346,Carso Global Telecom,墨西哥Carso全球电信公司,Mexico,Telecommunications Services,18,1.79,27.77,15.25
+2008,346,Teva Pharmaceutical Inds,梯瓦制药,Israel,Drugs & Biotechnology,9.41,1.95,23.41,39.32
+2008,348,Fujitsu,富士通集团,Japan,Technology Hardware & Equip,43.4,0.87,32.95,14.99
+2008,349,Sasol,南非萨索尔公司,South Africa,Oil & Gas Operations,13.91,2.41,16.76,32.65
+2008,350,Deutsche Lufthansa,德国汉莎集团,Germany,Transportation,32.7,2.42,25.47,10.75
+2008,351,Banca MPS,意大利西雅那银行,Italy,Banking,10.89,1.2,208.32,13.83
+2008,352,EDP-Energias de Portugal,葡萄牙电力,Portugal,Utilities,13.65,1.24,32.41,21.39
+2008,353,Chubu Electric Power,日本中部电力公司,Japan,Utilities,18.84,0.77,47.47,19.74
+2008,354,Lincoln National,林肯国民集团,United States,Insurance,10.59,1.22,191.44,13.76
+2008,355,Halliburton,美国哈利伯顿公司,United States,Oil & Gas Operations,15.26,3.5,13.14,33.71
+2008,356,Bridgestone,普利司通轮胎公司,Japan,Consumer Durables,30.31,1.18,28.85,13.63
+2008,356,FirstEnergy,美国第一能源,United States,Utilities,12.8,1.31,32.07,20.6
+2008,358,Pub Svc Enterprise,公共服务,United States,Utilities,12.85,1.34,28.39,22.42
+2008,359,Singapore Telecom,新加坡电信公司,Singapore,Telecommunications Services,8.67,2.49,20.83,43.96
+2008,360,Central Japan Railway,中日本铁路,Japan,Transportation,12.69,1.17,42.66,18.92
+2008,361,Sharp,日本夏普公司,Japan,Technology Hardware & Equip,26.62,0.87,25.26,20.38
+2008,362,CBS,美国哥伦比亚广播公司,United States,Media,14.07,1.25,40.43,15.53
+2008,363,Acciona,阿驰奥纳建筑集团,Spain,Construction,10.88,1.34,52.9,16.3
+2008,364,National Bank of Greece,希腊国家银行,Greece,Banking,6.76,1.31,100.67,26.08
+2008,365,QBE Insurance Group,QBE保险公司,Australia,Insurance,10.06,1.69,34.61,18.71
+2008,366,American Electric,美国电气控制有限公司,United States,Utilities,13.38,1.17,40.37,16.39
+2008,367,Illinois Tool Works,美国伊利诺伊工具制品集团有限公司,United States,Capital Goods,16.17,1.87,15.53,25.86
+2008,368,Best Buy,百思买集团,United States,Retailing,39.5,1.43,15.47,18.04
+2008,368,Texas Instruments,德州仪器,United States,Semiconductors,13.83,2.66,12.67,39.74
+2008,370,Orix,欧力士,Japan,Diversified Financials,9.09,1.67,69.61,14.11
+2008,371,Türkiye Is Bankasi,土耳其银行,Turkey,Banking,12.53,1.26,61.19,12.89
+2008,372,KT,韩国电信公司,South Korea,Telecommunications Services,19.18,1.4,26.12,13.74
+2008,373,Sumitomo Metal Inds,住友金属工业公司,Japan,Materials,13.64,1.93,19.52,19.72
+2008,374,Icici Bank,印度工业信贷投资银行,India,Banking,9.84,0.64,91.07,29.85
+2008,375,China Netcom Group,中国网通,Hong Kong/China,Telecommunications Services,10.91,1.63,25.66,21.09
+2008,376,Medco Health,美国美可保健公司,United States,Health Care Equipment & Svcs,44.51,0.91,16.22,23.22
+2008,377,Entergy,安特吉公,United States,Utilities,11.48,1.16,33.64,19.85
+2008,378,DirecTV Group,美国直播电视集团有限公司,United States,Media,17.25,1.45,15.06,28.79
+2008,378,United Overseas Bank,新加坡大华银行,Singapore,Banking,6.44,1.47,121.66,19.69
+2008,380,Sampo,声宝,Finland,Insurance,7.47,4.89,36.27,15.71
+2008,381,Cigna,信诺集团,United States,Health Care Equipment & Svcs,17.62,1.12,40.07,12.49
+2008,382,EFG Eurobank Ergasias,欧银耳嘎斯银行,Greece,Banking,9.5,1.12,100.68,15.13
+2008,383,Grupo Ferrovial,西班牙法罗里奥集团,Spain,Construction,21.36,1.07,73.8,9.24
+2008,384,Akbank,Akbank银行,Turkey,Banking,8.17,1.56,61.54,16.26
+2008,385,Principal Financial,美国信安金融集团,United States,Diversified Financials,10.91,0.86,154.52,14.27
+2008,386,UBS,瑞银集团,Switzerland,Diversified Financials,116.98,-3.65,"2,019.17",68.26
+2008,387,Edison International,爱迪生国际公司,United States,Utilities,13.11,1.1,37.56,16.1
+2008,387,Thomson Corp,加拿大汤姆森集团,Canada,Media,7.81,4.29,22.83,21.38
+2008,387,Vattenfall Europe,瓦腾福欧洲,Germany,Utilities,14.68,1.22,24.45,18.18
+2008,390,Westfield Group,西田集团,Australia,Diversified Financials,5.18,3.02,44.44,31.79
+2008,391,Finmeccanica,意大利芬梅卡尼卡集团,Italy,Aerospace & Defense,16.45,1.3,30.23,13.16
+2008,392,Sears Holdings,美国西尔斯公司,United States,Retailing,50.7,0.83,27.4,12.66
+2008,393,Akzo Nobel,荷兰阿克苏诺贝尔公司,Netherlands,Chemicals,18.12,1.52,15.61,21.15
+2008,393,Fortum,芬兰富腾集团,Finland,Utilities,6.54,2.27,25.8,37.29
+2008,395,Woolworths,澳大利亚伍尔沃斯公司,Australia,Food Markets,36.09,1.1,11.94,32.94
+2008,396,Komatsu,日本小松公司,Japan,Capital Goods,16.11,1.4,15.52,26.08
+2008,397,Jardine Matheson,香港怡和集团,Hong Kong/China,Food Markets,16.26,1.35,20.26,17.29
+2008,398,Reed Elsevier,里德·爱思唯尔集团,United Kingdom/Netherlands,Media,9.18,2.4,19.31,25.71
+2008,399,International Paper,美国国际纸业公司,United States,Materials,21.89,1.17,24.16,13.56
+2008,400,Hyundai Heavy Industries,韩国现代重工集团,South Korea,Capital Goods,17.84,0.76,20.02,30.88
+2008,401,Baxter International,美国百特国际有限公司,United States,Health Care Equipment & Svcs,11.26,1.71,15.29,37.44
+2008,402,Canadian National,加拿大国家铁路公司,Canada,Transportation,7.96,2.18,23.65,25.79
+2008,403,Raiffeisen International Bank-Holding,瑞福森银行,Austria,Banking,6.32,1.56,73.61,20.05
+2008,404,Alstom,法国阿尔斯通公司,France,Conglomerates,18.99,0.6,24.68,30.09
+2008,405,SK Energy,韩国SK能源公司,South Korea,Oil & Gas Operations,29.69,1.77,16.8,12.7
+2008,405,Türkiye Garanti Bankasi,土耳其担保银行,Turkey,Banking,8.13,1.85,65.48,12.69
+2008,407,Vodafone,英国沃达丰公司,United Kingdom,Telecommunications Services,61.23,-10.59,214.97,171.94
+2008,408,Norsk Hydro,挪威水电公司,Norway,Conglomerates,17.35,1.61,16.93,17.32
+2008,409,Mapfre,马弗雷保险,Spain,Insurance,16.97,1,54.87,10.33
+2008,410,Macquarie Group,澳大利亚麦格理集团,Australia,Diversified Financials,8.23,1.21,110.16,13.77
+2008,411,LG Corp,LG集团,South Korea,Conglomerates,70.89,0.5,53.79,12.24
+2008,411,NTPC,印度国家火电公司,India,Utilities,7.84,1.6,20.34,41.57
+2008,413,Severstal,俄罗斯北方钢铁,Russia,Materials,12.76,1.21,18.78,26.2
+2008,414,Norfolk Southern,美国诺福克南方铁路公司,United States,Transportation,9.43,1.46,26.14,19.9
+2008,415,Genworth Financial,美林证券将保险公司,United States,Insurance,11.13,1.22,114.32,10.03
+2008,416,AU Optronics,友达光电,Taiwan,Technology Hardware & Equip,14.81,1.74,18.99,15.44
+2008,417,TransCanada,横加公司,Canada,Utilities,8.9,1.23,30.57,21.8
+2008,418,CSX,美国CSX运输公司,United States,Transportation,10.03,1.34,25.53,19.57
+2008,419,Cadbury Schweppes,吉百利史威士,United Kingdom,Food Drink & Tobacco,15.82,0.8,22.25,23.64
+2008,419,NIKE,耐克公司,United States,Household & Personal Products,17.3,1.72,11.45,29.93
+2008,421,Brookfield Asset Mgmt,布鲁克菲尔德资产管理公司,Canada,Diversified Financials,10,0.84,55.6,17.33
+2008,422,Chesapeake Energy,切萨皮克能源公司,United States,Oil & Gas Operations,7.8,1.45,30.73,23.11
+2008,423,Rolls-Royce Group,英国劳斯莱斯集团,United Kingdom,Aerospace & Defense,14.75,1.2,22.58,15.74
+2008,424,Standard Life,英国标准人寿保险公司,United Kingdom,Insurance,28.28,0.55,257.99,9.47
+2008,425,Bunge,美国邦奇公司,Bermuda,Food Drink & Tobacco,44.8,0.78,22.02,13.4
+2008,426,Air France-KLM Group,法航荷航集团,France,Transportation,30.85,1.19,35.62,8.17
+2008,427,China Merchants Bank,中国招商银行,China,Banking,4.84,0.87,119.34,63.65
+2008,428,Formosa Petrochemical,台塑石化股份有限公司,Taiwan,Oil & Gas Operations,16.31,1.36,13.47,26.03
+2008,429,Mitsui Sumitomo Ins,日本三井住友保险公司,Japan,Insurance,17.92,0.52,76.65,15.14
+2008,430,Charles Schwab,嘉信理财,United States,Diversified Financials,5.62,2.41,42.3,22.73
+2008,431,Merrill Lynch,美林公司,United States,Diversified Financials,62.68,-7.78,"1,020.05",48.02
+2008,432,PG&E,太平洋煤气电力,United States,Utilities,13.24,1.01,36.65,13.4
+2008,433,Xerox,施乐公司,United States,Business Services & Supplies,17.23,1.14,23.54,13.49
+2008,434,Continental,德国大陆轮胎公司,Germany,Consumer Durables,24.26,1.49,14.14,15.97
+2008,435,AMP,澳大利亚AMP公司,Australia,Diversified Financials,9.37,0.86,94.83,14.12
+2008,436,Swiss Life Holding,瑞士人寿保险公司,Switzerland,Insurance,17.04,0.76,152.37,8.8
+2008,437,Saudi Telecommunications,沙特电信公司,Saudi Arabia,Telecommunications Services,9.01,3.41,12.3,39.12
+2008,438,Anglo Irish Bank,盎格鲁爱尔兰银行,Ireland,Banking,7.95,1.42,137.61,10.83
+2008,439,Henkel Group,德国汉高集团,Germany,Household & Personal Products,16.81,1.13,17.13,19.19
+2008,440,Danaher,美国丹纳赫集团,United States,Conglomerates,11.03,1.37,17.47,23.6
+2008,441,Constellation Energy,美国联合能源公司,United States,Utilities,21.19,0.82,21.95,15.76
+2008,442,Svenska Handelsbanken,瑞典商业银行,Sweden,Banking,4.35,2.4,287.61,17.53
+2008,443,Accenture,埃森哲咨询公司,Bermuda,Software & Services,22.39,1.34,10.75,26.58
+2008,444,Qwest Communications,美国奎斯特通讯公司,United States,Telecommunications Services,13.78,2.92,22.53,9.54
+2008,444,Williams Cos,威廉公司,United States,Utilities,10.56,0.99,25.06,21.07
+2008,446,Fifth Third Bancorp,五三银行公司,United States,Banking,8.49,1.08,110.96,12.2
+2008,447,St George Bank,澳大利亚圣乔治银行,Australia,Banking,8.23,1.05,111.33,12.41
+2008,448,Monsanto,孟山都公司,United States,Chemicals,9.12,1.16,15.31,63.39
+2008,449,Mitsubishi Estate,三菱地所股份有限公司,Japan,Diversified Financials,8.06,0.83,29.29,34.61
+2008,450,Pernod Ricard,法国保乐力加集团,France,Food Drink & Tobacco,8.72,1.12,25.21,23.43
+2008,451,Cepsa,西班牙石油公司,Spain,Oil & Gas Operations,23.18,1.11,11.38,27.8
+2008,452,WPP,WPP集团,United Kingdom,Media,12.27,0.92,34.12,14.02
+2008,453,Macy's,美国梅西百货公司,United States,Retailing,26.31,0.89,27.79,10.36
+2008,454,Barrick Gold,巴里克黄金公司,Canada,Materials,6.78,1.2,21.95,45.51
+2008,455,Colgate-Palmolive,高露洁公司,United States,Household & Personal Products,13.79,1.74,10.11,38.79
+2008,456,Nippon Oil,新日本石油公司,Japan,Oil & Gas Operations,47.59,0.6,37.18,10.13
+2008,457,Automatic Data,美国自动化数据处理公司,United States,Business Services & Supplies,8.31,1.17,27.55,20.88
+2008,458,Safeway,美国西夫韦公司,United States,Food Markets,42.29,0.89,17.65,12.65
+2008,458,Sempra Energy,塞莫拉能源,United States,Utilities,11.44,1.1,30.09,13.88
+2008,460,Waste Management,伟士废物垃圾处理公司,United States,Business Services & Supplies,13.31,1.16,20.18,16.26
+2008,461,CEZ,策斯发电,Czech Republic,Utilities,7.65,1.33,17.64,43.86
+2008,462,Paccar,美国帕卡公司,United States,Capital Goods,15.22,1.23,17.23,15.91
+2008,462,Reckitt Benckiser Group,雷基特(利洁时),United Kingdom,Household & Personal Products,10.45,1.86,11.43,38.64
+2008,464,Nintendo,任天堂公司,Japan,Technology Hardware & Equip,8.23,1.48,13.29,65.6
+2008,465,Ameriprise Financial,阿默普莱斯金融,United States,Diversified Financials,8.65,0.97,109.85,11.74
+2008,465,General Mills,美国通用磨坊食品公司,United States,Food Drink & Tobacco,12.89,1.07,19.08,18.86
+2008,467,Oversea-Chinese Banking,华侨银行,Singapore,Banking,5.08,1.44,121.39,17.18
+2008,468,Shin-Etsu Chemical,信越化学公司,Japan,Chemicals,11.1,1.31,15.61,23.74
+2008,469,Talisman Energy,塔里斯曼能源集团,Canada,Oil & Gas Operations,7.83,2.09,21.62,17.4
+2008,470,Imperial Tobacco Group,英国帝国烟草集团,United Kingdom,Food Drink & Tobacco,6.69,1.85,18.28,31.54
+2008,471,Michelin Group,米其林集团,France,Consumer Durables,21.61,0.75,20.94,14.33
+2008,472,Sun Hung Kai Properties,新鸿基地产集团,Hong Kong/China,Diversified Financials,3.96,2.71,32.91,45.82
+2008,473,Heineken Holding,喜力,Netherlands,Food Drink & Tobacco,18.34,1.18,18.44,12.52
+2008,474,Marsh & McLennan,美国威达信集团公司,United States,Insurance,11.35,2.48,17.16,13.24
+2008,475,Scania,斯堪尼亚汽车公司,Sweden,Capital Goods,13.7,1.32,14.15,19.51
+2008,476,SCA-Svenska Cellulosa,赛露罗莎纸业,Sweden,Household & Personal Products,16.38,1.1,22.44,11.6
+2008,477,HeidelbergCement,海德堡水泥,Germany,Construction,12.18,1.25,16.08,19.23
+2008,478,Mitsubishi Heavy Inds,日本三菱重工业股份有限公司,Japan,Capital Goods,26.11,0.42,37.32,16.09
+2008,479,Sandvik,山特维克,Sweden,Capital Goods,13.35,1.41,13.22,20.28
+2008,480,MGM Mirage,美国米高梅公司,United States,"Hotels, Restaurants & Leisure",7.69,1.58,22.73,18.09
+2008,481,Daiwa Securities,大和证券集团,Japan,Diversified Financials,7.81,0.79,122.53,13.26
+2008,482,Fannie Mae,美国房利美公司,United States,Diversified Financials,44.77,-2.04,882.55,27.05
+2008,483,Suncorp-Metway,新科-美威,Australia,Diversified Financials,8.36,0.9,72.13,12.03
+2008,484,Weyerhaeuser,惠好公司,United States,Materials,16.31,0.79,23.81,12.92
+2008,485,Banco de Sabadell,西班牙萨瓦德尔银行集团,Spain,Banking,6.8,1.14,112.08,11.33
+2008,486,Progressive,美国前进保险公司,United States,Insurance,14.69,1.18,18.84,12.43
+2008,487,Coca-Cola Enterprises,可口可乐公司,United States,Food Drink & Tobacco,20.94,0.71,24.05,11.91
+2008,488,Resolution,雷塞卢公司,United Kingdom,Insurance,8.17,1.03,121.67,9.42
+2008,489,Reynolds American,雷诺士美国公司,United States,Food Drink & Tobacco,9.02,1.31,18.63,18.8
+2008,489,Sumitomo Trust & Banking,日本三井住友金融集团,Japan,Banking,7.1,0.88,178.51,11.55
+2008,491,Royal & Sun Alliance,皇家太阳联合保险集团,United Kingdom,Insurance,12.76,1.18,37.14,8.54
+2008,492,Eletrobrás,巴西中央电力,Brazil,Utilities,9.2,0.54,56.62,18.08
+2008,493,Orkla,奥克拉食品,Norway,Food Drink & Tobacco,11.75,1.55,17.44,13.1
+2008,494,Consolidated Edison,统一爱迪生,United States,Utilities,13.12,0.94,28.34,11.13
+2008,495,Thermo Fisher,赛默飞世尔科技,United States,Health Care Equipment & Svcs,9.75,0.76,21.21,23.41
+2008,496,BCP-Banco Com Português,BCP-Bco公司,Portugal,Banking,8.07,0.82,127.76,10.47
+2008,496,J Sainsbury,英国桑斯博里公司,United Kingdom,Food Markets,33.76,0.64,18.85,12.32
+2008,498,Alpha Bank Group,阿法银行,Greece,Banking,5.97,1.24,79.58,12.38
+2008,499,Ricoh,日本理光集团,Japan,Technology Hardware & Equip,17.61,0.95,18.79,11.99
+2008,500,Banco Popolare,意大利大众银行,Italy,Banking,5.74,1.35,90.14,12.19
+2008,500,Omnicom Group,Omnicom集团,United States,Media,12.69,0.98,19.27,14.32
+2008,502,Mitsui Fudosan,三井不动产日本工程建筑,Japan,Diversified Financials,10.46,0.64,27.79,18.41
+2008,503,Sysco,美国西斯科公司,United States,Food Markets,36.45,1.06,9.95,16.94
+2008,504,UBI Banca,伦巴第银行,Italy,Banking,6.09,0.85,97.46,15.09
+2008,505,Textron,美国得事隆公司,United States,Conglomerates,13.23,0.92,19.96,13.47
+2008,506,VTB Bank,俄罗斯外贸银行,Russia,Banking,4.44,1.17,52.31,25.89
+2008,507,Inpex Holdings,日本国际石油开发帝石控股公司,Japan,Oil & Gas Operations,8.25,1.4,13.68,26.94
+2008,508,Wolseley,英国沃斯利集团,United Kingdom,Trading Companies,33.04,0.97,20.29,8.18
+2008,509,Peugeot Groupe,标致汽车公司,France,Consumer Durables,74.66,0.23,90.39,17.98
+2008,509,Suzuki Motor,铃木汽车公司,Japan,Consumer Durables,26.92,0.64,19.07,12.39
+2008,511,Hitachi,日立集团,Japan,Technology Hardware & Equip,87.21,-0.28,88.22,24.46
+2008,512,Corning,美国康宁公司,United States,Technology Hardware & Equip,5.86,2.15,15.22,36.58
+2008,512,Tenaris,特纳瑞斯,Luxembourg,Oil & Gas Operations,8.05,1.98,12.3,26.38
+2008,514,Syngenta,先正达公司,Switzerland,Chemicals,9.77,1.17,12.59,29.88
+2008,515,XTO Energy,美国克洛斯提柏石油公司,United States,Oil & Gas Operations,5.51,1.69,18.92,31.49
+2008,516,Toyota Tsusho,丰田通商株式会社,Japan,Trading Companies,52.87,0.66,20.89,9.07
+2008,517,Nucor,纽克钢铁,United States,Materials,16.59,1.47,9.83,18.6
+2008,518,Landesbank Berlin,柏林州立银行,Germany,Banking,7.65,0.87,185.78,9.1
+2008,519,T&D Holdings,T&D控股,Japan,Insurance,18.7,0.33,119.91,12.82
+2008,520,Edison,意大利Edison国际公司,Italy,Utilities,11.24,0.86,20.52,14.87
+2008,521,Praxair,美国普莱克斯公司,United States,Chemicals,9.4,1.18,13.38,25.15
+2008,522,MTN Group,南非MTN集团,South Africa,Telecommunications Services,7.35,1.51,13.44,29.72
+2008,523,Sompo Japan Insurance,日本财产保险公司,Japan,Insurance,16.02,0.53,59.51,9.32
+2008,524,Sistema JSFC,西斯特能源,Russia,Telecommunications Services,11.16,0.84,20.06,15.34
+2008,525,MOL,牙利石油天然气公司,Hungary,Oil & Gas Operations,15.18,1.73,11.26,13.79
+2008,526,Aeon,日本永旺集团,Japan,Retailing,40.77,0.49,29.48,9.42
+2008,527,Mitsubishi Chemical,日本三菱化学公司,Japan,Chemicals,22.32,0.85,19.59,9.4
+2008,528,Fresenius,德国费森尤斯集团,Germany,Health Care Equipment & Svcs,16.58,0.6,22.37,13.1
+2008,529,Deutsche Boerse,德意志交易所集团,Germany,Diversified Financials,3.19,1.33,133.41,30.88
+2008,530,Mitsui OSK Lines,日本商船三井株式会社,Japan,Transportation,13.35,1.03,13.93,16.01
+2008,530,National Oilwell Varco,国民油井华高,United States,Oil & Gas Operations,9.79,1.34,12.11,22.23
+2008,532,Ford Motor,福特汽车公司,United States,Consumer Durables,172.46,-2.72,279.26,14.41
+2008,533,Kyocera,日本京瓷公司,Japan,Semiconductors,10.93,0.91,18.13,15.74
+2008,534,Mediobanca,米兰投资银行,Italy,Diversified Financials,4.41,1.29,78.07,15.85
+2008,535,US Steel,美国钢铁公司,United States,Materials,16.87,0.88,15.63,12.78
+2008,536,Aluminum Corp of China,中国铝业股份有限公司,China,Materials,7.93,1.5,9.94,51.08
+2008,537,Portugal Telecom,葡萄牙电信,Portugal,Telecommunications Services,8.98,1.08,17.54,17.33
+2008,538,EADS,欧洲航空防务航天公司,Netherlands,Aerospace & Defense,52.02,0.13,92.25,21.54
+2008,538,KeyCorp,美国科凯国际集团,United States,Banking,7.87,0.92,99.98,8.79
+2008,538,Telus,泰勒斯电信,Canada,Telecommunications Services,9.15,1.27,17.12,14.88
+2008,541,Applied Materials,美国应用材料公司,United States,Semiconductors,9.54,1.57,10.35,26.49
+2008,542,Freddie Mac,美国弗雷迪马克公司,United States,Diversified Financials,43.1,-3.09,794.37,16.27
+2008,542,Singapore Airlines,新加坡航空公司,Singapore,Transportation,9.55,1.4,17.13,13.05
+2008,544,Sumitomo Chemical,住友化学工业株式会社,Japan,Chemicals,15.23,0.8,19.69,11.58
+2008,545,Ingersoll-Rand,美国英格索兰,Bermuda,Conglomerates,8.76,3.97,14.38,11.4
+2008,545,Wilmar International,新加坡丰益国际,Singapore,Food Drink & Tobacco,16.47,0.58,15.51,20.1
+2008,547,Enbridge,加拿大Enbridge公司,Canada,Oil & Gas Operations,12.02,0.71,19.88,15.26
+2008,548,Tyco Electronics,泰科集团,Bermuda,Technology Hardware & Equip,14.04,0.49,24.97,16.04
+2008,549,Toyota Industries,日本丰田自动织机公司,Japan,Consumer Durables,15.99,0.51,30.45,12.08
+2008,550,JC Penney,美国彭尼公司,United States,Retailing,19.86,1.11,14.31,10.24
+2008,551,Compass Group,英国金巴斯集团,United Kingdom,Business Services & Supplies,20.96,1.05,12.64,12.13
+2008,551,H&M Hennes & Mauritz,瑞典H&M公司,Sweden,Retailing,12.31,2.13,6.42,46.81
+2008,553,Hana Financial Group,韩国韩亚金融集团,South Korea,Banking,5.97,1.11,125.37,9.48
+2008,554,Kirin Holdings,麒麟控股株式会社,Japan,Food Drink & Tobacco,11.60 E,0.6,21.77,16.69
+2008,555,Kobe Steel,日本神户钢铁公司,Japan,Materials,16.26,0.93,18.9,9.57
+2008,555,Sumitomo Electric,日本住友电气工业株式会社,Japan,Capital Goods,20.29,0.65,17.96,11.89
+2008,557,Hynix Semiconductor,现代半导体,South Korea,Semiconductors,8.35,2.22,16.42,12.01
+2008,558,China Unicom,中国联通公司,Hong Kong/China,Telecommunications Services,11.83,0.47,18.71,30.01
+2008,559,PPL,美国PPL公司,United States,Utilities,6.5,1.33,19.97,16.94
+2008,560,TNT,荷兰TNT快递公司,Netherlands,Transportation,15.89,1.44,10.05,14.68
+2008,561,CCCC-China Communications Construction,中国交通建设集团有限公司,China,Construction,14.71,0.41,15.87,39.54
+2008,562,Air Prods & Chems,美国空气化工产品有限公司,United States,Chemicals,10.24,1.07,13.01,19.59
+2008,562,Richemont,瑞士历峰集团,Switzerland,Household & Personal Products,6.32,1.74,12.18,33.45
+2008,564,Kyushu Electric Power,日本九州电力公司,Japan,Utilities,11.98,0.56,33.48,11.98
+2008,565,Nan Ya Plastic,南亚美洲公司,Taiwan,Chemicals,8.37,1.46,13.3,18.3
+2008,566,Novo Nordisk,诺和诺德,Denmark,Drugs & Biotechnology,8.19,1.67,8.85,42.65
+2008,567,Kellogg,美国家乐氏公司,United States,Food Drink & Tobacco,11.78,1.1,11.4,19.73
+2008,568,Evraz Group,俄罗斯耶弗拉兹集团,Luxembourg,Materials,8.92,1.49,9.29,33.36
+2008,569,Asahi Glass,日本旭硝子公司,Japan,Construction,15.03,0.62,18.62,13.71
+2008,570,Solvay Group,比利时苏威集团,Belgium,Chemicals,13.97,1.14,15.56,10.7
+2008,571,Abertis,阿伯提斯交通,Spain,Transportation,5.28,1,30.41,20.29
+2008,572,Baker Hughes,美国贝克休斯公司,United States,Oil & Gas Operations,10.43,1.51,9.86,20.82
+2008,573,General Motors,通用汽车公司,United States,Consumer Durables,181.12,-38.73,148.88,13.18
+2008,574,CLP Holdings,中电控股有限公司,Hong Kong/China,Utilities,6.51,1.36,16.97,19.04
+2008,574,Rogers Communications,加拿大罗杰斯通信公司,Canada,Telecommunications Services,10.2,0.64,15.45,25.37
+2008,576,Marks & Spencer,英国马克斯思班塞公司,United Kingdom,Retailing,16.91,1.3,10.57,12.93
+2008,577,Humana,美国哈门那公司,United States,Health Care Equipment & Svcs,25.29,0.83,12.88,11.63
+2008,578,Cathay Financial,国泰金融控股股份有限公司,Taiwan,Insurance,7.97,0.32,105.77,24.01
+2008,578,Sprint Nextel,美国斯普林特Nextel公司,United States,Telecommunications Services,40.15,-29.58,64.11,20.22
+2008,580,Electronic Data Sys,美国电子数据系统公司,United States,Software & Services,22.13,0.72,19.22,8.82
+2008,580,Fujifilm Holdings,富士胶片公司,Japan,Consumer Durables,23.68,0.29,27.79,19.63
+2008,582,Femsa,墨西哥芬莎公司,Mexico,Food Drink & Tobacco,13.51,0.78,15.07,14.26
+2008,583,Tohoku Electric Power,日本东北电力公司,Japan,Utilities,14.71,0.45,33.31,11.47
+2008,584,Swisscom,瑞士电信,Switzerland,Telecommunications Services,7.91,1.31,12.71,19.76
+2008,585,Kohl's,美国柯尔百货公司,United States,Retailing,16.47,1.08,10.56,13.94
+2008,585,Northern Trust,美国北美信托银行有限公司,United States,Banking,5.4,0.73,67.61,14.92
+2008,587,Zain Group,科威特移动电信集团,Kuwait,Telecommunications Services,5.91,1.13,15.97,28.25
+2008,588,Fondiaria-SAI,房地亚保险,Italy,Insurance,14.7,0.63,53.07,6.92
+2008,588,Unum Group,尤拉-普诚保险,United States,Insurance,10.52,0.68,52.43,7.95
+2008,590,Wm Morrison Supermarkets,英国威廉莫里斯超市连锁公司,United Kingdom,Food Markets,24.43,0.49,14.45,15.9
+2008,591,Weatherford Intl,威德福国际,Bermuda,Oil & Gas Operations,7.83,1.07,13.19,23.38
+2008,592,Industrial Bank of Korea,韩国工业银行,South Korea,Banking,7.56,1.13,114.33,6.62
+2008,593,Kaupthing Bank,考普兴银行,Iceland,Banking,6.24,1.11,86.35,8.09
+2008,594,Staples,美国史泰博公司,United States,Retailing,19.37,1,9.04,15.73
+2008,595,Aisin Seiki,日本爱信精机公司,Japan,Consumer Durables,20.24,0.57,17.14,11.5
+2008,595,Aon,美国怡安保险经纪公司,United States,Insurance,7.47,0.86,24.95,12.71
+2008,597,L-3 Communications,L-3通讯控股股份,United States,Aerospace & Defense,13.96,0.76,14.39,13.01
+2008,597,Land Securities Group,兰德证券集团,United Kingdom,Diversified Financials,3.23,6.95,37.29,14.61
+2008,599,Sun Microsystems,美国Sun公司,United States,Technology Hardware & Equip,13.95,0.75,14.48,13
+2008,600,Softbank,日本软件银行,Japan,Software & Services,21.65,0.25,35.34,21.54
+2008,601,Nippon Yusen,日本邮船公司,Japan,Transportation,18.42,0.55,18.09,11.61
+2008,602,Grupo Mexico,墨西哥铜业集团,Mexico,Materials,7.28,1.68,12.15,17.95
+2008,603,Nexen,奈克森石油,Canada,Oil & Gas Operations,6.59,1.09,17.95,16.57
+2008,604,Astellas Pharma,安斯泰来制药,Japan,Drugs & Biotechnology,7.83,1.12,12.2,22.15
+2008,605,Assoc British Foods,联合英国食品,United Kingdom,Food Drink & Tobacco,13.88,0.75,13.93,13.36
+2008,606,Cheung Kong,长江实业(集团)有限公司,Hong Kong/China,Diversified Financials,1.58,2.32,32.12,35.42
+2008,606,Transneft,俄罗斯国家石油管道运输公司,Russia,Oil & Gas Operations,7.69,1.96,21.87,8.15
+2008,608,Eaton,意艾通,United States,Capital Goods,13.03,0.99,13.43,11.81
+2008,609,Hypo Real Estate,德国国际房地产投资银行,Germany,Diversified Financials,10.33,0.72,208.65,5.78
+2008,609,Inditex,Inditex集团,Spain,Household & Personal Products,10.66,1.3,7.35,32.5
+2008,609,Murphy Oil,美国墨菲石油公司,United States,Oil & Gas Operations,18.44,0.77,10.54,15.21
+2008,612,Teck Cominco,泰克柯明柯,Canada,Materials,6.42,1.58,13.61,17.72
+2008,613,BlackRock,黑石集团 (BlackRock),United States,Diversified Financials,4.84,1,22.56,22.66
+2008,614,Chunghwa Telecom,中华电信股份有限公司,Taiwan,Telecommunications Services,5.66,1.38,14.14,24.24
+2008,615,China Citic Bank,中信银行,China,Banking,4.01,0.49,90.23,40.04
+2008,616,Clear Channel Commun,美国清晰频道通信公司,United States,Media,6.82,0.94,18.81,15.93
+2008,617,Calpine,卡尔派,United States,Utilities,7.97,2.69,18.48,7.89
+2008,618,Motorola,摩托罗拉公司,United States,Technology Hardware & Equip,36.62,-0.05,34.81,22.48
+2008,619,TDC Group,丹麦电信,Denmark,Telecommunications Services,7.7,1.65,15.52,11.3
+2008,620,Seagate Technology,美国希捷公司,Cayman Islands,Technology Hardware & Equip,12.28,1.51,10.62,11.37
+2008,621,Al Rajhi Bank,沙特拉吉哈银行,Saudi Arabia,Banking,2.76,1.95,28.06,40.56
+2008,621,Washington Mutual,华盛顿互助银行,United States,Banking,25.53,-0.07,327.91,12.86
+2008,623,Malayan Banking,马来亚银行,Malaysia,Banking,4.16,0.92,74.12,13.9
+2008,624,Tokyo Gas,东京燃气,Japan,Utilities,11.72,0.86,14.17,12.04
+2008,625,Tenaga Nasional,德纳加国家电力,Malaysia,Utilities,6.66,1.16,19.34,12.27
+2008,626,Korea Exchange Bank,韩国外汇银行,South Korea,Banking,4.97,1.09,77.19,9.1
+2008,627,Mosaic,美国Mosaic公司,United States,Chemicals,7.16,0.94,9.69,49.32
+2008,627,ProLogis,美国普洛斯集团,United States,Diversified Financials,6.2,1.07,19.72,13.91
+2008,629,Thales,法国泰雷兹集团,France,Aerospace & Defense,13.54,0.51,19.24,12.22
+2008,630,Magna International,加拿大玛格纳公司,Canada,Consumer Durables,26.07,0.66,15.06,8.55
+2008,631,Sanlam,桑勒姆保险,South Africa,Insurance,10.29,1.03,47.32,5.65
+2008,632,Accor,法国雅高国际酒店集团,France,"Hotels, Restaurants & Leisure",9.94,0.66,14.3,16.43
+2008,633,China Steel,中国钢铁股份有限公司,Taiwan,Materials,8.54,1.2,10.62,17.48
+2008,633,Safran,萨弗朗公司,France,Aerospace & Defense,17.52,0.59,20.85,8.31
+2008,635,Novolipetsk Steel,新利佩茨克钢铁公司,Russia,Materials,6.21,2.12,8.72,28.77
+2008,636,SNS Reaal,SNS Reaal金融集团,Netherlands,Banking,10.24,0.68,149.35,5.55
+2008,637,Franklin Resources,富兰克林资源公司,United States,Diversified Financials,6.46,1.86,9.67,22.49
+2008,638,National City,美国国民城市公司,United States,Banking,11.79,0.31,150.37,10.05
+2008,639,Ko Group,阔楚集团,Turkey,Conglomerates,34.84,0.4,40.12,6.69
+2008,640,Daiichi Sankyo,第一制药三共公司,Japan,Drugs & Biotechnology,7.91,0.67,13.85,22.51
+2008,640,Sunoco,美国太阳石油公司,United States,Oil & Gas Operations,41.84,0.89,12.43,7.18
+2008,642,FOMENTO DE CONSTRUCCIONES Y CONTRATAS (FCC),西班牙营建集团,Spain,Construction,12.51,0.71,24.59,7.7
+2008,643,Julius Baer Holding,瑞士宝盛控股公司,Switzerland,Diversified Financials,4.26,0.83,41.26,16.62
+2008,644,Eiffage,埃法日建工,France,Construction,14.12,0.5,30.73,8.2
+2008,645,Galp Energia SGPS,高浦能源,Portugal,Oil & Gas Operations,16.11,1,6.72,21.22
+2008,646,RTL Group,RTL集团,Luxembourg,Media,7.44,1.17,11.4,18.56
+2008,647,Steel Authority of India,印度钢铁管理局有限公司,India,Materials,7.88,1.45,8.05,26.37
+2008,648,Atlas Copco,瑞典阿特拉斯·科普柯公司,Sweden,Capital Goods,9.8,1.15,8.64,19.19
+2008,648,Yahoo,雅虎公司,United States,Software & Services,6.97,0.66,12.23,37.15
+2008,650,National Bank of Canada,加拿大国家银行,Canada,Banking,7.47,0.57,118.82,7.84
+2008,651,Nippon Mining,日本新日矿集团,Japan,Oil & Gas Operations,32.36,0.91,17.4,5.61
+2008,652,Tatneft,鞑靼石油,Russia,Oil & Gas Operations,8.54,1.13,12.12,13.49
+2008,653,Potash of Saskatchewan,萨斯喀彻温钾盐,Canada,Chemicals,5.6,1.18,9.72,50.55
+2008,654,China Railway Group,中国中铁股份有限公司,China,Construction,19.26,0.26,18.08,28.13
+2008,655,Adecco,瑞士阿第克公司,Switzerland,Business Services & Supplies,26.38,0.79,9.82,9.95
+2008,656,Hellenic Telecom,希腊电信,Greece,Telecommunications Services,7.77,0.76,16.39,13.74
+2008,656,Piraeus Bank,比雷埃夫斯银行,Greece,Banking,4.69,0.85,68.13,9.81
+2008,656,Salzgitter,沙士基达,Germany,Materials,11.14,1.99,9.14,10.12
+2008,659,Yara International,雅拉国际,Norway,Chemicals,10.42,1.11,8.53,16.49
+2008,660,ConAgra Foods,美国康尼格拉集团,United States,Food Drink & Tobacco,12.72,0.8,12.8,10.78
+2008,661,Progress Energy,美国进步能源公司,United States,Utilities,9.15,0.5,26.29,10.9
+2008,662,Lotte Shopping,乐天百货公司,South Korea,Retailing,10.8,0.8,15.42,9.94
+2008,663,China Minsheng Banking,中国民生银行,China,Banking,3.67,0.48,92.77,27.91
+2008,664,Hannover Re,德商汉诺威再保险股份有限公司,Germany,Insurance,11.02,0.68,48.41,5.78
+2008,665,Unibail-Rodamco,尤尼百- 洛当科集团,France,Diversified Financials,1.05,1.56,37.61,20.09
+2008,666,Samba Financial Group,桑巴金融集团,Saudi Arabia,Banking,2.68,1.39,33.07,24.28
+2008,667,Spectra Energy,[[]],United States,Oil & Gas Operations,4.74,0.96,22.97,14.62
+2008,668,Gap,美国盖普公司,United States,Retailing,15.76,0.83,7.84,15.15
+2008,669,Friends Provident,英国友诚保险公司,United Kingdom,Insurance,9.33,0.54,106.47,6.17
+2008,670,Supervalu,美国超价商店公司,United States,Food Markets,43.96,0.56,21.36,5.55
+2008,671,PKN Orlen,波兰国营石油公司,Poland,Oil & Gas Operations,18.17,0.68,15.56,7.36
+2008,672,Alcatel-Lucent,阿尔卡特朗讯,France,Technology Hardware & Equip,24.35,-4.81,47.99,13.75
+2008,673,Belgacom,比利时电信,Belgium,Telecommunications Services,7.94,1.28,9.17,16.11
+2008,674,HJ Heinz,美国亨氏公司,United States,Food Drink & Tobacco,9.8,0.83,10.83,13.9
+2008,675,Tyco International,美国泰科国际有限公司,Bermuda,Conglomerates,19.29,-2.31,32.47,19.43
+2008,676,PPG Industries,PPG工业集团,United States,Chemicals,11.21,0.83,12.63,10.15
+2008,676,Shanghai Pudong Dev Bk,上海浦东发展银行,China,Banking,3.84,0.43,87.85,25.8
+2008,678,Xcel Energy,[[]],United States,Utilities,10.03,0.58,23.18,8.51
+2008,679,Schering-Plough,美国先灵葆雅公司,United States,Drugs & Biotechnology,12.69,-1.47,29.16,35.15
+2008,680,Sacyr Vallehermoso,萨维地产,Spain,Construction,6.18,0.72,35.32,8.73
+2008,681,Adidas,德国阿迪达斯公司,Germany,Household & Personal Products,13.3,0.64,10.62,12.96
+2008,682,British Energy Group,英国能源集团,United Kingdom,Utilities,5.9,0.92,19.62,11.62
+2008,682,Industrial Bank China,中国兴业银行,China,Banking,3.29,0.49,78.98,31.11
+2008,684,El Paso,艾尔帕索,United States,Oil & Gas Operations,4.65,1.11,24.58,11.42
+2008,685,British Sky Broadcasting,英国天空广播公司,United Kingdom,Media,9.14,1,7.76,19.8
+2008,686,OTP Bank,OTP Bank,Hungary,Banking,4.09,0.98,37.26,11.34
+2008,687,Celesio,塞拉西药店,Germany,Health Care Equipment & Svcs,28.46,0.56,10.4,9.79
+2008,688,DISH Network,回声星通信公司,United States,Media,11.09,0.76,10.09,13.3
+2008,689,DTE Energy,DTE能源公司,United States,Utilities,8.51,0.97,23.83,6.52
+2008,690,Sabanci Group,萨班吉集团,Turkey,Conglomerates,11.95,0.35,47.6,8.27
+2008,691,Sime Darby,森那美,Malaysia,Conglomerates,7.94,0.74,9.68,21.82
+2008,692,Asustek Computer,华硕电脑集团,Taiwan,Technology Hardware & Equip,17.19,0.59,11.16,10.47
+2008,693,Goodyear,固特异轮胎公司,United States,Consumer Durables,19.64,0.6,17.19,6.51
+2008,694,Kao,日本花王公司,Japan,Household & Personal Products,10.48,0.6,10.19,16.74
+2008,695,Unipol,尤尼泊,Italy,Insurance,13.49,0.37,53.6,6.68
+2008,696,Skanska,瑞典斯堪雅建筑集团,Sweden,Construction,21.47,0.63,12.06,8.05
+2008,697,Southwest Airlines,美国西南航空公司,United States,Transportation,9.86,0.65,16.77,9.02
+2008,698,Assurant,安舒龙保险,United States,Insurance,8.45,0.65,26.75,7.38
+2008,698,Wesfarmers,西农集团,Australia,Conglomerates,8.21,0.67,10.26,19.25
+2008,700,Mazda Motor,马自达汽车公司,Japan,Consumer Durables,27.64,0.63,15.82,5.93
+2008,701,Huaneng Power Intl,华能国际电力股份有限公司,China,Utilities,5.65,0.78,14.54,17.81
+2008,702,British Airways,英国航空公司,United Kingdom,Transportation,16.72,0.57,22.41,5.91
+2008,703,George Weston,加拿大乔治威斯顿公司,Canada,Food Markets,33.08,0.57,15.92,6.09
+2008,704,Bumiputra-Commerce,土著联昌银行,Malaysia,Banking,3.82,0.84,54.9,11.07
+2008,705,Coca-Cola HBC,可口可乐希腊瓶装公司,Greece,Food Drink & Tobacco,9.43,0.69,9.69,16.06
+2008,705,Fairfax Financial,菲尔菲克斯金融,Canada,Insurance,8.01,1.17,27.6,5.41
+2008,705,West Japan Railway,西日本旅客鉄道株式会社,Japan,Transportation,10.75,0.48,19.65,9.1
+2008,708,Atlantia,意大利Atlantia公司,Italy,Transportation,4.14,0.88,19.03,18.4
+2008,709,Ebay,EBay公司,United States,Retailing,7.67,0.35,15.37,35
+2008,710,TJX Cos,美国TJX公司,United States,Retailing,18.65,0.77,6.6,13.98
+2008,711,United Utilities,英国联合公共事业公司,United Kingdom,Utilities,4.57,0.85,24.14,12.14
+2008,712,Kingfisher,英国翠丰集团,United Kingdom,Retailing,17.01,0.66,16.84,6.16
+2008,713,Dai Nippon Printing,大日本印刷,Japan,Media,13.26,0.47,14.4,10.64
+2008,714,EOG Resources,EOG资源公司,United States,Oil & Gas Operations,4.19,1.09,12.09,29.39
+2008,715,Swire Pacific,英国太古集团有限公司,Hong Kong/China,Conglomerates,2.46,2.9,19.11,17.6
+2008,716,M&T Bank,M&T银行,United States,Banking,4.48,0.65,64.88,9.03
+2008,716,Sojitz,双日控股,Japan,Trading Companies,44.41,0.5,22.12,4.79
+2008,718,Yum Brands,百胜餐饮集团,United States,"Hotels, Restaurants & Leisure",10.42,0.91,7.24,16.38
+2008,719,Qantas Airways,澳洲航空公司,Australia,Transportation,12.75,0.61,16.66,7.5
+2008,720,Computer Sciences,计算机科学公司,United States,Software & Services,16.06,0.62,15.36,6.9
+2008,721,Alliance & Leicester,英国联合莱斯特银行,United Kingdom,Banking,9.59,0.55,156.65,4.72
+2008,722,British Land,英国土地(又译：（不列颠大陆）),United Kingdom,Diversified Financials,1.28,4.83,32.24,9.67
+2008,723,Parker-Hannifin,派克汉尼汾公司,United States,Capital Goods,11.27,0.87,9.22,10.89
+2008,724,Marriott International,美国万豪国际集团,United States,"Hotels, Restaurants & Leisure",12.99,0.7,8.94,12.07
+2008,725,Ameren,阿莫林,United States,Utilities,7.55,0.62,20.73,8.89
+2008,726,Emaar Properties,伊玛房地产公司,United Arab Emirates,Diversified Financials,4.02,1.74,11.35,20.65
+2008,727,Fortune Brands,富俊品牌,United States,Consumer Durables,8.05,0.76,13.96,10.01
+2008,728,Whirlpool,美国惠而浦公司,United States,Consumer Durables,19.41,0.64,14.01,6.4
+2008,729,Telekom Indonesia,印尼电信,Indonesia,Telecommunications Services,5.69,1.22,8.34,21.55
+2008,730,Saudi Electricity,沙特电力公司,Saudi Arabia,Utilities,5.26,0.38,33.92,17.25
+2008,731,Angang New Steel,鞍钢附企新钢公司,China,Materials,6.94,0.91,7.53,25.39
+2008,732,AmerisourceBergen,美国美源伯根公司,United States,Drugs & Biotechnology,66.72,0.46,12.61,6.78
+2008,733,Sara Lee,美国莎莉集团,United States,Food Drink & Tobacco,12.83,0.62,12.08,8.99
+2008,734,Isuzu Motors,五十铃汽车公司,Japan,Consumer Durables,14.15,0.79,10.42,7.96
+2008,735,PKO Bank Polski,波兰储蓄银行,Poland,Banking,3.18,0.74,34.8,18.12
+2008,736,Usiminas,乌斯米纳斯,Brazil,Materials,5.82,1.18,8.63,19.14
+2008,737,"Becton, Dickinson",贝迪医疗,United States,Health Care Equipment & Svcs,6.56,1.02,7.57,22.07
+2008,738,Tata Steel,印度塔塔集团,India,Materials,5.83,0.97,11.48,14.63
+2008,739,Formosa Chems & Fibre,中国台湾化学纤维,Taiwan,Chemicals,6.29,1,10.58,13.67
+2008,740,Amazon.com,美国亚马逊公司,United States,Retailing,14.84,0.48,6.49,26.87
+2008,741,Discover Financial Services,高沃信息技术,United States,Business Services & Supplies,6.43,0.59,37.38,7.23
+2008,742,Toray Industries,东丽株式会社,Japan,Household & Personal Products,13.16,0.5,14.02,8.79
+2008,743,ITT,美国国际电话电报公司,United States,Conglomerates,9,0.74,11.55,10.21
+2008,744,Grupo Carso,墨西哥Carso全球电信公司,Mexico,Conglomerates,6.87,1.6,9.32,10.27
+2008,745,Royal DSM,荷兰DSM公司,Netherlands,Chemicals,12.78,0.63,13.84,7.39
+2008,746,Stryker,史赛克公司,United States,Health Care Equipment & Svcs,6,1.02,7.35,26.77
+2008,747,Sodexho,索迪斯集团,France,Business Services & Supplies,18.26,0.47,11.68,8.83
+2008,748,Delhaize Group,比利时德尔海兹集团,Belgium,Food Markets,25.36,0.46,12.25,7.57
+2008,748,voestalpine,澳钢联集团,Austria,Materials,9.42,1.01,8.97,9.78
+2008,750,A2A SpA,意大利A2A SpA公司,Italy,Utilities,8.58,0.4,16.93,12.74
+2008,751,Keppel,吉宝企业,Singapore,Conglomerates,7.25,0.79,10.99,12.27
+2008,752,Gannett,甘乃特,United States,Media,7.44,1.06,15.89,6.93
+2008,752,NEC,日本电气公司,Japan,Technology Hardware & Equip,39.59,0.08,30.39,8.95
+2008,754,Simon Property Group,美国西蒙地产集团,United States,Diversified Financials,3.65,0.63,23.61,18.69
+2008,755,Sumitomo Metal Mining,住友金属矿山,Japan,Materials,8.23,1.07,7.89,12.55
+2008,756,Kubota,九保田机械,Japan,Capital Goods,9.59,0.65,12.75,8.75
+2008,757,Cummins,美国康明斯公司,United States,Capital Goods,13.05,0.74,8.2,10.19
+2008,758,Pearson,美国康明斯公司,United Kingdom,Media,8.26,0.56,13.82,10.71
+2008,759,Asahi Kasei,旭化成,Japan,Chemicals,13.82,0.58,12.33,7.8
+2008,760,Tele Norte Leste,莱斯特电信,Brazil,Telecommunications Services,7.9,0.61,12.36,11.69
+2008,761,Neste Oil,芬兰耐思特石油公司,Finland,Oil & Gas Operations,17.67,0.84,7.1,9.04
+2008,762,International Power,IPWG,United Kingdom,Utilities,4.8,0.8,18.16,11.37
+2008,763,Atel Holding,瑞士Atel控股,Switzerland,Utilities,11.85,0.69,7.29,13.4
+2008,764,Grupo Modelo,莫德罗集团,Mexico,Food Drink & Tobacco,6.68,0.87,9.13,14.73
+2008,765,National Bank of Kuwait,科威特国民银行,Kuwait,Banking,2.11,0.88,27.33,19.13
+2008,766,Metalurgica Gerdau,盖尔道冶金,Brazil,Materials,11.03,0.63,12.39,8.13
+2008,766,SSAB Svenskt Stal,SSAB-斯文科斯投,Sweden,Materials,7.37,0.71,13.87,9.19
+2008,768,Owens-Illinois,欧文斯-伊利诺伊,United States,Materials,7.68,1.34,9.32,8.85
+2008,769,Sekisui House,积水建筑,Japan,Construction,15.02,0.57,12.64,7.11
+2008,770,Pepsi Bottling Group,百事可乐瓶装饮料公司,United States,Food Drink & Tobacco,13.59,0.53,13.12,7.53
+2008,771,NRG Energy,NRG能源,United States,Utilities,5.99,0.59,19.27,9.76
+2008,772,Tokyu,日本东急,Japan,Transportation,11.76,0.5,16.48,7.11
+2008,773,Citic Pacific,中信泰富集团,Hong Kong/China,Conglomerates,6.05,1.06,9.86,12.2
+2008,774,Rohm and Haas,罗门哈斯,United States,Chemicals,8.9,0.66,10.21,10.5
+2008,775,Lagardère SCA,拉加德尔集团,France,Media,9.92,0.37,16.82,10.53
+2008,775,Samsung Fire & Marine,三星火灾海上保险公司,South Korea,Insurance,9.4,0.36,19.65,9.46
+2008,777,NYSE Euronext,纽约泛欧证券交易所,United States,Diversified Financials,4.16,0.64,16.62,17.4
+2008,778,Ternium,特尔尼翁钢铁集团,Luxembourg,Materials,8.18,0.78,13.74,7.47
+2008,779,Capgemini,凯捷咨询公司,France,Software & Services,12.71,0.64,10.32,8.01
+2008,780,Baloise Group,巴罗塞集团,Switzerland,Insurance,7.64,0.57,52.17,4.89
+2008,780,Telekom Malaysia,马来西亚电信,Malaysia,Telecommunications Services,5.35,0.76,13.21,12.28
+2008,782,GFNorte,GF诺特,Mexico,Banking,5.17,0.62,26.35,8.09
+2008,783,AES,美国爱依斯电力公司,United States,Utilities,12.32,-0.09,33.35,12.03
+2008,784,Chuo Mitsui Trust,日本中央三井信托控股株式会社,Japan,Banking,3.23,0.96,119.21,6.94
+2008,784,Vienna Insurance Group,奥地利维也纳保险集团,Austria,Insurance,7.88,0.34,28.36,8.83
+2008,786,Mitsubishi Materials,三菱材料株式会社,Japan,Materials,12.36,0.61,14.99,6.04
+2008,787,Boston Scientific,士顿科学国际有限公司,United States,Health Care Equipment & Svcs,8.36,-0.5,31.2,18.79
+2008,788,SLM,学生贷款营销协会,United States,Diversified Financials,9.17,-0.9,155.56,9.15
+2008,789,AMR,AMR航空集团,United States,Transportation,22.94,0.5,28.57,3.19
+2008,790,CapitaLand,新加坡嘉德置地集团,Singapore,Diversified Financials,2.64,1.92,17.97,12.68
+2008,791,CME Group,美国芝加哥交易所集团,United States,Diversified Financials,1.76,0.66,20.31,27.37
+2008,792,Hanwha,韩国朝华集团,South Korea,Trading Companies,19.68,0.3,59.47,4.65
+2008,793,Nationwide Financial,美国全国保险公司,United States,Insurance,4.53,0.63,119.21,5.74
+2008,794,S-Oil,韩国双龙炼油公司,South Korea,Oil & Gas Operations,15.98,0.82,7.19,8.04
+2008,794,Vedanta Resources,英国韦丹塔资源集团,United Kingdom,Materials,6.7,0.96,8.04,12.58
+2008,796,Henderson Land,恒基兆业地产有限公司,Hong Kong/China,Diversified Financials,1.07,1.26,16.98,17.08
+2008,797,Canadian Pacific Railway,加拿大太平洋铁路公司,Canada,Transportation,4.59,0.95,13.47,11.2
+2008,798,VimpelCom,维佩尔通讯,Russia,Telecommunications Services,5,0.83,8.44,20.35
+2008,799,Gilead Sciences,吉利德科学,United States,Drugs & Biotechnology,4.23,1.62,5.83,43.95
+2008,800,Covidien,Covidien公司,Bermuda,Health Care Equipment & Svcs,10.36,-0.26,18.82,21.34
+2008,801,Volksbank,沃克银行,Austria,Banking,5.44,0.2,88.84,19.57
+2008,802,Siam Cement,暹罗白水泥,Thailand,Construction,8.97,1.02,8.21,8.24
+2008,803,Telkom,南非国家电讯,South Africa,Telecommunications Services,7.08,1.19,8.03,9.67
+2008,804,Shinsegae,新世界集团,South Korea,Retailing,10.1,0.51,8.87,11.85
+2008,805,Express Scripts,美国快捷药方公司,United States,Health Care Equipment & Svcs,18.27,0.57,5.26,14.94
+2008,806,Stora Enso,芬兰斯道拉恩索公司,Finland,Materials,19.52,-0.31,22.26,9.94
+2008,807,Bombardier,加拿大庞巴迪公司,Canada,Aerospace & Defense,14.24,0.26,17.76,10.07
+2008,808,Formosa Plastics,台塑集团,Taiwan,Chemicals,4.77,0.95,9.3,15.75
+2008,809,CSN-Cia Siderurgica,国立制铁,Brazil,Materials,4.23,0.55,11.52,28.82
+2008,810,Verbund,维邦,Austria,Utilities,4.44,0.85,8.5,22.95
+2008,811,Yamaha Motor,日本雅马哈公司,Japan,Consumer Durables,15.7,0.64,11.05,5.82
+2008,812,MTR,地铁有限公司,Hong Kong/China,Transportation,1.23,1,15.48,21.08
+2008,813,Comerica,科美利加,United States,Banking,4.62,0.69,62.33,5.45
+2008,814,Arab Bank,约旦阿拉伯银行,Jordan,Banking,2.25,0.62,32.44,15.42
+2008,815,Impala Platinum Holdings,南非因帕拉铂金控股公司,South Africa,Materials,4.46,1.03,7.08,26.65
+2008,816,Riyad Bank,利雅得银行,Saudi Arabia,Banking,2.05,0.78,25.07,14.31
+2008,817,Antarchile,安达智利,Chile,Diversified Financials,8.23,0.5,10.66,10.93
+2008,818,Liberty Global,自由媒体国际有限公司,United States,Media,9,-0.42,32.62,12.92
+2008,819,ACE Aviation,ACE航空控股,Canada,Transportation,11.05,1.63,14.06,1.35
+2008,820,Osaka Gas,大阪瓦斯,Japan,Utilities,9.99,0.45,11.96,8.81
+2008,821,McGraw-Hill Cos,麦格劳·希尔公司,United States,Media,6.77,1.01,6.52,13.47
+2008,822,Campbell Soup,金宝汤公司,United States,Food Drink & Tobacco,7.87,0.82,6.88,12.39
+2008,822,Public Bank,马来西亚大众银行,Malaysia,Banking,2.79,0.64,52.14,11.08
+2008,824,Outokumpu,奥托昆普集团,Finland,Materials,10.09,0.93,8.63,6.92
+2008,824,XL Capital,信利金融公司,Bermuda,Insurance,9.14,0.28,57.76,6.42
+2008,826,Bharti Airtel,印度巴帝电信,India,Telecommunications Services,4.26,0.94,6.61,39.16
+2008,827,Kuwait Finance House,科威特金融所,Kuwait,Business Services & Supplies,1.77,0.56,21.85,23.81
+2008,828,Wharf (Holdings),九龙仓集团有限公司,Hong Kong/China,Conglomerates,1.72,1.38,15.28,14.32
+2008,829,Carlsberg,嘉士伯,Denmark,Food Drink & Tobacco,8.76,0.45,11.99,9.54
+2008,830,GS Holdings,GS控股集团,South Korea,Diversified Financials,26.38,0.44,16.05,4.59
+2008,831,Fluor,福陆,United States,Construction,16.69,0.53,5.8,12.31
+2008,832,Cathay Pacific Airways,香港国泰航空公司,Hong Kong/China,Transportation,7.81,0.53,13.25,8.22
+2008,833,Symantec,赛门铁克,United States,Software & Services,5.7,0.35,17.77,14.25
+2008,834,Saudi British Bank,沙特阿拉伯英国银行,Saudi Arabia,Banking,1.74,0.81,20.58,15.22
+2008,835,Magnitogorsk Iron & Steel,俄罗斯马格尼托哥尔斯克钢铁公司,Russia,Materials,6.6,1.46,5.68,13.18
+2008,836,Chugoku Electric Power,中国电力,Japan,Utilities,9.15,0.32,22.33,7.68
+2008,836,Vornado Realty,美国沃那多房产公司,United States,Diversified Financials,3.27,0.64,22.48,12.82
+2008,838,Sumitomo Realty & Dev,住友不动产株式会社,Japan,Diversified Financials,5.76,0.43,23.35,8.33
+2008,839,Telekom Austria,奥地利电信,Austria,Telecommunications Services,6.28,0.74,9.9,10.05
+2008,840,Gecina,热驰那,France,Diversified Financials,1.01,1.89,18.82,9.1
+2008,841,Bank Leumi le-Israel,以色列隆美银行,Israel,Banking,3.2,0.84,68.26,6.66
+2008,842,Beiersdorf,拜尔斯道夫公司,Germany,Household & Personal Products,8.04,0.64,5.62,20.26
+2008,842,Flextronics Intl,新加坡伟创力公司,Singapore,Technology Hardware & Equip,24.46,-0.43,19.6,8.46
+2008,844,Banque Saudi Fransi,沙特法国银行,Saudi Arabia,Banking,1.72,0.8,21.22,13.71
+2008,845,Woodside Petroleum,澳大利亚伍德塞石油公司,Australia,Oil & Gas Operations,3.16,1.11,8.35,36.7
+2008,846,Reliance Communications,Reliance电信公司,India,Telecommunications Services,3.13,0.65,13.08,29.63
+2008,847,Hyundai Mobis,现代汽车零件,South Korea,Consumer Durables,11.59,0.74,8.44,6.78
+2008,848,Goldcorp,加拿大黄金公司,Canada,Materials,2.36,0.49,19,30.73
+2008,849,Vallourec,瓦卢雷克,France,Capital Goods,7.31,1.21,5.95,11.13
+2008,850,Molson Coors Brewing,莫尔-库尔斯酿酒公司,United States,Food Drink & Tobacco,6.19,0.5,13.45,9.77
+2008,851,Bank of Yokohama,横滨银行,Japan,Banking,2.12,0.56,96.98,9.05
+2008,852,Bank Hapoalim,Hapoalim银行,Israel,Banking,3.67,0.8,66.93,5.55
+2008,853,Precision Castparts,美国精密铸件有限公司,United States,Aerospace & Defense,6.63,0.91,5.84,15.34
+2008,854,Eastman Kodak,柯达公司,United States,Household & Personal Products,10.3,0.68,13.66,4.89
+2008,855,Emirates Bank Group,阿联酋银行集团,United Arab Emirates,Banking,1.6,0.51,26.11,17.17
+2008,855,Royal Caribbean,皇家加勒比海游轮公司,Liberia,"Hotels, Restaurants & Leisure",6.15,0.6,14.98,7.47
+2008,857,Dassault Aviation,法国达索飞机公司,France,Aerospace & Defense,5.96,0.56,13.97,8.64
+2008,858,Marshall & Ilsley,马歇尔斯利,United States,Banking,4.4,0.5,59.85,6.11
+2008,859,UAL,美国联合航空公司,United States,Transportation,20.14,0.4,24.22,3.52
+2008,860,Starbucks,星巴克公司,United States,"Hotels, Restaurants & Leisure",9.82,0.68,5.51,13.04
+2008,861,Avon Products,雅芳公司,United States,Household & Personal Products,9.94,0.53,5.72,16.24
+2008,861,Hongkong Land,香港置地有限公司,Hong Kong/China,Diversified Financials,0.56,1.9,14.97,10.05
+2008,863,Smith International,史密斯国际公司,United States,Oil & Gas Operations,8.76,0.65,6.06,12.63
+2008,864,Daikin Industries,大金株式会社,Japan,Construction,7.76,0.39,9.84,13.43
+2008,865,Orascom Telecom,埃及OT移动通讯公司,Egypt,Telecommunications Services,4.44,0.73,8.64,16.61
+2008,866,SKF Group,斯凯孚集团,Sweden,Capital Goods,9.06,0.71,7.01,9.05
+2008,867,Metrovacesa,麦托瓦西,Spain,Diversified Financials,1.89,1.83,17.01,8.76
+2008,868,Mitsui Chemicals,三井化学,Japan,Chemicals,14.37,0.45,12.69,5.57
+2008,869,Daiwa House Industry,大和房建,Japan,Construction,13.77,0.39,13.42,6.01
+2008,870,Host Hotels & Resorts,万豪服务,United States,Diversified Financials,5.43,0.73,11.81,8.48
+2008,871,UPM-Kymmene,芬欧汇川,Finland,Materials,14.65,0.12,19.95,8.94
+2008,872,Air China,中国航空集团公司,China,Transportation,5.33,0.34,10.69,25.68
+2008,872,MasterCard,万事达国际组织,United States,Diversified Financials,4.07,1.09,6.26,24.91
+2008,874,Asahi Breweries,朝日啤酒,Japan,Food Drink & Tobacco,8.15 E,0.4,11.67,9.08
+2008,875,Tokyo Electron,东电电子,Japan,Semiconductors,7.25,0.78,6.44,11.35
+2008,876,Everest Re Group,艾弗保险,Bermuda,Insurance,4.78,0.84,18,6.09
+2008,876,Publicis Groupe,阳狮集团,France,Media,5.79,0.58,15.09,7.37
+2008,878,Nabors Industries,纳伯斯公司,Bermuda,Oil & Gas Operations,4.94,0.93,10.1,8.85
+2008,879,Turkcell,土耳其移动通信,Turkey,Telecommunications Services,4.75,0.9,5.95,22.03
+2008,880,Irish Life & Permanent,爱尔兰人寿银行,Ireland,Insurance,4.29,0.61,117.9,4.52
+2008,881,Arab National Bank,阿拉伯国民银行,Saudi Arabia,Banking,1.66,0.67,20.81,12.64
+2008,882,Insurance Australia Group,澳大利亚保险集团,Australia,Insurance,6.56,0.47,18.13,6.54
+2008,883,TDK,日本TDK株式会社,Japan,Technology Hardware & Equip,7.34,0.6,8.34,9.36
+2008,884,Shinkin Central Bank,信金中央金库,Japan,Banking,3.04,0.33,221.87,11.26
+2008,885,Mitsubishi Motors,三菱汽车公司,Japan,Consumer Durables,18.75,0.07,15.06,9.45
+2008,886,Bankinter,西班牙互联银行,Spain,Banking,3.79,0.53,72.48,5.91
+2008,887,Fanuc,发那科公司,Japan,Capital Goods,3.57,0.91,8.1,19.8
+2008,888,Bank of East Asia,香港东亚银行,Hong Kong/China,Banking,2.86,0.53,50.51,9.09
+2008,889,Idemitsu Kosan,日本出光兴产株式会社,Japan,Oil & Gas Operations,28.89,0.35,19.67,3.32
+2008,890,Samsung,三星集团,South Korea,Trading Companies,17.3,0.21,14.31,9.75
+2008,891,Kazakhmys,哈萨克Kazakhmys铜业,United Kingdom,Materials,5.32,1.47,5.12,13.99
+2008,892,Coventry Health Care,考文垂医保,United States,Health Care Equipment & Svcs,9.88,0.63,7.16,8.02
+2008,893,Türkiye Halk Bankasi,土耳其人民银行,Turkey,Banking,3.52,0.61,24.51,8.07
+2008,894,Tesoro,美国特索罗石油公司,United States,Oil & Gas Operations,21.92,0.57,8.13,5.11
+2008,895,All Nippon Airways,日本全日空航空公司,Japan,Transportation,12.68,0.28,13.33,8.14
+2008,896,Invesco,景顺集团,Bermuda,Diversified Financials,3.88,0.67,12.93,10.88
+2008,897,Cemig,塞米克电力,Brazil,Utilities,4.53,0.81,10.81,9
+2008,898,Countrywide Financial,美国国家金融服务公司,United States,Diversified Financials,23.44,-0.7,211.73,3.65
+2008,899,Konica Minolta,柯尼卡-美能达,Japan,Business Services & Supplies,8.75,0.62,7.86,7.65
+2008,900,Noble Energy,诺伯能源公司,United States,Oil & Gas Operations,3.27,0.94,10.83,13.3
+2008,901,Mega Financial Holding,兆丰金融控股股份有限公司,Taiwan,Diversified Financials,2.77,0.51,68.61,8
+2008,902,Dover,多弗公司,United States,Conglomerates,7.23,0.66,8.07,8.05
+2008,903,Masco,马斯柯集团,United States,Construction,11.77,0.39,10.91,6.82
+2008,904,Investec,天达集团,United Kingdom/South Africa,Diversified Financials,3.85,0.67,51.65,4.82
+2008,904,TD Ameritrade Holding,[[]],United States,Diversified Financials,2.74,0.74,18.86,10.88
+2008,906,Equity Residential,[[]],United States,Diversified Financials,2.04,0.99,15.69,10.3
+2008,907,Wolters Kluwer,沃尔特斯·克鲁维尔集团,Netherlands,Media,4.98,1.35,7.64,7.98
+2008,908,Cincinnati Financial,辛辛纳提金融,United States,Insurance,4.26,0.86,16.64,6.17
+2008,909,Türkiye Vak?flar,[[]],Turkey,Banking,4.23,0.57,27.35,5.96
+2008,910,National Bank of Abu Dhabi,阿布扎比国民银行,United Arab Emirates,Banking,1.75,0.57,27.49,9.75
+2008,911,PICC Property & Casualty,中国人民财产保险股份有限公司,China,Insurance,7.23,0.27,13.59,12.11
+2008,912,Legg Mason,美盛集团,United States,Diversified Financials,4.71,0.7,10.56,8.77
+2008,913,Reliant Energy,可信能源,United States,Utilities,11.21,0.37,9.46,7.87
+2008,914,WR Berkley,WR 柏克利,United States,Insurance,5.55,0.74,16.83,5.09
+2008,914,Murata Manufacturing,株式会社村田制作所,Japan,Technology Hardware & Equip,4.82,0.61,8.58,12.27
+2008,916,Starwood Hotels,喜达屋集团,United States,"Hotels, Restaurants & Leisure",6.15,0.54,9.62,8.91
+2008,917,Secom,西科姆集团,Japan,Business Services & Supplies,5.22,0.5,9.82,11.92
+2008,918,Annaly Capital Mgmt,[[]],United States,Diversified Financials,2.36,0.41,53.9,9.53
+2008,919,Vestas Wind Systems,维斯塔斯风力系统集团,Denmark,Capital Goods,7.09,0.42,6.05,19.06
+2008,920,Japan Airlines,日本航空,Japan,Transportation,19.59,-0.14,17.73,6.8
+2008,921,Qatar National Bank,卡塔尔国家银行,Qatar,Banking,1.25,0.55,19.69,12.67
+2008,922,CenterPoint Energy,[[]],United States,Utilities,9.62,0.4,17.87,4.81
+2008,922,Western Union,西联汇款,United States,Diversified Financials,4.9,0.86,5.85,15.59
+2008,924,Fubon Financial,富邦金融控股公司,Taiwan,Insurance,4.51,0.26,52.78,8.65
+2008,925,Olympus,奥林巴斯株式会社,Japan,Health Care Equipment & Svcs,9.04,0.41,9.21,8.05
+2008,926,Pgnig-Polskie Górnictwo Naftowe,[[]],Poland,Oil & Gas Operations,5.22,0.45,10.42,11.2
+2008,927,Tata Consultancy Svcs,塔塔顾问,India,Software & Services,4.32,0.97,3.03,21.38
+2008,928,Korean Air,大韩航空公司,South Korea,Transportation,8.97,0.39,15.22,5.54
+2008,929,Metso,美卓,Finland,Capital Goods,9.12,0.56,7.46,7.44
+2008,930,Stockland,斯多克兰房产,Australia,Diversified Financials,0.96,1.46,11.64,9.57
+2008,931,STMicroelectronics,意法半导体,Switzerland,Semiconductors,10.78,-0.52,14.03,10.93
+2008,932,Limited Brands,美国Limited Brands公司,United States,Retailing,10.88,0.77,7.34,5.39
+2008,933,Agilent Technologies,美国安捷伦科技公司,United States,Technology Hardware & Equip,5.53,0.61,7.46,11.26
+2008,934,TUI,国际旅游联盟集团,Germany,"Hotels, Restaurants & Leisure",27.06,-1.18,16.81,6.06
+2008,935,Onex,加拿大Onex公司,Canada,Diversified Financials,23.62,0.23,25.99,4.39
+2008,936,Bangkok Bank,盘谷银行,Thailand,Banking,2.87,0.5,42.01,7.88
+2008,937,Luxottica Group,[[]],Italy,Household & Personal Products,6.17,0.56,6.48,12.67
+2008,938,Boston Properties,波士顿地产,United States,Diversified Financials,1.48,1.32,11.19,10.3
+2008,939,Peabody Energy,美国博地能源公司,United States,Materials,4.57,0.42,9.67,15.34
+2008,939,Umicore,优美科,Belgium,Materials,12.13,0.95,4.62,6.41
+2008,941,Antofagasta,安托法加斯塔,United Kingdom,Materials,4.08,1.43,5.08,15.93
+2008,942,Newmont Mining,纽蒙特矿业,United States,Materials,5.53,-1.89,15.6,23.19
+2008,943,Zimmer Holdings,辛默控股,United States,Health Care Equipment & Svcs,3.9,0.77,6.63,17.78
+2008,944,Mediaset,[[]],Italy,Media,4.9,0.67,7.92,10.31
+2008,945,ASML Holding,[[]],Netherlands,Semiconductors,5.56,1,5.73,10.64
+2008,946,Toppan Printing,凸版印刷,Japan,Media,13.26,0.22,15.56,7.24
+2008,947,BPER-Emilia Romagna,艾米-罗马涅,Italy,Banking,3.55,0.46,59.42,5.59
+2008,947,Nordstrom,诺德斯特龙,United States,Retailing,8.83,0.71,5.6,8.18
+2008,949,Avnet,安富利,United States,Technology Hardware & Equip,16.99,0.48,8.03,5.07
+2008,949,HDFC-Housing Devel,印度住宅发展金融,India,Banking,1.49,0.4,16.97,19.07
+2008,951,China Cosco Holdings,中国远洋运输集团公司,China,Transportation,6.4,0.25,7.11,44.95
+2008,952,Kajima,日本鹿岛建设公司,Japan,Construction,16.1,0.35,17.89,3.21
+2008,953,Electrolux Group,伊莱克斯,Sweden,Consumer Durables,16.2,0.45,9.89,4.56
+2008,954,Shoppers Drug Mart,启康药业连锁,Canada,Retailing,8.55,0.5,5.69,11.14
+2008,955,Embarq,音巴克,United States,Telecommunications Services,6.37,0.68,8.86,6.41
+2008,956,New World Development,新世界发展有限公司,Hong Kong/China,Conglomerates,2.98,0.55,18.72,10.24
+2008,957,Zions Bancorp,齐昂银行集团,United States,Banking,3.62,0.49,52.95,5.12
+2008,958,Espirito Santo Finl,圣埃斯皮里托金融,Luxembourg,Banking,5.72,0.4,81.48,1.61
+2008,959,Storebrand,思道布兰,Norway,Insurance,6.15,0.37,69.91,3.47
+2008,960,Grupo Televisa,墨西哥广播集团,Mexico,Media,3.81,0.74,9.02,10.78
+2008,961,Larsen & Toubro,印度拿丁集团公司,India,Capital Goods,4.68,0.52,5.72,24.94
+2008,962,Showa Shell Sekiyu,昭和壳牌石油公司,Japan,Oil & Gas Operations,27.56,0.39,11.75,3.86
+2008,963,Nikon,尼康,Japan,Business Services & Supplies,7,0.47,6.34,11.45
+2008,964,Harley-Davidson,哈雷戴维森公司,United States,Consumer Durables,6.14,0.93,5.66,8.86
+2008,965,Genzyme,尖占,United States,Drugs & Biotechnology,3.81,0.48,8.29,18.86
+2008,965,Wm Wrigley Jr,美国箭牌公司,United States,Food Drink & Tobacco,5.39,0.63,5.23,16.43
+2008,967,Bharat Petroleum,印度巴拉特石油公司,India,Oil & Gas Operations,22.77,0.5,8.67,4.16
+2008,968,Dentsu,电通广告公司,Japan,Media,17.82,0.26,10.61,6.41
+2008,969,Korea Gas,韩国燃气公司,South Korea,Utilities,14.08,0.26,13.25,5.84
+2008,970,Kühne & Nagel Intl,瑞士德讯集团,Switzerland,Transportation,12.2,0.38,4.56,11.68
+2008,971,Brambles,朗博集团,Australia,Business Services & Supplies,4.03,1.29,5.01,13.82
+2008,972,Terex,特雷克斯公司,United States,Capital Goods,9.14,0.61,6.32,6.85
+2008,973,United Microelectronics,联华电子公司,Taiwan,Semiconductors,3.44,1,11.15,7.84
+2008,974,VF,[[]],United States,Household & Personal Products,7.22,0.59,6.45,8.34
+2008,975,Nippon Express,日本运通公司,Japan,Transportation,15.88,0.28,11.58,5.63
+2008,976,Biogen Idec,生化基因,United States,Drugs & Biotechnology,3.17,0.64,8.63,17.38
+2008,976,Smiths Group,史密斯集团,United Kingdom,Conglomerates,4.4,3.52,5.47,7.66
+2008,978,Brasil Telecom,巴西电信,Brazil,Telecommunications Services,6.21,0.38,9.07,9.81
+2008,979,Wuhan Iron & Steel,武汉钢铁,China,Materials,5.27,0.5,5.1,22.4
+2008,980,Cencosud,桑科萨集团,Chile,Retailing,7.6,0.42,7.86,8.2
+2008,981,Eisai,卫材药业,Japan,Drugs & Biotechnology,5.74,0.6,6.46,10.35
+2008,982,Bank of Beijing,北京银行,China,Banking,1.24,0.27,34.82,14.55
+2008,983,Nipponkoa Insurance,兴亚保险公司,Japan,Insurance,8.22,0.14,31.49,6.27
+2008,984,Banca Popolare di Milano,米兰人民银行,Italy,Banking,3.28,0.53,52.61,4.97
+2008,985,Technip,德希尼布,France,Oil & Gas Operations,9.14,0.26,10.49,8.81
+2008,985,Toll Holdings,澳大利亚TOLL公司,Australia,Transportation,6.35,1.09,6.47,6.18
+2008,987,Continental Airlines,美国大陆航空公司,United States,Transportation,14.23,0.46,12.11,2.38
+2008,988,Hochtief,德国豪赫蒂夫公司,Germany,Construction,19.46,0.11,10.78,7.67
+2008,989,Finatis,菲纳逖斯,France,Trading Companies,30.73,0.09,29.1,0.94
+2008,990,Tüpras-Türkiye Petrol,土耳其炼油厂,Turkey,Oil & Gas Operations,14.19,0.58,4.93,6.48
+2008,991,Obayashi,大林集团,Japan,Construction,13.34,0.35,17.55,3.5
+2008,992,Pepco Holdings,佩科股份,United States,Utilities,9.37,0.33,15.11,4.9
+2008,993,Kawasaki Kisen Kaisha,川崎汽船株式会社,Japan,Transportation,9.24,0.44,7.61,6.64
+2008,994,Foster's Group,福斯特集团,Australia,Food Drink & Tobacco,3.87,0.82,7.87,9.58
+2008,994,Hankyu Hanshin,板急电铁,Japan,Transportation,6.33,0.31,20.08,5.65
+2008,994,Mirant,迈朗,United States,Utilities,2.02,2,9.45,7.92
+2008,997,Manpower,万宝盛华公司,United States,Business Services & Supplies,20.5,0.48,7.22,4.52
+2008,998,Fidelity National Info,国民诚信,United States,Business Services & Supplies,4.76,0.56,9.59,8.05
+2008,998,Mohawk Industries,默霍克工业,United States,Consumer Durables,7.59,0.71,8.68,4.88
+2008,1000,Chiba Bank,千叶银行,Japan,Banking,2.16,0.45,82.7,5.8
+2008,1001,Bank Central Asia,中亚银行,Indonesia,Banking,2.15,0.47,19.59,9.63
+2008,1002,Kasikornbank,泰国泰华农民银行,Thailand,Banking,2.49,0.5,33.34,6.69
+2008,1003,Mechel,[[]],Russia,Materials,4.54,0.62,4.61,18.11
+2008,1004,OPAP,[[]],Greece,"Hotels, Restaurants & Leisure",6.11,0.67,1.26,10.5
+2008,1005,Wendel,[[]],France,Diversified Financials,5.64,0.48,13.24,5.73
+2008,1006,Scottish & Newcastle,纽卡斯尔,United Kingdom,Food Drink & Tobacco,5.93,-0.21,13.98,14.88
+2008,1007,CA,美国国际联合电脑公司,United States,Software & Services,4.2,0.41,10.14,11.75
+2008,1007,Macquarie Airports,麦格理机场,Australia,Transportation,2.87,0.93,21.21,5.64
+2008,1009,Datang Intl Power,大唐发电,China,Utilities,3.18,0.36,11.6,21.4
+2008,1010,NiSource,自然资源,United States,Utilities,7.96,0.33,18.05,4.71
+2008,1011,Quest Diagnostics,探索诊断,United States,Health Care Equipment & Svcs,6.7,0.34,8.57,9.26
+2008,1012,Bharat Heavy Electricals,印度重型电力,India,Capital Goods,3.99,0.56,5.17,27.92
+2008,1013,Rexam,雷盛德奎,United Kingdom,Materials,7.16,0.48,9.95,5.64
+2008,1014,Delta Air Lines,美国达美航空公司,United States,Transportation,19.15,NA,32.42,3.9
+2008,1015,Origin Energy,起源能源公司,Australia,Utilities,5.31,0.39,12.51,7.25
+2008,1016,Allergan,爱力根,United States,Drugs & Biotechnology,3.94,0.5,6.58,18.21
+2008,1017,Reuters Group,英国路透集团,United Kingdom,Media,5.02,0.6,3.21,14.72
+2008,1018,Axis Capital Holdings,阿克西斯资本控股,Bermuda,Insurance,3.23,1.09,14.68,5.58
+2008,1018,Hongkong Electric,香港电灯集团,Hong Kong/China,Utilities,1.57,0.88,8.71,12.18
+2008,1020,Hyundai Steel,现代制铁株式会社,South Korea,Materials,6.64,0.51,8.02,6.72
+2008,1020,Swatch Group,瑞士斯沃琪集团,Switzerland,Household & Personal Products,3.95,0.68,5.54,17.34
+2008,1022,Rockwell Automation,罗克韦尔自动化公司,United States,Capital Goods,5.19,1.22,4.94,8.12
+2008,1023,Shizuoka Bank,静冈银行,Japan,Banking,1.75,0.32,74.23,7.47
+2008,1024,Bluescope Steel,博思格钢铁,Australia,Materials,6.89,0.58,6.26,7.57
+2008,1025,Abu Dhabi Commercial Bank,阿布达比商业银行,United Arab Emirates,Banking,1.48,0.57,22.08,7.08
+2008,1026,Johnson Matthey,江森麦蒂,United Kingdom,Materials,12.11,0.41,4.1,8.54
+2008,1027,Acerinox,西班牙不锈钢公司,Spain,Materials,10.07,0.46,6.49,6.56
+2008,1028,Aozora Bank,青空银行,Japan,Banking,1.6,0.69,55.44,4.47
+2008,1029,Safeco,安可保险,United States,Insurance,6.21,0.71,12.64,4.15
+2008,1030,Public Power,公共电力,Greece,Utilities,6.32,0.03,17.07,9.93
+2008,1031,Shinsei Bank,新生银行,Japan,Banking,4.53,-0.52,91.87,6.86
+2008,1032,Cable & Wireless,大东电报,United Kingdom,Telecommunications Services,6.59,0.34,8.79,8.74
+2008,1033,Tyson Foods,美国泰森食品公司,United States,Food Drink & Tobacco,27.11,0.25,10.25,5.12
+2008,1034,CIT Group,[[]],United States,Diversified Financials,8.61,-0.08,89.49,4.21
+2008,1035,Bank Rakyat Indonesia,印尼人民银行,Indonesia,Banking,2.51,0.47,17.08,9.69
+2008,1035,KGHM Polska Miedz,波兰铜业集团公司,Poland,Materials,4.42,1.21,4.41,9.4
+2008,1037,Siam Commercial Bank,泰国商业银行,Thailand,Banking,2.78,0.58,39.07,5.28
+2008,1038,MISC,马来西亚航运,Malaysia,Transportation,3.24,0.83,8.09,10.48
+2008,1039,McDermott International,麦克德蒙特国际有限公司,Panama,Construction,5.63,0.61,4.41,11.79
+2008,1040,Ajinomoto,味之素,Japan,Food Drink & Tobacco,9.86,0.26,8.97,8.48
+2008,1040,Infosys Technologies,印度印孚瑟斯技术有限公司,India,Software & Services,3.21,0.89,3.08,22.09
+2008,1040,Oneok,万欧卡,United States,Utilities,13.48,0.3,11.06,4.85
+2008,1043,Goodrich,固德瑞,United States,Aerospace & Defense,6.39,0.48,7.53,7.41
+2008,1044,Lend Lease,联盛集团,Australia,Diversified Financials,12.13,0.42,7.58,5.21
+2008,1045,Fiserv,费哲金融服务,United States,Software & Services,3.92,0.44,11.85,8.65
+2008,1046,White Mountains Ins,怀特山保险,Bermuda,Insurance,4.73,0.41,19.11,5.21
+2008,1047,Pitney Bowes,必能宝,United States,Business Services & Supplies,6.13,0.37,9.44,7.76
+2008,1048,Cooper Industries,库柏工业,Bermuda,Capital Goods,5.9,0.69,6.13,7.39
+2008,1049,Yamada Denki,山田电机,Japan,Retailing,12.29,0.37,4.65,8.5
+2008,1050,Man Group,曼集团,United Kingdom,Diversified Financials,2.17,1.29,4.9,18.93
+2008,1051,Mediolanum,[[]],Italy,Insurance,6.04,0.3,27.93,4.61
+2008,1052,Genuine Parts,通用配件公司,United States,Consumer Durables,10.84,0.51,4.77,6.82
+2008,1053,Research In Motion,加拿大RIM公司,Canada,Technology Hardware & Equip,2.95,0.61,3.08,58.73
+2008,1054,Agrium,艾格瑞,Canada,Chemicals,5.64,0.47,5.84,11.75
+2008,1055,Amcor,安姆科,Australia,Materials,8.46,0.45,7.72,5.68
+2008,1055,Dubai Islamic Bank,迪拜伊斯兰银行,United Arab Emirates,Banking,1.14,0.42,17.55,9.45
+2008,1057,Industries of Qatar,[[]],Qatar,Chemicals,2.14,0.99,4.09,23.64
+2008,1058,Arcandor,德国卡尔施泰特万乐公司,Germany,Retailing,25.39,-0.05,20.15,3.98
+2008,1059,General Growth Prop,通用增长房地产,United States,Diversified Financials,3.26,0.29,28.81,8.61
+2008,1060,China Coal Energy,中国中煤能源集团公司,China,Materials,3.87,0.41,5.47,35.74
+2008,1061,ICAP,英国毅联汇业集团,United Kingdom,Diversified Financials,2.18,0.24,167.27,8.14
+2008,1062,Hudson City Bancorp,哈得森城市银行,United States,Banking,2.13,0.3,44.42,8.23
+2008,1063,China Resources Ent,华润创业,Hong Kong/China,Conglomerates,8.41,0.36,6.12,8.63
+2008,1064,W&W-Wüstenrot,乌斯坦罗,Germany,Diversified Financials,8.67,0.04,91.97,2.58
+2008,1065,CPFL Energia,CPFL能源,Brazil,Utilities,4.18,0.66,6.15,10.54
+2008,1065,Noble,诺布尔集团,Cayman Islands,Oil & Gas Operations,3,1.21,5.86,13.18
+2008,1067,Eurasian Natural Resources,欧亚天然资源公司,United Kingdom,Materials,3.43,0.58,4.59,26.38
+2008,1067,Home Retail Group,房屋零售集团,United Kingdom,Retailing,11.91,0.4,8.73,4.52
+2008,1069,Mashreq bank,马士礼格银行,United Arab Emirates,Banking,1.19,0.43,15.45,9.81
+2008,1070,Hellenic Petroleum,希腊石油,Greece,Oil & Gas Operations,12.46,0.51,7.34,4.31
+2008,1070,Quanta Computer,广达电脑有限公司,Taiwan,Technology Hardware & Equip,16.5,0.4,6.96,4.63
+2008,1072,Public Storage,大众仓储,United States,Diversified Financials,1.82,0.46,10.64,13.78
+2008,1073,RR Donnelley & Sons,当纳利,United States,Media,11.59,-0.05,12.09,6.84
+2008,1073,Esprit Holdings,思捷环球,Hong Kong/China,Retailing,3.79,0.66,2.13,16
+2008,1075,Infineon Technologies,英飞凌,Germany,Semiconductors,10.94,-0.52,14.37,6.1
+2008,1076,Hyundai Eng & Const,现代工程建设,South Korea,Construction,5.89,0.43,6.08,10.19
+2008,1077,Nvidia,NVIDIA公司,United States,Semiconductors,4.1,0.8,3.75,11.88
+2008,1078,Remgro,让慕果,South Africa,Conglomerates,1.08,0.95,6.82,12.35
+2008,1078,SES,欧洲卫星公司,Luxembourg,Media,2.13,0.57,10.59,10.71
+2008,1080,Jtekt,株式会社捷太格特,Japan,Capital Goods,8.73,0.38,7.95,5.79
+2008,1081,GPT Group,GPT集团,Australia,Diversified Financials,0.79,1.06,12.24,6.28
+2008,1082,Western Digital,西部数据公司,United States,Technology Hardware & Equip,6.75,0.71,4.6,6.85
+2008,1083,PartnerRe,合伙再险,Bermuda,Insurance,4.21,0.72,16.04,4.17
+2008,1084,Adobe Systems,美国奥多比系统公司,United States,Software & Services,3.16,0.72,5.71,18.54
+2008,1085,Arch Capital Group,阿契资本集团,Bermuda,Insurance,3.45,0.86,15.62,4.61
+2008,1086,Bed Bath & Beyond,BBBY家居,United States,Retailing,7.11,0.6,3.86,7.42
+2008,1086,OOIL-Orient Overseas,东方海外,Hong Kong/China,Transportation,5.65,2.55,7.21,3.76
+2008,1088,Sovereign Bancorp,苏维瑞银行集团,United States,Banking,5.01,-1.35,84.75,5.3
+2008,1089,Navistar Intl,航星国际,United States,Consumer Durables,14.2,0.3,12.83,3.96
+2008,1090,High Tech Computer,宏达国际电子,Taiwan,Technology Hardware & Equip,3.65,0.89,2.81,12.2
+2008,1091,Braskem,布拉斯科,Brazil,Chemicals,9.07,0.28,20.89,3.91
+2008,1091,Sherwin-Williams,宣威-威廉斯,United States,Retailing,8.01,0.62,4.86,6.36
+2008,1093,HDFC Bank,HDFC银行,India,Banking,1.96,0.27,21.09,12.87
+2008,1094,Arrow Electronics,艾睿电子,United States,Technology Hardware & Equip,15.98,0.41,8.06,4.01
+2008,1095,Telecom of New Zealand,[[]],New Zealand,Telecommunications Services,3.81,2.34,6.37,5.66
+2008,1096,Aker Kvaerner,阿克克瓦纳集团,Norway,Construction,10.66,0.44,5.14,6.61
+2008,1097,KKPC-Korea Kumho,锦湖化工,South Korea,Chemicals,13.02,0.08,27.45,1.42
+2008,1098,Allegheny Technologies,阿勒根尼科技,United States,Materials,5.45,0.75,4.1,7.81
+2008,1099,Barratt Developments,巴莱特建筑发展,United Kingdom,Construction,6.12,0.6,12.31,2.83
+2008,1100,Italmobiliare,意大利移动通信,Italy,Construction,8.2,0.35,15.95,3.41
+2008,1100,SAIC,美国国际科学应用公司,United States,Business Services & Supplies,8.75,0.41,4.83,7.88
+2008,1102,Wipro,印度惠普罗公司,India,Software & Services,3.47,0.68,3.26,15.87
+2008,1103,Doosan,斗山重工业,South Korea,Trading Companies,14.08,0.01,15.32,4.76
+2008,1104,Li & Fung,香港利丰集团,Hong Kong/China,Trading Companies,8.74,0.28,2.82,12.77
+2008,1105,Persimmon,珀西盟地产,United Kingdom,Construction,5.98,0.82,8.14,4.4
+2008,1106,Celanese,赛拉尼斯公司,United States,Chemicals,6.44,0.43,8.06,5.93
+2008,1107,Investor,[[]],Sweden,Diversified Financials,0.43,-0.06,27.41,16.35
+2008,1108,Estee Lauder Cos,雅诗·兰黛,United States,Household & Personal Products,7.47,0.45,4.74,8.24
+2008,1109,Daewoo Engineering,大宇建工,South Korea,Construction,6.27,0.46,6.62,7.1
+2008,1110,Electric Power Devel,电力开发,Japan,Utilities,4.88,0.3,16.65,6.1
+2008,1111,Tata Motors,塔塔汽车公司,India,Capital Goods,7.27,0.5,5.77,6.75
+2008,1112,Hindustan Petroleum,印度斯坦石油公司,India,Oil & Gas Operations,20.48,0.39,7.59,2.54
+2008,1113,Kinnevik,金纳威克投资,Sweden,Diversified Financials,1.19,2.5,9.72,5.11
+2008,1114,Cosmo Oil,日本科斯莫石油公司,Japan,Oil & Gas Operations,26.06,0.23,13.41,2.86
+2008,1114,Daqin Railway,大秦铁路股份有限公司,China,Transportation,2.07,0.56,5.25,36
+2008,1116,Jacobs Engineering,雅各布工程,United States,Construction,8.93,0.32,3.67,9.74
+2008,1117,AutoZone,汽车地带,United States,Retailing,6.27,0.61,4.94,7.27
+2008,1117,Torchmark,托马科,United States,Insurance,3.49,0.53,15.24,5.55
+2008,1119,Glitnir Bank,格里特利尔银行,Iceland,Banking,3.74,0.42,47.66,3.71
+2008,1120,Northwest Airlines,美国西北航空公司,United States,Transportation,12.53,NA,24.52,3.14
+2008,1120,Strabag,斯特拉巴格,Austria,Construction,12.44,0.25,7.23,7.03
+2008,1122,Trane,美国特灵空调公司,United States,Capital Goods,7.45,0.4,5.1,8.8
+2008,1123,Hua Xia Bank,华夏银行,China,Banking,2.32,0.19,56.95,10.11
+2008,1124,Eramet,法国埃赫曼金属集团,France,Materials,4.03,0.42,5.19,19.78
+2008,1125,Virgin Media,[[]],United States,Media,8.15,-0.93,20.97,4.92
+2008,1126,Ingram Micro,美国英格雷姆麦克罗公司,United States,Technology Hardware & Equip,35.05,0.28,8.98,2.63
+2008,1127,Ecolab,艺康,United States,Chemicals,5.47,0.43,4.72,11.57
+2008,1128,Sanyo Electric,三洋电机公司,Japan,Technology Hardware & Equip,19.65,-0.39,16.65,3.97
+2008,1128,Segro,[[]],United Kingdom,Diversified Financials,0.75,1.79,12.5,4.49
+2008,1130,Taisei,日本大成建设集团,Japan,Construction,15.94,0.22,16.83,2.84
+2008,1131,St Jude Medical,美国圣犹达公司,United States,Health Care Equipment & Svcs,3.78,0.56,5.33,14.79
+2008,1132,Bank Mandiri,曼迪利银行,Indonesia,Banking,3.21,0.27,29.33,7.5
+2008,1132,Thai Oil,泰国石油公司,Thailand,Oil & Gas Operations,8.75,0.64,4.6,5.12
+2008,1134,MEMC Electronic,MEMC电力,United States,Semiconductors,1.92,0.83,2.89,17.48
+2008,1134,NMDC,印度国家矿业开发公司,India,Materials,0.97,0.54,1.73,34.83
+2008,1136,Newell Rubbermaid,涅瓦-塑美,United States,Household & Personal Products,6.41,0.47,6.68,6.28
+2008,1137,Chi Mei Optoelectronics,奇美电子股份有限公司,Taiwan,Technology Hardware & Equip,5.85,0.11,12.96,9.2
+2008,1137,GS E&C,韩国GS工程建设集团,South Korea,Construction,6.43,0.42,5.8,8.01
+2008,1139,Citic Securities,中信证券股份有限公司,China,Diversified Financials,0.81,0.32,8.39,26.35
+2008,1140,Randstad Holding,仁士德信息服务,Netherlands,Business Services & Supplies,13.43,0.57,4.43,4.47
+2008,1141,BJ Services,BJ服务公司,United States,Oil & Gas Operations,4.9,0.72,4.83,7.6
+2008,1142,Hertz Global Holdings,赫兹公司,United States,Business Services & Supplies,8.69,0.26,19.26,3.84
+2008,1143,First Financial Holding,第一金融控股股份有限公司,Taiwan,Banking,1.75,0.33,48.87,5.58
+2008,1144,JS Group,JS集团,Japan,Construction,9.57,0.3,9.72,4.83
+2008,1145,Rockwell Collins,美国罗克韦尔柯林斯公司,United States,Aerospace & Defense,4.53,0.6,3.85,9.57
+2008,1146,Helvetia Patria,海尔维第帕沙,Switzerland,Insurance,5.1,0.35,25.67,3.27
+2008,1147,MF Global,明富环球集团,Bermuda,Diversified Financials,6.72,0.09,67.37,2.11
+2008,1148,Canadian Tire,泰尔五金,Canada,Retailing,8.69,0.42,6.8,5.09
+2008,1149,Hong Kong & China Gas,香港中华煤气公司,Hong Kong/China,Utilities,1.73,0.75,4.65,17.91
+2008,1150,Garmin,美国高明公司,Cayman Islands,Technology Hardware & Equip,3.18,0.86,3.29,12.74
+2008,1151,Yamato Holdings,大和控股,Japan,Transportation,9.88,0.29,6.95,6.54
+2008,1152,US Airways Group,全美航空集团,United States,Transportation,11.7,0.43,8.04,1.14
+2008,1153,Financière de l'Odet,[[]],France,Transportation,7.89,0.44,10.44,2.38
+2008,1153,Mattel,美国美泰公司,United States,Household & Personal Products,5.97,0.6,4.81,6.98
+2008,1155,Bradford & Bingley,布拉德福德宾利集团,United Kingdom,Banking,6.1,0.18,103.1,2.76
+2008,1156,UCB,优时比制药公司,Belgium,Drugs & Biotechnology,4.65,0.23,13.64,8.58
+2008,1157,Foncière des Régions,[[]],France,Diversified Financials,0.77,0.76,14.09,5.32
+2008,1158,American Finl Group,美国金融,United States,Insurance,4.4,0.38,26.12,2.94
+2008,1159,ITC,印度烟草公司,India,Food Drink & Tobacco,2.98,0.64,3.57,19.01
+2008,1160,Office Depot,美国OfficeDepot公司,United States,Retailing,15.53,0.4,7.26,3.1
+2008,1161,Kesko,科斯考集团,Finland,Food Markets,13.92,0.42,5.98,4.49
+2008,1162,IFI-Istituto Finanzia,[[]],Italy,Diversified Financials,7.3,0.29,13.85,4.49
+2008,1163,Kintetsu,日本近铁集团公司,Japan,Transportation,7.81,0.2,15.23,5.71
+2008,1164,Landsbanki Islands,冰岛国家银行,Iceland,Banking,2.39,0.55,30.62,4.34
+2008,1165,Immofinanz,爱默芬集团,Austria,Diversified Financials,0.73,0.63,17.26,5
+2008,1166,Punjab National Bank,旁遮普国家银行,India,Banking,3.03,0.38,38.42,4.76
+2008,1167,Delphi,美国德尔福公司,United States,Consumer Durables,22.28,-3.07,13.67,0.09
+2008,1168,Shimizu,清水建设,Japan,Construction,14.08,0.22,15.73,3.82
+2008,1169,Schindler Holding,迅达控股,Switzerland,Capital Goods,11.76,0.22,6.18,8.58
+2008,1169,SCOR,法国再保险集团,France,Insurance,4.08,0.4,22.8,4.11
+2008,1171,Petroplus Holdings,瑞士炼油集团,Switzerland,Oil & Gas Operations,13.91,0.3,7.47,4.58
+2008,1172,LeGrand,法国Legrand集团,France,Capital Goods,4.93,0.33,7.67,8.6
+2008,1172,Shenzhen Develop Bank,深圳发展银行,China,Banking,1.66,0.19,33.27,10.69
+2008,1174,Aioi Insurance,爱和谊保险,Japan,Insurance,9.16,0.14,26.17,3.85
+2008,1175,Inbursa Financiero,英博沙金融,Mexico,Banking,1.99,0.48,12.17,7.75
+2008,1175,MediaTek,联发科技股份有限公司,Taiwan,Semiconductors,2.48,1.04,3.04,11.99
+2008,1177,Seadrill,[[]],Bermuda,Oil & Gas Operations,1.67,0.46,9.25,10.41
+2008,1178,Forest Labs,森林实验室,United States,Drugs & Biotechnology,3.73,0.56,4.28,12.38
+2008,1179,SAIC Motor,上汽集团,China,Consumer Durables,3.83,0.18,11.07,17.37
+2008,1180,Allegheny Energy,富贵草能源,United States,Utilities,3.31,0.41,9.91,8.47
+2008,1181,HCP,[[]],United States,Diversified Financials,0.98,0.59,12.52,6.34
+2008,1182,Cameron International,[[]],United States,Oil & Gas Operations,4.67,0.5,4.73,9.27
+2008,1182,Daiei,日本大荣公司,Japan,Retailing,10.85,0.35,9.54,1.29
+2008,1182,Novatek,诺威特天然气,Russia,Oil & Gas Operations,1.85,0.53,3.19,23.08
+2008,1185,DLF,DLF集团,India,Diversified Financials,0.61,0.45,4.19,33.26
+2008,1185,Enka,Enka集团,Turkey,Construction,4.06,0.41,5.38,13.85
+2008,1187,Shanghai International Port,上海港务集团,China,Transportation,1.55,0.38,6.51,23.88
+2008,1188,Synthes,信思医疗设备,Switzerland,Health Care Equipment & Svcs,2.9,0.64,5.11,16.68
+2008,1189,Rautaruukki,劳特钢铁,Finland,Materials,5.66,0.67,4.18,6.13
+2008,1190,Commerce Bancorp,美国康美银行,United States,Banking,3.18,0.14,49.26,7.39
+2008,1191,China Southern Airlines,中国南方航空股份有限公司,China,Transportation,5.92,0.02,9.67,10.28
+2008,1191,Hoya,保谷光学,Japan,Technology Hardware & Equip,3.32,0.71,3.79,11.2
+2008,1193,Qatar Telecom,卡塔尔电信,Qatar,Telecommunications Services,2.85,0.46,12.98,7.21
+2008,1194,Rite Aid,美国来德爱公司,United States,Retailing,22.14,-0.11,12.55,2.12
+2008,1195,Credicorp,[[]],Peru,Banking,1.72,0.35,18.2,7.03
+2008,1196,Bidvest Group,必得维斯特集团,South Africa,Conglomerates,13.56,0.38,4.59,4.94
+2008,1197,First Gulf Bank,海湾第一银行,United Arab Emirates,Banking,0.97,0.42,13.01,7.68
+2008,1198,Genting,健亭度假酒店,Malaysia,"Hotels, Restaurants & Leisure",2.54,0.6,9.04,7.94
+2008,1199,Colruyt,比利时克鲁特超市,Belgium,Food Markets,6.96,0.35,2.61,8.18
+2008,1200,Banco BPI,BPI银行,Portugal,Banking,3.2,0.41,46.75,3.66
+2008,1201,Severn Trent,英国水环纯水务公司,United Kingdom,Utilities,2.91,0.53,12.3,6.63
+2008,1202,Seiko Epson,日本爱普生公司,Japan,Technology Hardware & Equip,12.05,-0.06,10.88,5.09
+2008,1203,CH Robinson Worldwide,罗宾逊全球物流有限公司,United States,Transportation,7.32,0.32,1.81,8.62
+2008,1204,Fuji Heavy Inds,富士重工业株式会社,Japan,Consumer Durables,12.72,0.27,11.02,3.19
+2008,1205,Hindalco Industries,印度铝工业有限公司,India,Materials,4.41,0.62,6.43,6.22
+2008,1205,IKB,德国工业贷款银行,Germany,Banking,4.61,0.24,69.4,0.75
+2008,1207,Polyus Gold,俄罗斯极地黄金公司,Russia,Materials,0.75,1.19,3.64,9.63
+2008,1208,Shanghai Electric Group,上海电气,China,Capital Goods,5.46,0.26,8.15,8.68
+2008,1209,Kawasaki Heavy Inds,日本川崎重工,Japan,Capital Goods,12.24,0.25,11.32,4.12
+2008,1210,AutoNation,全美汽车租赁公司,United States,Retailing,17.69,0.28,8.48,2.62
+2008,1211,Chinatrust Financial,中国信托金融控股股份有限公司,Taiwan,Banking,2.94,-0.31,52.11,7.68
+2008,1212,Schroders,施罗德集团,United Kingdom,Diversified Financials,2.41,0.59,13.56,5.5
+2008,1213,Las Vegas Sands,美国拉斯韦加斯金沙集团,United States,"Hotels, Restaurants & Leisure",2.95,0.12,11.47,29.6
+2008,1214,PLDT-Philippine LDT,菲律宾长途电话公司,Philippines,Telecommunications Services,2.73,0.72,4.53,13.53
+2008,1215,Assa Abloy,亚萨合莱锁业,Sweden,Business Services & Supplies,5.19,0.52,5.84,6.63
+2008,1216,Clorox,高乐氏,United States,Household & Personal Products,5.01,0.5,4.85,8.08
+2008,1216,Next,[[]],United Kingdom,Retailing,6.44,0.65,3.08,5.14
+2008,1218,Jiangxi Copper,江西铜业股份有限公司,China,Materials,3.15,0.59,2.56,14.31
+2008,1218,Leucadia National,卢卡帝亚国际公司,United States,Diversified Financials,1.15,0.48,8.13,10.07
+2008,1218,Taylor Wimpey,泰勒-温佩公司,United Kingdom,Construction,6.99,0.57,7.82,3.61
+2008,1221,Showa Denko,昭和电工,Japan,Chemicals,9.15,0.3,9.14,4.52
+2008,1221,Windstream,美国Windstream 公司,United States,Telecommunications Services,3.26,0.92,8.21,5.34
+2008,1223,BCV Group,波士顿资本风险投资公司,Switzerland,Banking,1.32,0.43,29.95,4.44
+2008,1223,Samsung Heavy Industries,韩国三星重工,South Korea,Capital Goods,6.86,0.17,9.73,7.86
+2008,1225,DP World,迪拜港口世界公司,United Arab Emirates,Transportation,2.29,0.07,17.46,14.94
+2008,1226,Iberia,西班牙Iberia航空,Spain,Transportation,7.74,0.48,8.08,3.43
+2008,1227,Cablevision,缆视系统有线电视,United States,Media,6.48,0.22,9.14,7.88
+2008,1228,Experian Group,益百利集团,Ireland,Business Services & Supplies,3.59,0.62,5.77,8.66
+2008,1228,OKO Bank,合作银行集团,Finland,Banking,3.93,0.31,37.82,3.57
+2008,1228,Terna,戴纳公司,Italy,Utilities,1.69,0.48,9.14,8.69
+2008,1228,Vulcan Materials,佛肯物资,United States,Construction,3.33,0.45,8.94,7.6
+2008,1232,China Yangtze Power,中国长江电力股份有限公司,China,Utilities,0.88,0.46,5.22,23.06
+2008,1233,Foster Wheeler,美国瓦尔坎材料公司,Bermuda,Construction,5.11,0.39,3.25,9.43
+2008,1234,Oji Paper,王子制纸株式会社,Japan,Materials,10.77,0.15,15.15,4.19
+2008,1235,Uniqa,优尼卡保险集团,Austria,Insurance,6.89,0.2,30.94,3.08
+2008,1236,Orascom Construction Inds,埃及欧瑞斯克姆建筑工业集团,Egypt,Construction,2.89,0.44,5,24.39
+2008,1237,T.Rowe Price,普信集团,United States,Diversified Financials,2.23,0.67,3.18,13.24
+2008,1238,Falabella,法拉贝拉,Chile,Retailing,4.36,0.37,4.93,12.39
+2008,1238,KT&G,韩国烟草人参公社,South Korea,Food Drink & Tobacco,3.04,0.7,4.17,11.88
+2008,1238,Nortel Networks,北电网络公司,Canada,Technology Hardware & Equip,10.95,-0.96,17.07,3.79
+2008,1238,Wacker Chemie,瓦克化学股份有限公司,Germany,Chemicals,4.4,0.41,4.29,10.72
+2008,1242,Crown Holdings,皇冠控股,United States,Materials,7.73,0.55,7,3.98
+2008,1243,Nidec,日本电产,Japan,Capital Goods,5.36,0.34,5.57,9.8
+2008,1244,Mondi,蒙迪,United Kingdom/South Africa,Materials,8.55,0.32,9.97,4.08
+2008,1245,Saras,Saras公司,Italy,Oil & Gas Operations,7.9,0.52,4.25,4.91
+2008,1246,Commercial Bank of Qatar,卡塔尔商业银行,Qatar,Banking,0.93,0.38,12.47,7.72
+2008,1246,Eurazeo,尤拉吉奥投资集团,France,Diversified Financials,2.92,0.4,14.29,6.56
+2008,1246,Orica,澳利卡,Australia,Chemicals,4.9,0.43,5.3,8.46
+2008,1249,GAIL (India),印度天然气,India,Utilities,3.83,0.59,5.03,8.93
+2008,1250,SL Green Realty,SLG,United States,Diversified Financials,1.05,0.66,11.43,5.39
+2008,1251,Altana,德国阿尔塔纳股份公司,Germany,Drugs & Biotechnology,1.71,5.11,8.35,3.16
+2008,1252,Wheelock & Co,会德丰有限公司,Hong Kong/China,Diversified Financials,0.35,0.81,8.66,6.05
+2008,1253,CMPC,智利CMPC 公司,Chile,Materials,3.22,0.5,7.96,7.62
+2008,1253,Kweichow Moutai,贵州茅台酒股份有限公司,China,Food Drink & Tobacco,0.99,0.41,1.45,25.88
+2008,1255,ALFA,墨西哥阿尔法集团,Mexico,Conglomerates,9.78,0.33,9.07,3.46
+2008,1256,Tele & Data Systems,[[]],United States,Telecommunications Services,4.83,0.34,9.89,5.54
+2008,1257,Tobu Railway,东武铁道,Japan,Transportation,5.55,0.36,12.66,4.13
+2008,1258,Hokuhoku Finl Group,[[]],Japan,Banking,2,0.35,81.41,4.01
+2008,1259,Attijariwafa Bank,阿提哈利瓦法银行,Morocco,Banking,1.41,0.24,19.61,8.85
+2008,1260,Shikoku Electric Power,四国电力,Japan,Utilities,4.93,0.24,11.98,6.68
+2008,1261,Noble Group,来宝集团,Hong Kong/China,Transportation,23.5,0.26,6.69,4.18
+2008,1262,Rohm,罗姆公司,Japan,Semiconductors,3.36,0.4,8.1,8.2
+2008,1263,Golden Agri-Resources,金光农业资源,Singapore,Food Drink & Tobacco,1.95,1.22,5.01,8.08
+2008,1264,Advanced Info Service,亿旺资讯,Thailand,Telecommunications Services,3.64,0.55,3.99,9.87
+2008,1265,Hang Lung Group,恒隆集团,Hong Kong/China,Diversified Financials,0.65,0.61,9.74,6.24
+2008,1266,Rexel,瑞克尔,France,Trading Companies,15.63,0.21,11.31,4.04
+2008,1267,TRW Automotive Hldgs,天合汽车,United States,Consumer Durables,14.7,0.09,12.29,2.22
+2008,1268,Essilor International,法国依视路国际有限公司,France,Health Care Equipment & Svcs,3.55,0.43,4.08,12.61
+2008,1269,Tate & Lyle Group,英国泰莱集团,United Kingdom,Food Drink & Tobacco,7.51,0.42,6.01,4.77
+2008,1270,CSL,澳大利亚CSL生物制品公司,Australia,Drugs & Biotechnology,2.7,0.46,3.44,18.79
+2008,1270,Nitto Denko,日东电工,Japan,Chemicals,5.79,0.35,5.12,8.27
+2008,1272,Banque Nat de Belgique,比利时国家银行,Belgium,Banking,2.73,0.32,109.2,1.78
+2008,1273,Coach,寇兹,United States,Household & Personal Products,2.93,0.72,2.31,10.67
+2008,1274,Integrys Energy Group,密湖能源集团,United States,Utilities,10.29,0.25,11.23,3.51
+2008,1275,Shanxi Taigang Stainless,山西太钢不锈钢股份有限公司,China,Materials,5.12,0.31,5.23,10.94
+2008,1276,Cattolica Assicurazioni,卡托里卡,Italy,Insurance,6.61,0.18,25.77,2.19
+2008,1277,Gulf Bank,科威特海湾银行,Kuwait,Banking,0.97,0.37,14.05,6.58
+2008,1278,Delek Group,德雷克集团,Israel,Oil & Gas Operations,5.71,0.36,12.41,1.95
+2008,1278,Grupo Elektra,墨西哥电器集团,Mexico,Retailing,3.58,0.6,7.55,5.73
+2008,1280,Dogan Holding,道昂控股,Turkey,Diversified Financials,8.5,0.63,5.5,1.92
+2008,1281,Punch Taverns,普塔姆斯,United Kingdom,"Hotels, Restaurants & Leisure",3.44,0.56,15.55,3.42
+2008,1282,Ensco International,恩斯克国际,United States,Oil & Gas Operations,2.14,0.99,4.97,8.61
+2008,1283,SGS Group,瑞士通标集团,Switzerland,Business Services & Supplies,3.85,0.44,2.94,10.29
+2008,1284,Kinross Gold,加拿大金罗斯黄金公司,Canada,Materials,1.17,0.36,6.7,15.21
+2008,1285,Micron Technology,美光科技,United States,Semiconductors,5.69,-0.7,14.5,5.72
+2008,1286,SembCorp Industries,新加坡胜科工业,Singapore,Conglomerates,5.99,0.37,6.03,6.16
+2008,1287,Juniper Networks,杰科网络,United States,Technology Hardware & Equip,2.84,0.36,6.89,14.04
+2008,1288,IAC/InterActiveCorp,美国互动,United States,Retailing,6.37,-0.17,12.52,5.64
+2008,1289,Harris,哈里斯,United States,Technology Hardware & Equip,4.83,0.52,4.55,6.67
+2008,1290,Industrial Alliance Insur,行业联合保险,Canada,Insurance,5.01,0.25,25.52,2.89
+2008,1290,Wisconsin Energy,威斯康星能源公司,United States,Utilities,4.24,0.34,11.72,5.1
+2008,1292,Pirelli & C,倍耐力,Italy,Consumer Durables,6.39,-1.54,13.41,5.33
+2008,1293,AK Steel Holding,AK钢铁集团,United States,Materials,7,0.39,5.2,5.89
+2008,1294,Ryanair Holdings,瑞安航空公司,Ireland,Transportation,2.99,0.58,7.61,7.14
+2008,1295,Laboratory Corp Amer,美国实验控股,United States,Health Care Equipment & Svcs,4.07,0.48,4.37,8.54
+2008,1296,WW Grainger,格雷杰公司,United States,Capital Goods,6.42,0.42,3.09,5.82
+2008,1297,Mediceo Paltac,日本麦迪西帕塔控股公司,Japan,Health Care Equipment & Svcs,18.44,0.16,8.79,4.16
+2008,1298,New York Community,纽约社区银行,United States,Banking,1.68,0.28,30.58,5.29
+2008,1299,Huntsman,亨兹曼,United States,Chemicals,9.65,-0.11,8.17,5.65
+2008,1300,Intl Game Technology,国际博采技术,United States,"Hotels, Restaurants & Leisure",2.62,0.5,4.28,14.12
+2008,1301,Shin Kong Financial,新光金控,Taiwan,Diversified Financials,4.93,0.18,45.68,3.78
+2008,1302,Kerry Group,凯瑞集团,Ireland,Food Drink & Tobacco,6.99,0.36,5.79,5.5
+2008,1303,K+S,[[]],Germany,Chemicals,3.9,0.36,3.67,12.07
+2008,1303,MeadWestvaco,米德维实伟克,United States,Materials,6.91,0.29,9.84,4.46
+2008,1305,Canara Bank,卡纳拉银行,India,Banking,3.03,0.35,38.54,2.85
+2008,1306,Millicom Intl Cellular,[[]],Luxembourg,Telecommunications Services,2.35,0.63,3.94,11.15
+2008,1307,Kimco Realty,金克瑞提不动产,United States,Diversified Financials,0.68,0.39,9.1,8.54
+2008,1308,HAL Trust,[[]],Netherlands,Diversified Financials,3.67,0.66,4.95,7.17
+2008,1308,Redecard,巴西Redecard公司,Brazil,Business Services & Supplies,0.73,0.39,7.53,10.38
+2008,1310,Hokkaido Electric Power,北海道电力公司,Japan,Utilities,4.76,0.29,12.37,4.75
+2008,1311,Banca Carige,卡里奇银行,Italy,Banking,2.83,0.18,33.13,7.02
+2008,1312,Grupo Bimbo,宾堡集团,Mexico,Food Drink & Tobacco,6.62,0.35,4.05,6.38
+2008,1313,Moody's,穆迪投资者服务公司,United States,Business Services & Supplies,2.26,0.7,1.71,9.41
+2008,1314,China Vanke,万科集团,China,Diversified Financials,2.16,0.29,6.27,21.68
+2008,1315,Balfour Beatty,鲍佛贝蒂,United Kingdom,Construction,12.83,0.32,6.42,3.84
+2008,1316,Chang Hwa Bank,彰化银行,Taiwan,Banking,1.55,0.35,41.05,3.07
+2008,1317,Smurfit Kappa Group,Smurfit Kappa集团,Ireland,Materials,10.62,0.21,12.27,3.14
+2008,1318,Hafslund,哈士兰电力,Norway,Utilities,1.91,2.45,7.99,3.93
+2008,1319,DaVita,达维它,United States,Health Care Equipment & Svcs,5.26,0.38,6.94,5.33
+2008,1320,Oil & Gas Development,石油及天然气发展,Pakistan,Oil & Gas Operations,1.49,0.75,2.26,8.86
+2008,1321,IHI,石川岛播磨重工业,Japan,Capital Goods,10.51,0.13,12.82,2.93
+2008,1322,Acer,宏基集团,Taiwan,Technology Hardware & Equip,11.32,0.31,5.78,4.49
+2008,1322,Lear,美国利尔公司,United States,Consumer Durables,16,0.24,7.8,2.13
+2008,1322,Nippon Paper Group,日本制纸集团,Japan,Materials,10,0.2,13.28,2.64
+2008,1325,Israel Corp,以色列控股集团,Israel,Chemicals,6.6,0.2,6.76,8.63
+2008,1326,IOI Corp,IOI集团,Malaysia,Food Drink & Tobacco,2.6,0.43,3.94,15.4
+2008,1327,Consol Energy,康寿能源,United States,Materials,3.76,0.27,6.21,13.87
+2008,1327,Imperial Holdings,帝国控股,South Africa,Transportation,9.39,0.39,6.31,2.19
+2008,1329,Allied Waste Inds,联合废品工业,United States,Business Services & Supplies,6.07,0.27,13.95,3.84
+2008,1330,DR Horton,美国霍顿公司,United States,Construction,10.17,-0.95,10.4,4.42
+2008,1331,Maanshan Iron & Steel,马鞍山钢铁,China,Materials,4.4,0.31,7.01,7.55
+2008,1332,BanColombia,哥伦比亚银行,Colombia,Banking,1.72,0.32,15.4,6.25
+2008,1332,Vedior,维迪奥,Netherlands,Business Services & Supplies,12.31,0.34,5.08,4.4
+2008,1334,Wrtsil,瓦锡兰集团,Finland,Capital Goods,5.49,0.38,5.37,6.62
+2008,1335,Hua Nan Financial,华南金融控股,Taiwan,Banking,1.86,0.24,51.27,4.79
+2008,1336,Taiwan Cooperative Bank,合作金库银行,Taiwan,Banking,2.15,0.28,72.88,4.03
+2008,1337,Jyske Bank,日德兰银行,Denmark,Banking,2.16,0.34,41.94,3.66
+2008,1338,Lenovo Group,联想集团,China,Technology Hardware & Equip,14.53,0.16,5.35,6.47
+2008,1339,Paychex,沛齐,United States,Business Services & Supplies,1.99,0.55,5.03,11.44
+2008,1340,Tele2,挪威第二电信,Sweden,Telecommunications Services,6.72,-0.26,7.02,7.88
+2008,1341,KBR,克鲁格·布朗·鲁特公司,United States,Construction,8.75,0.3,5.2,5.66
+2008,1342,Neptune Orient Lines,新加坡东方海皇集团,Singapore,Transportation,8.52,0.55,4.99,3.31
+2008,1342,Toyota Boshoku,日本丰田纺织株式会社,Japan,Consumer Durables,9.21,0.26,3.85,6.56
+2008,1344,Goodman Group,嘉民集团,Australia,Diversified Financials,0.61,0.53,7.78,6.88
+2008,1345,Embraer,安博威航天技术,Brazil,Aerospace & Defense,3.91,0.29,7.47,8.3
+2008,1346,Questar,科视达,United States,Utilities,2.73,0.51,5.94,9.55
+2008,1347,Industrias Peoles,佩诺尔斯工业公司,Mexico,Materials,4.1,0.35,3.29,9.57
+2008,1348,Nürnberger Beteiligungs,纽伦堡贝特林,Germany,Insurance,5.4,0.05,26.28,1.17
+2008,1349,AMEC,艾铭集团,United Kingdom,Construction,6.32,0.43,3.54,5.11
+2008,1350,Cameco,加拿大矿产能源,Canada,Materials,2.33,0.42,5.41,13.56
+2008,1351,Keyence,吉恩士,Japan,Technology Hardware & Equip,1.55,0.5,3.92,11.87
+2008,1352,Teijin,帝人聚碳酸酯,Japan,Chemicals,8.59,0.29,8.49,3.87
+2008,1353,Babcock & Brown,柏克布朗,Australia,Diversified Financials,1.93,0.46,13.31,4.77
+2008,1354,Conseco,康萨可,United States,Insurance,4.6,-0.1,36.16,2.19
+2008,1354,Kone,通力,Finland,Business Services & Supplies,5.95,0.26,3.27,8.88
+2008,1354,Valeo,法雷奥,France,Consumer Durables,13.15,0.21,9.88,2.98
+2008,1357,Yell Group,耶尔集团,United Kingdom,Media,4.08,0.42,12.32,3.41
+2008,1358,Huntington Bancshs,亨汀顿控股,United States,Banking,3.42,0.08,54.7,4.48
+2008,1359,GKN,GKN集团,United Kingdom,Consumer Durables,7.68,0.39,6.81,3.72
+2008,1360,Eastman Chemical,伊士曼化学公司,United States,Chemicals,6.83,0.31,6,5.33
+2008,1361,Axis Bank,[[]],India,Banking,1.29,0.15,16.91,9.1
+2008,1362,Furukawa Electric,古河电工,Japan,Capital Goods,9.4,0.25,9.24,2.51
+2008,1363,Shiseido,日本资生堂,Japan,Household & Personal Products,5.91,0.22,6.2,9.28
+2008,1363,Synovus Financial,西诺乌斯金融公司,United States,Banking,2.63,0.34,32.9,3.8
+2008,1365,Enterprise Inns,[[]],United Kingdom,"Hotels, Restaurants & Leisure",1.88,0.59,12.97,4.19
+2008,1366,Imerys,伊默士,France,Construction,4.97,0.41,6.05,5.32
+2008,1367,Exista,艾克斯塔,Iceland,Diversified Financials,0.28,0.79,11.79,2.07
+2008,1368,HK Exchanges & Clearing,香港交易及结算所有限公,Hong Kong/China,Diversified Financials,0.53,0.32,5.2,20.81
+2008,1369,CB Richard Ellis,世邦魏理仕,United States,Business Services & Supplies,6.03,0.39,6.24,4.62
+2008,1370,Avery Dennison,艾弗利丹尼森,United States,Business Services & Supplies,6.31,0.3,6.24,5.46
+2008,1371,Protective Life,护生,United States,Insurance,3.05,0.29,41.79,2.71
+2008,1372,Black & Decker,百得,United States,Household & Personal Products,6.56,0.52,5.41,4.19
+2008,1373,Analog Devices,亚德诺半导体,United States,Semiconductors,2.51,0.71,3.13,7.91
+2008,1373,Daewoo Ship & Marine,大宇船厂,South Korea,Capital Goods,6.17,0.06,7.05,7.76
+2008,1375,Bank of India,印度银行,India,Banking,2.48,0.26,32.8,4.72
+2008,1376,Commercial Bank of Kuwait,科威特商业银行,Kuwait,Banking,0.77,0.35,10.09,7.2
+2008,1377,Far Eastern Textile,远东纺织,Taiwan,Conglomerates,4.4,0.26,7.67,7.51
+2008,1378,Rentokil Initial,雷克创势集团,United Kingdom,Business Services & Supplies,4.37,1.3,3.87,3.01
+2008,1379,Temple-Inland,太普-银兰,United States,Materials,3.93,1.2,5.94,1.46
+2008,1380,Gold Fields,金田公司,South Africa,Materials,2.79,0.33,7.86,9.2
+2008,1381,Boliden,博利登矿业,Sweden,Materials,5.14,0.92,3.93,3.61
+2008,1381,Shaw Communications,肖氏通信,Canada,Media,2.63,0.37,7.74,8.44
+2008,1383,Scana,斯堪纳集团,United States,Utilities,4.62,0.33,10.17,4.42
+2008,1384,Affiliated Computer,ACS联盟计算机服务有限公司,United States,Software & Services,5.96,0.36,6.03,4.87
+2008,1385,Buzzi Unicem,布兹由尼斯,Italy,Construction,4.23,0.46,7.02,4.78
+2008,1386,Sapporo Hokuyo,札幌银行,Japan,Banking,1.6,0.27,59.71,3.15
+2008,1387,Dubai Financial Market,迪拜金融市场,United Arab Emirates,Diversified Financials,0.31,0.39,2.78,13.57
+2008,1387,ITV,英国独立电视,United Kingdom,Media,4.13,0.27,11.35,5.18
+2008,1389,Banco de Valencia,巴伦西亚银行,Spain,Banking,1.54,0.2,28.66,6.07
+2008,1390,Inchcape,英开普,United Kingdom,Retailing,12.02,0.35,5.19,3.59
+2008,1391,Baltika Brewery,[[]],Russia,Food Drink & Tobacco,3.21,0.57,2.82,7.59
+2008,1392,Willis Group Holdings,韦莱集团,United Kingdom,Insurance,2.58,0.41,13.39,4.69
+2008,1393,Fukuoka Financial Group,福冈金融集团,Japan,Banking,2.18 E,-0.29 E,87.46 E,4.54
+2008,1394,Banco Pastor,帕斯塔银行,Spain,Banking,2.41,0.30,36.97,3.94
+2008,1395,Wyndham Worldwide,温德姆集团,United States,"Hotels, Restaurants & Leisure",4.36,0.40,10.20,3.94
+2008,1396,Smithfield Foods,史密斯菲尔德食品公司,United States,Food Drink & Tobacco,13.68,0.16,8.43,3.70
+2008,1397,Popular,[[]],United States,Banking,3.82,-0.06,47.11,3.09
+2008,1398,Daito Trust Construction,大东建托,Japan,Construction,4.80,0.36,3.98,6.64
+2008,1398,Neuf Cegetel,[[]],France,Telecommunications Services,3.82,0.29,5.55,11.16
+2008,1400,DSG International,迪斯捷国际,United Kingdom,Retailing,15.86,0.07,7.79,2.24
+2008,1401,China Eastern Airlines,中国东方航空,China,Transportation,4.80,-0.42,7.82,8.11
+2008,1402,TMK,俄罗斯管材冶金公司,Russia,Materials,3.48,0.45,3.53,7.86
+2008,1403,China Shipping Develop,中海发展,China,Transportation,1.23,0.35,2.20,14.50
+2008,1404,Newfield Exploration,新地探索,United States,Oil & Gas Operations,1.78,0.45,6.99,7.25
+2008,1405,Credito Emiliano,埃米利亚诺信托,Italy,Banking,2.24,0.31,31.90,3.65
+2008,1406,Expeditors Intl,康捷国际,United States,Transportation,5.24,0.27,2.07,8.38
+2008,1406,Polo Ralph Lauren,拉尔夫·劳伦,United States,Household & Personal Products,4.67,0.39,4.34,6.33
+2008,1408,Sydbank,Sydbank 银行,Denmark,Banking,1.45,0.33,25.90,2.34
+2008,1409,TrygVesta,[[]],Denmark,Insurance,3.23,0.44,8.27,5.23
+2008,1410,Community Health Sys,社区健康系统,United States,Health Care Equipment & Svcs,7.13,0.03,13.49,2.97
+2008,1411,Gamesa,吉姆萨,Spain,Capital Goods,3.15,0.41,4.84,10.03
+2008,1411,Quebecor,魁北克印刷,Canada,Media,8.44,-0.05,11.63,1.94
+2008,1413,Power Grid of India,印度国家电网公司,India,Utilities,0.83,0.25,8.50,11.54
+2008,1414,NSK,日本精土,Japan,Capital Goods,6.10,0.30,6.92,4.74
+2008,1415,Saudi Investment Bank,沙特投资银行,Saudi Arabia,Diversified Financials,1.12,0.54,10.89,4.44
+2008,1416,Abercrombie & Fitch,阿博菲奇服装,United States,Retailing,3.75,0.48,2.57,6.68
+2008,1417,ATEbank,希腊农业银行,Greece,Banking,1.52,0.25,27.73,4.70
+2008,1418,SMC CORPORATION,SMC汽动控制,Japan,Capital Goods,2.89,0.54,5.82,7.52
+2008,1419,AngloGold Ashanti,英美黄金阿散蒂公司,South Africa,Materials,3.35,-0.68,9.74,10.14
+2008,1419,Buenaventura,布埃纳文图拉矿业公司,Peru,Materials,0.56,0.44,1.62,10.31
+2008,1421,Dynegy,达力智,United States,Oil & Gas Operations,3.10,0.26,13.22,6.22
+2008,1422,China Development Finl,中国开发工业银行,Taiwan,Banking,0.80,0.46,11.40,4.57
+2008,1423,Apollo Group,阿波罗集团,United States,Business Services & Supplies,2.84,0.43,1.72,10.30
+2008,1424,Erdemir,埃雷利钢铁制造,Turkey,Materials,3.46,0.48,6.01,6.08
+2008,1424,Sino Land,信和置业,Hong Kong/China,Diversified Financials,0.97,0.43,9.56,5.39
+2008,1426,CMS Energy,CMS能源,United States,Utilities,6.50,-0.22,14.20,3.24
+2008,1426,Pulte Homes,普尔特房屋,United States,Construction,9.26,-2.26,10.23,3.49
+2008,1428,Banco Nossa Caixa,[[]],Brazil,Banking,4.32,0.17,26.65,1.56
+2008,1429,Grupo Aval,阿瓦尔集团,Colombia,Diversified Financials,3.07,0.27,21.92,4.45
+2008,1430,IDB Holding,以色列贴现银行,Israel,Diversified Financials,4.96,0.15,20.37,1.15
+2008,1431,Energy East,东方能源,United States,Utilities,5.18,0.25,11.88,4.22
+2008,1432,Hormel Foods,荷美尔食品,United States,Food Drink & Tobacco,6.31,0.31,3.43,5.54
+2008,1433,Daelim Industrial,大林工程公司,South Korea,Construction,6.32,0.26,6.09,5.56
+2008,1434,IRPC,[[]],Thailand,Chemicals,7.63,0.44,4.38,3.72
+2008,1435,Compal Electronics,仁宝电脑,Taiwan,Technology Hardware & Equip,11.73,0.27,6.13,3.54
+2008,1436,Capita Group,伊斯兰保险,United Kingdom,Business Services & Supplies,4.11,0.33,2.95,7.95
+2008,1437,Liberty International,自由国际,United Kingdom,Diversified Financials,1.09,-0.21,18.20,6.94
+2008,1438,Pride International,[[]],United States,Oil & Gas Operations,2.04,0.78,5.61,5.92
+2008,1439,Samsung Card,三星信用卡,South Korea,Business Services & Supplies,2.38,0.29,11.75,6.34
+2008,1440,Royal BAM Group,BAM皇家集团,Netherlands,Construction,11.41,0.19,8.43,2.75
+2008,1441,Rakuten,乐天,Japan,Business Services & Supplies,1.91,0.33,10.19,6.32
+2008,1442,Smith & Nephew,施乐辉公司,United Kingdom,Health Care Equipment & Svcs,3.33,0.31,4.32,11.62
+2008,1443,Centex,桑达克斯公司,United States,Construction,9.73,-1.55,9.63,2.72
+2008,1444,Lennar,莱纳房屋公司,United States,Construction,10.19,-1.94,9.10,2.98
+2008,1444,Lundbergs,[[]],Sweden,Materials,3.57,0.40,11.86,3.66
+2008,1446,Südzucker,苏扎克糖业公司,Germany,Food Drink & Tobacco,7.63,-0.43,10.45,4.17
+2008,1447,Hermès International,爱马仕,France,Household & Personal Products,2.00,0.35,2.42,12.51
+2008,1448,Oil Refineries,[[]],Israel,Oil & Gas Operations,6.75,0.47,2.49,1.85
+2008,1449,American Tower,美国发射塔,United States,Telecommunications Services,1.42,0.08,8.20,15.36
+2008,1449,Northeast Utilities,东北公用,United States,Utilities,5.82,0.25,11.58,3.93
+2008,1451,Uni-President,统一集团,Taiwan,Food Drink & Tobacco,7.63,0.11,7.29,5.26
+2008,1452,Interpublic Group,Interpublic集团,United States,Media,6.55,0.17,12.46,4.06
+2008,1453,UST Inc.,UST公司,United States,Food Drink & Tobacco,1.95,0.52,1.49,8.11
+2008,1454,Omron,欧姆龙,Japan,Technology Hardware & Equip,6.27,0.33,5.22,5.13
+2008,1455,El Puerto de Liverpool,利物浦EI波多,Mexico,Retailing,3.94,0.35,4.54,7.51
+2008,1456,FMC Technologies,FMC公司,United States,Oil & Gas Operations,4.62,0.30,3.21,7.37
+2008,1456,Joyo Bank,常阳银行,Japan,Banking,1.45,0.22,63.33,4.01
+2008,1458,Charter Commun,特许通讯,United States,Media,6.00,-1.62,14.67,0.39
+2008,1459,Avis Budget Group,巴基特集团,United States,Business Services & Supplies,5.99,-0.92,14.91,1.19
+2008,1460,Sonae SGPS,桑雷木业,Portugal,Food Markets,5.78,0.32,8.20,3.67
+2008,1461,H&R Block,布洛克税务,United States,Business Services & Supplies,4.14,-0.94,11.58,6.06
+2008,1462,China Overseas Land & Inv,中国海外发展,Hong Kong/China,Diversified Financials,1.40,0.30,4.61,15.41
+2008,1463,Reliance Steel,美国Reliance钢铁和铝公司,United States,Materials,7.27,0.41,3.98,4.02
+2008,1464,Daewoo Securities,大宇证券,South Korea,Diversified Financials,1.03,0.47,9.55,4.79
+2008,1465,Aker,阿克集团,Norway,Diversified Financials,0.64,1.22,6.48,4.14
+2008,1465,Zinifex,锌飞,Australia,Materials,1.64,1.13,3.08,5.07
+2008,1467,Mercantil Servicios,商业服务,Venezuela,Diversified Financials,1.88,0.36,18.19,1.48
+2008,1468,AGL Energy,AGL能源公司,Australia,Utilities,3.20,0.35,11.99,4.55
+2008,1469,Taiheiyo Cement,太平洋水泥,Japan,Construction,8.00,0.21,10.55,2.23
+2008,1470,China Intl Marine Container,中国国际海运集装箱公司,China,Capital Goods,4.25,0.36,2.97,6.44
+2008,1471,Advanced Micro,超威半导体,United States,Semiconductors,6.01,-3.38,11.55,4.37
+2008,1471,China Merchants (International),中国招商国际旅游管理总公司,Hong Kong/China,Transportation,0.56,0.33,4.51,13.21
+2008,1473,Odakyu Electric Railway,小田急电铁,Japan,Transportation,5.30,0.15,11.07,4.81
+2008,1474,Intuit,英图易软件,United States,Software & Services,2.85,0.45,4.37,8.84
+2008,1475,NCC Group,NCC集团,Sweden,Construction,9.03,0.35,5.23,2.87
+2008,1476,Health Net,健康网络,United States,Health Care Equipment & Svcs,14.11,0.19,4.93,4.85
+2008,1477,Bank of Baroda,巴罗达银行,India,Banking,2.55,0.26,33.97,3.33
+2008,1478,National Aluminium,印度国家铝业公司,India,Materials,1.37,0.55,2.20,7.46
+2008,1479,G4S,G4S集团,United Kingdom,Business Services & Supplies,8.52,0.19,5.98,5.57
+2008,1480,Telecom Egypt,埃及电信,Egypt,Telecommunications Services,1.67,0.43,6.22,7.23
+2008,1481,Taishin Financial Holding,台新金融控股股份有限公,Taiwan,Banking,3.08,-0.50,70.68,2.72
+2008,1482,Bank of Kyoto,京都银行,Japan,Banking,1.05,0.17,54.78,4.22
+2008,1482,National Industries Group,[[]],Kuwait,Construction,0.35,0.47,5.04,8.39
+2008,1484,Unitech,尤尼泰克,India,Construction,0.76,0.30,3.03,14.57
+2008,1485,CR Bard,巴德保健,United States,Health Care Equipment & Svcs,2.20,0.41,2.48,9.51
+2008,1486,Crown Castle Intl,冠城国际公司,United States,Telecommunications Services,1.39,-0.22,10.49,10.16
+2008,1487,Votorantim C P,[[]],Brazil,Materials,1.80,0.47,6.52,6.36
+2008,1488,Ibiden,揖斐电株式会社,Japan,Technology Hardware & Equip,3.39,0.41,3.68,7.27
+2008,1488,TabCorp Holdings,泰博控股有限公司,Australia,"Hotels, Restaurants & Leisure",3.26,0.38,5.71,7.49
+2008,1490,GameStop,GameStop公司,United States,Retailing,6.53,0.23,3.61,6.82
+2008,1491,Washington Post,华盛顿邮报,United States,Media,4.18,0.29,6.00,6.89
+2008,1492,Hanjin Shipping,韩国韩进海运株式会社,South Korea,Transportation,7.14,0.30,6.71,2.78
+2008,1493,UNY,生活创库百货,Japan,Food Markets,10.38,0.08,8.07,1.52
+2008,1494,Mitsubishi UFJ Lease,三菱UFJ租赁公司,Japan,Business Services & Supplies,4.40,0.19,20.23,2.93
+2008,1495,Suzuken,玲谦株式会社,Japan,Health Care Equipment & Svcs,12.38,0.15,7.29,3.33
+2008,1496,AGCO,爱科集团,United States,Capital Goods,6.83,0.25,4.79,5.94
+2008,1496,Santos,桑托斯,Australia,Oil & Gas Operations,2.16,0.42,6.35,7.07
+2008,1498,Elpida Memory,尔必达,Japan,Semiconductors,4.17,0.45,6.48,4.41
+2008,1499,Sabesp-Saneamento Basico,圣保罗水利,Brazil,Utilities,2.59,0.41,8.31,5.44
+2008,1500,Consolidated Media,统一媒体控股公司,Australia,Media,1.62,1.66,5.94,2.84
+2008,1501,Banrisul,南里奥格兰德银行,Brazil,Banking,2.07,0.51,11.51,2.51
+2008,1502,Chinese Estates (Holdings),华人置业集团,Hong Kong/China,Diversified Financials,0.61,0.96,7.40,3.41
+2008,1503,American Natl Ins,美国国家保险,United States,Insurance,3.19,0.30,18.47,3.00
+2008,1503,Fast Retailing,迅销公司,Japan,Retailing,4.53,0.27,3.10,7.65
+2008,1505,Thomson,汤姆森集团,France,Technology Hardware & Equip,7.72,0.05,10.19,2.09
+2008,1506,Ball,美国博尔园艺有限公司,United States,Materials,7.39,0.28,6.02,4.30
+2008,1506,Bank of Greece,希腊国家银行,Greece,Banking,1.79,0.23,46.08,2.19
+2008,1508,PIK Group,PIK公司,Russia,Diversified Financials,1.60,0.31,2.49,13.00
+2008,1509,Steel Dynamics,钢铁动力公司,United States,Materials,4.38,0.39,4.52,5.49
+2008,1510,Aéroports de Paris,法国巴黎机场集团,France,Business Services & Supplies,2.73,0.20,8.63,12.10
+2008,1510,Commercial Metals,商业金属公司,United States,Materials,8.55,0.34,3.56,3.55
+2008,1512,Norddeutsche Affinerie,北德精炼公司,Germany,Materials,9.22,0.32,3.30,1.65
+2008,1513,Nishi-Nippon City Bank,西日城市银行,Japan,Banking,1.48,0.22,58.60,2.11
+2008,1514,Dongfeng Motor Group,东风汽车,China,Consumer Durables,6.18,0.27,5.62,5.38
+2008,1515,SPX,美国SPX公司,United States,Conglomerates,4.82,0.29,6.19,5.36
+2008,1516,Old Republic Intl,老共和国际,United States,Insurance,4.09,0.27,13.29,3.16
+2008,1517,Markel,美国玛克尔公司,United States,Insurance,2.48,0.41,10.13,4.63
+2008,1518,PPB Group,PPB集团,Malaysia,Food Drink & Tobacco,0.89,2.08,3.60,4.01
+2008,1519,Aracruz Celulose,阿拉克卢斯造纸,Brazil,Materials,1.88,0.42,4.62,8.43
+2008,1520,MDU Resources,MDU资源,United States,Utilities,4.25,0.43,5.59,4.79
+2008,1521,Avalonbay Communities,艾夫隆公寓,United States,Diversified Financials,0.81,0.36,6.73,7.15
+2008,1522,KLA-Tencor,科天公司,United States,Semiconductors,2.78,0.47,4.15,7.56
+2008,1523,Alfresa Holdings,阿弗瑞萨控股,Japan,Health Care Equipment & Svcs,13.53,0.10,6.52,2.93
+2008,1523,Yuanta Financial Holdings,元大金融控股股份有限公司,Taiwan,Banking,0.57,-0.10,12.97,7.59
+2008,1525,Dean Foods,迪恩食品,United States,Food Drink & Tobacco,11.82,0.13,7.03,2.85
+2008,1526,Tenet Healthcare,泰尼特保健,United States,Health Care Equipment & Svcs,8.85,-0.09,8.39,2.28
+2008,1527,Grasim Industries,印度Grasim Industries公司,India,Construction,3.24,0.46,3.70,6.62
+2008,1527,NOVA Chemicals,NOVA化工,Canada,Chemicals,7.21,0.37,4.84,2.54
+2008,1529,Ahli United Bank,阿赫里联合银行,Bahrain,Banking,1.16,0.21,20.84,5.38
+2008,1530,Visteon,伟士通,United States,Consumer Durables,11.27,-0.37,7.21,0.45
+2008,1531,Slavneft Megioneft,斯拉夫石油公司,Russia,Oil & Gas Operations,4.01,0.81,2.51,3.54
+2008,1532,Japan Securities,日本证券金融,Japan,Diversified Financials,0.37,0.04,63.13,0.75
+2008,1533,Jabil Circuit,捷普电子,United States,Technology Hardware & Equip,12.43,0.09,6.73,2.71
+2008,1534,EVN,奥地利EVN公司,Austria,Utilities,3.18,0.32,8.92,5.34
+2008,1535,Celgene,美国塞尔细胞基因公司,United States,Drugs & Biotechnology,1.41,0.23,3.61,22.78
+2008,1535,Yamaguchi Financial Group,山口金融控股股份有限公司,Japan,Banking,1.06,-0.20,62.31,2.96
+2008,1537,Electronic Arts,美国艺电公司,United States,Software & Services,3.15,-0.39,6.45,14.98
+2008,1538,Acom,维亚康姆,Japan,Diversified Financials,3.61,-3.73,17.28,4.59
+2008,1538,Pioneer Natural Res,先锋自然资源,United States,Oil & Gas Operations,1.83,0.37,8.62,5.35
+2008,1540,Tech Data,美国TechData公司,United States,Technology Hardware & Equip,23.42,0.11,5.22,1.85
+2008,1541,Associated Banc-Corp,联合银行,United States,Banking,1.62,0.29,21.59,3.17
+2008,1541,Metro Inc,美卓公司,Canada,Food Markets,10.69,0.28,4.29,2.44
+2008,1543,Aiful,AIFUL银行,Japan,Diversified Financials,4.25,-3.50,18.84,2.55
+2008,1543,Singapore Technologies,新科集团,Singapore,Aerospace & Defense,3.51,0.35,4.12,7.35
+2008,1545,E-Trade Financial,E-Trade金融,United States,Diversified Financials,2.22,-1.44,56.85,1.97
+2008,1546,First American,第一美国,United States,Insurance,8.20,0.00,8.65,3.19
+2008,1547,Wynn Resorts,永利度假村有限公司,United States,"Hotels, Restaurants & Leisure",2.69,0.26,6.30,11.37
+2008,1548,Bradespar,[[]],Brazil,Diversified Financials,1.64,0.36,3.66,9.13
+2008,1549,Dainippon Ink & Chems,大日本化工,Japan,Chemicals,8.64,0.19,8.12,2.93
+2008,1550,Hokuriku Electric Power,北陆电力,Japan,Utilities,4.13,0.15,12.55,4.78
+2008,1551,Constellation Brands,星座公司,United States,Food Drink & Tobacco,4.03,0.29,10.19,4.14
+2008,1552,First Horizon National,一视银行,United States,Banking,3.17,-0.17,37.02,2.05
+2008,1553,Hammerson,汉森公司,United Kingdom,Diversified Financials,0.61,0.20,15.12,6.36
+2008,1553,Hiroshima Bank,广岛银行,Japan,Banking,1.30,0.18,52.52,3.12
+2008,1555,Frontier Oil,边界石油,United States,Oil & Gas Operations,5.19,0.50,1.86,3.76
+2008,1555,Moscow Municipal Bank,莫斯科市立银行,Russia,Banking,1.28,0.21,14.52,6.29
+2008,1557,First Quantum Minerals,第一量子矿业公司,Canada,Materials,1.65,0.56,2.68,6.35
+2008,1558,Agility,Agility公司,Kuwait,Transportation,3.51,0.58,4.57,4.81
+2008,1558,Travis Perkins,塔维博金,United Kingdom,Retailing,6.32,0.37,5.53,2.64
+2008,1560,Honam Petrochemical,韩国湖南石化,South Korea,Chemicals,6.04,0.41,4.49,3.17
+2008,1561,Banca Italease,因特撒银行,Italy,Business Services & Supplies,1.42,0.24,31.67,1.64
+2008,1561,Hachijuni Bank,八十二银行,Japan,Banking,1.58,0.20,52.09,3.50
+2008,1563,Terumo,泰尔茂株式会社,Japan,Health Care Equipment & Svcs,2.35,0.32,3.11,10.78
+2008,1564,NII Holdings,NII控股,United States,Telecommunications Services,3.30,0.38,5.44,6.75
+2008,1565,Expedia,艾派迪,United States,Business Services & Supplies,2.67,0.30,8.30,6.55
+2008,1566,Nippon Sheet Glass,日本板硝子株式会社,Japan,Construction,5.80,0.10,11.98,3.21
+2008,1566,VMware,VMware公司,United States,Software & Services,1.33,0.22,2.70,22.47
+2008,1568,Aareal Bank,阿瑞尔银行,Germany,Banking,2.63,0.14,50.27,1.46
+2008,1569,Daegu Bank,大家银行,South Korea,Banking,1.46,0.26,23.97,1.83
+2008,1569,Gunma Bank,群马银行,Japan,Banking,1.25,0.16,50.07,3.42
+2008,1569,JFE Shoji Holdings,日本钢铁商事控股,Japan,Trading Companies,18.85,0.15,5.33,2.01
+2008,1572,BCI-Banco Credito,BCI信用银行,Chile,Banking,2.90,0.27,21.45,3.26
+2008,1573,Yanzhou Coal Mining,兖州煤业股份有限公司,China,Materials,1.66,0.30,3.00,11.30
+2008,1574,Chugoku Bank,日本中国银行,Japan,Banking,1.18,0.16,49.11,3.17
+2008,1575,Fuji Electric Holdings,富士电气控股,Japan,Capital Goods,7.73,0.20,8.67,2.79
+2008,1576,Lonmin,隆明公司,United Kingdom,Materials,2.00,0.32,3.94,10.28
+2008,1577,Hyundai Merchant,韩国现代商船株式会社,South Korea,Transportation,5.92,0.13,6.56,5.67
+2008,1578,Saudi Arabian Fertilizers,沙特阿拉伯化肥公司,Saudi Arabia,Chemicals,0.49,0.31,1.78,11.07
+2008,1579,Grant Prideco,格兰特公司,United States,Oil & Gas Operations,1.91,0.52,2.35,6.41
+2008,1579,Securitas,赛库达斯保安,Sweden,Business Services & Supplies,9.73,0.08,6.06,4.42
+2008,1581,RenaissanceRe Holdings,[[]],Bermuda,Insurance,1.67,0.61,8.29,3.61
+2008,1581,77 Bank,77银行,Japan,Banking,1.06,0.09,48.04,2.26
+2008,1583,Krung-Thai Bank,泰京银行,Thailand,Banking,2.56,0.21,40.65,3.80
+2008,1583,Sumco,日本SUMCO集团,Japan,Semiconductors,2.64,0.60,4.70,5.80
+2008,1585,CFS Retail Property Trust,[[]],Australia,Diversified Financials,0.43,0.95,5.42,4.48
+2008,1586,Avtovaz,伏尔加汽车,Russia,Consumer Durables,6.77,0.13,6.65,4.90
+2008,1586,Hershey,美国好时公司,United States,Food Drink & Tobacco,4.95,0.21,4.25,8.43
+2008,1586,Nisshin Steel,日新制钢,Japan,Materials,5.46,0.32,7.01,3.32
+2008,1586,Soriana,索利亚拉百货,Mexico,Retailing,5.97,0.29,5.60,4.71
+2008,1590,MBIA,美国城市债券保险,United States,Insurance,-0.28,-1.93,47.42,2.90
+2008,1590,Powerchip Semiconductor,力晶半导体股份有限公司,Taiwan,Semiconductors,2.83,0.84,6.83,3.19
+2008,1592,TransAlta,阿尔达电力,Canada,Utilities,2.80,0.31,6.93,7.25
+2008,1593,Brown-Forman,百富门公司,United States,Food Drink & Tobacco,2.61,0.40,3.38,7.87
+2008,1594,Lam Research,拉姆研究,United States,Semiconductors,2.41,0.64,2.61,5.44
+2008,1595,Haitong Securities,海通证券,China,Diversified Financials,0.05,0.02,0.15,24.60
+2008,1596,Sumitomo Heavy Inds,住友金属矿山,Japan,Capital Goods,5.11,0.32,5.05,4.94
+2008,1597,Reliance Power,信实电力,India,Utilities,0.00,0.00,0.05,24.32
+2008,1598,China Resources Power Holdings,华润电力控股有限公司,Hong Kong/China,Utilities,1.25,0.30,4.89,10.54
+2008,1599,Credit Saison,西武信托,Japan,Diversified Financials,2.83,0.13,19.20,5.02
+2008,1600,China Shipping Container,中海集装箱运输股份有限公司,China,Transportation,3.91,0.11,3.94,11.83
+2008,1601,Carphone Warehouse,卡冯·维尔豪斯,United Kingdom,Retailing,7.86,0.13,4.97,5.59
+2008,1602,Cognizant Technology,高知特,United States,Software & Services,2.14,0.35,1.84,8.71
+2008,1603,Iyo Bank,伊予银行,Japan,Banking,0.95,0.14,41.31,3.05
+2008,1604,Parmalat,帕玛拉特公司,Italy,Food Drink & Tobacco,5.07,0.25,5.22,6.33
+2008,1605,Van Lanschot,兰雄,Netherlands,Diversified Financials,1.64,0.24,24.70,3.60
+2008,1606,Link REIT,领汇信托,Hong Kong/China,Diversified Financials,0.51,0.56,5.79,5.29
+2008,1607,Union National Bank,联合国民银行,United Arab Emirates,Banking,0.95,0.32,15.10,3.96
+2008,1608,Nanto Bank,南都银行,Japan,Banking,1.01,0.05,39.36,1.24
+2008,1609,Sekisui Chemical,积水化工,Japan,Conglomerates,7.88,0.22,7.45,3.73
+2008,1610,ERG,ERG公司,Italy,Oil & Gas Operations,12.04,0.20,6.05,2.93
+2008,1611,Corporate Express,企业特快公司,Netherlands,Business Services & Supplies,8.22,0.28,5.54,2.18
+2008,1611,Israel Discount Bank,以色列贴现银行,Israel,Banking,1.55,0.20,38.36,2.57
+2008,1611,SAS Group,时捷集团,Sweden,Transportation,8.37,0.10,7.54,1.46
+2008,1614,Seven Network,澳大利亚七网络,Australia,Media,0.86,1.38,2.76,2.41
+2008,1615,GEA Group,GEA集团,Germany,Conglomerates,5.73,-0.38,5.98,6.15
+2008,1615,Lanxess,朗盛公司,Germany,Chemicals,9.16,0.26,5.44,3.18
+2008,1617,Orient,日本orient株式会社,Japan,Diversified Financials,2.66,-3.93,37.93,0.74
+2008,1618,Pinnacle West,西帕纳卡投资集团,United States,Utilities,3.52,0.31,11.24,3.57
+2008,1619,Nagoya Railroad,名古屋铁道,Japan,Transportation,5.93,0.11,10.38,2.80
+2008,1620,SBI Holdings,赛门铁克公司,Japan,Diversified Financials,1.22,0.39,11.56,2.82
+2008,1621,Bilfinger & Berger,贝尔芬格伯格,Germany,Construction,9.42,0.12,6.77,2.97
+2008,1621,Minmetals Development,中国五矿集团公司,China,Trading Companies,9.79,0.07,2.78,4.66
+2008,1623,Thornburg Mortgage,桑伯格抵押,United States,Diversified Financials,2.62,-0.87,36.52,1.25
+2008,1624,Finning International,芬宁国际,Canada,Trading Companies,5.71,0.28,4.16,4.90
+2008,1624,Interactive Brokers Group,盈透集团有限责任公司,United States,Diversified Financials,2.02,0.07,36.25,1.25
+2008,1626,Bunzl,邦邹纸业,United Kingdom,Business Services & Supplies,7.11,0.26,4.13,4.53
+2008,1627,BorgWarner,博格华纳,United States,Consumer Durables,5.33,0.29,4.96,5.02
+2008,1627,Daishi Bank,第四银行,Japan,Banking,0.72,0.07,35.76,1.42
+2008,1629,Invensys,英维思集团,United Kingdom,Capital Goods,5.04,0.41,3.88,4.08
+2008,1630,Juroku Bank,十六银行,Japan,Banking,0.94,0.12,35.61,1.91
+2008,1631,Ryder System,莱德系统,United States,Business Services & Supplies,6.57,0.25,6.85,3.34
+2008,1631,Shiga Bank,滋贺银行,Japan,Banking,0.79,0.08,35.56,1.71
+2008,1633,Bumi Resources,布米能源,Indonesia,Materials,1.87,0.22,2.48,16.48
+2008,1633,Fortescue Metals Group,FMG集团,Australia,Materials,0.00,-0.06,2.96,20.58
+2008,1633,Prisa Group,Prisa集团,Spain,Media,5.28,0.28,7.53,3.07
+2008,1636,Oshkosh Truck,奥什科什卡车公司,United States,Capital Goods,6.80,0.26,6.28,2.97
+2008,1637,Hagemeyer,海格曼,Netherlands,Trading Companies,9.41,0.23,3.87,4.28
+2008,1638,Puma,彪马公司,Germany,Household & Personal Products,3.46,0.39,2.61,5.73
+2008,1638,SinoPac Financial Holdings,建华金融控股公司,Taiwan,Banking,1.77,0.08,34.48,3.14
+2008,1640,Singapore Petroleum,新加坡石油,Singapore,Oil & Gas Operations,6.10,0.35,3.00,2.56
+2008,1641,Hyakugo Bank,百五银行,Japan,Banking,0.74,0.08,33.96,1.50
+2008,1641,Nasdaq OMX Group,纳斯达克OMX集团,United States,Diversified Financials,2.44,0.52,2.98,5.77
+2008,1643,Raymond James Finl,雷蒙-詹姆斯金融,United States,Diversified Financials,3.23,0.25,17.10,2.73
+2008,1644,Aveng,Aveng建筑集团,South Africa,Construction,3.13,1.06,2.70,2.72
+2008,1645,Qimonda,奇梦达,Germany,Semiconductors,5.13,-0.35,7.65,4.97
+2008,1646,CESP,圣保罗电力公司,Brazil,Utilities,0.97,-0.06,8.89,8.56
+2008,1647,Enagas,Enagas公司,Spain,Utilities,1.14,0.35,5.79,7.23
+2008,1648,RHB Capital,兴业资本,Malaysia,Banking,1.83,0.21,31.47,3.34
+2008,1649,Ultra Petroleum,阿尔塔石油公司,United States,Oil & Gas Operations,0.57,0.26,1.78,11.96
+2008,1650,Takashimaya,高岛屋百货,Japan,Retailing,8.87,0.21,6.58,3.68
+2008,1651,Tatung,大同科技公司,Taiwan,Technology Hardware & Equip,5.83,-0.25,9.99,2.70
+2008,1652,IndyMac Bancorp,印地麦克银行,United States,Banking,2.19,-0.61,32.73,0.50
+2008,1652,Wuliangye Yibin,宜宾五粮液集团,China,Food Drink & Tobacco,0.94,0.20,1.58,19.32
+2008,1654,Taiwan Business Bank,台湾企银,Taiwan,Banking,1.03,0.02,32.46,1.27
+2008,1655,Tullow Oil,爱尔兰塔洛石油公司,United Kingdom,Oil & Gas Operations,1.13,0.31,3.89,8.98
+2008,1656,Dana Holding,美国德纳公司,United States,Consumer Durables,8.56,-0.52,6.85,1.14
+2008,1657,People's United Financial,[[]],United States,Banking,0.89,0.15,13.55,5.70
+2008,1658,Shinko Securities,新光证券,Japan,Diversified Financials,1.25,0.19,31.78,2.71
+2008,1659,Banca Popolare di Sondrio,桑迪人民银行,Italy,Banking,1.10,0.16,21.14,4.44
+2008,1660,Barloworld,澳大利亚制漆集团,South Africa,Conglomerates,6.29,0.33,4.37,2.49
+2008,1660,Ogaki Kyoritsu Bank,大坦共立银行,Japan,Banking,0.68,0.07,31.62,1.69
+2008,1662,Jefferies Group,杰弗里集团,United States,Diversified Financials,2.72,0.14,31.60,2.21
+2008,1663,Tokyu Land,东急地产,Japan,Diversified Financials,4.88,0.27,8.06,3.67
+2008,1664,San-In Godo Bank,山阴合同银行,Japan,Banking,0.90,0.10,31.01,1.40
+2008,1665,Hyakujushi Bank,百十四银行,Japan,Banking,0.60,0.12,30.98,1.53
+2008,1665,Red Eléctrica de Espaa,西班牙全国电力网路,Spain,Utilities,1.25,0.26,6.31,8.50
+2008,1665,Steinhoff Intl Holdings,斯坦国际控股,South Africa,Consumer Durables,4.85,0.42,5.22,3.01
+2008,1668,Nexans,耐克森,France,Capital Goods,5.86,0.32,5.77,2.83
+2008,1669,World Fuel Services,全球燃料服务公司,United States,Business Services & Supplies,13.73,0.06,1.80,0.89
+2008,1670,DST Systems,DST系统,United States,Software & Services,2.30,0.87,3.40,4.22
+2008,1670,Tosoh,拓索,Japan,Chemicals,6.65,0.24,6.64,2.18
+2008,1672,Amlin,[[]],United Kingdom,Insurance,2.20,0.70,6.48,2.64
+2008,1672,Broadcom,博通,United States,Semiconductors,3.78,0.21,4.84,10.16
+2008,1674,Phoenix Cos,凤凰保险,United States,Insurance,2.57,0.12,30.21,1.30
+2008,1675,Higo Bank,肥后银行,Japan,Banking,0.59,0.07,30.06,1.40
+2008,1676,Zijin Mining Group,紫金矿业,China,Materials,1.37,0.22,1.45,15.50
+2008,1677,Maxim Integrated Prods,美信集成,United States,Semiconductors,1.94,0.46,3.33,5.86
+2008,1677,Nelnet,尼尔网,United States,Diversified Financials,1.72,0.01,29.34,0.54
+2008,1679,Cahya Mata Sarawak,捞越日光集团,Malaysia,Banking,1.75,0.00,29.21,0.21
+2008,1680,Renewable Energy,挪威再生能源集团,Norway,Capital Goods,1.22,0.25,3.25,12.27
+2008,1681,Nyrstar,Nyrstar公司,Belgium,Materials,4.19,0.50,3.30,2.47
+2008,1682,Smurfit-Stone,石东公司,United States,Materials,7.42,-0.10,7.39,2.03
+2008,1683,GD Power Development,国电电力发展股份有限公司,China,Utilities,2.36,0.23,8.15,7.11
+2008,1684,R&F Properties,富力集团,China,Diversified Financials,1.30,0.27,3.38,10.08
+2008,1685,Alliant Energy,美国阿兰特能源,United States,Utilities,3.44,0.43,7.19,3.83
+2008,1685,ASX,澳大利亚证券交易有限公司,Australia,Diversified Financials,0.46,0.25,8.09,6.73
+2008,1687,LS Cable,乐星线缆有限公司,South Korea,Capital Goods,9.08,0.24,5.41,3.12
+2008,1687,Uralkali,俄罗斯乌拉尔钾肥公司,Russia,Chemicals,0.85,0.13,1.26,17.22
+2008,1689,Musashino Bank,武藏野银行,Japan,Banking,0.60,0.10,28.30,1.42
+2008,1689,OfficeMax,办公麦克斯,United States,Retailing,9.08,0.21,6.28,1.61
+2008,1689,Penske Automotive Gp,美国潘世奇汽车集团,United States,Retailing,12.96,0.13,4.67,1.71
+2008,1692,Kiyo Holdings,纪阳控股,Japan,Banking,0.67,0.07,28.06,1.15
+2008,1692,Manitowoc,马尼托瓦克起重集团,United States,Capital Goods,4.01,0.34,2.87,5.12
+2008,1694,China State Shipbuilding,中国船舶工业集团公司,China,Capital Goods,0.29,0.03,0.43,17.04
+2008,1694,TomTom,TomTom公司,Netherlands,Technology Hardware & Equip,2.54,0.46,2.84,5.77
+2008,1696,Abengoa,阿文戈亚太阳能公司,Spain,Construction,4.69,0.18,11.56,3.12
+2008,1696,Autodesk,欧特克软件公司,United States,Software & Services,2.17,0.36,2.21,7.15
+2008,1698,FirstGroup,第一集团,United Kingdom,Transportation,7.30,0.18,5.01,5.04
+2008,1699,CF Industries Holdings,[[]],United States,Chemicals,2.76,0.37,2.01,6.87
+2008,1700,Bank of Ayudhya,大城银行,Thailand,Banking,1.26,0.05,18.74,4.52
+2008,1700,CJ,希杰集团,South Korea,Food Drink & Tobacco,6.76,0.15,7.75,2.09
+2008,1700,Network Appliance,网域存储技术,United States,Technology Hardware & Equip,3.17,0.31,3.78,7.44
+2008,1700,Samsung SDI,三星电管,South Korea,Technology Hardware & Equip,7.18,0.10,7.41,3.22
+2008,1704,EW Scripps,EW史立普斯报业,United States,Media,2.52,0.38,4.33,6.80
+2008,1705,China Oilfield Services,中海油田服务股份有限公司,China,Oil & Gas Operations,0.82,0.14,1.68,16.61
+2008,1706,EGL Group,瑞士EGL集团,Switzerland,Utilities,5.05,0.38,4.67,3.24
+2008,1707,Suning Appliance,苏宁电器,China,Retailing,3.19,0.09,1.17,13.39
+2008,1708,Autoliv,奥托利夫,Sweden,Consumer Durables,6.77,0.29,5.31,3.67
+2008,1709,Guangdong Midea Electric,美的集团,China,Consumer Durables,4.56,0.16,2.42,7.62
+2008,1710,Dongbu Insurance,东部火灾海上保险公司,South Korea,Insurance,5.53,0.13,9.64,2.87
+2008,1710,TCF Financial,TCF金融,United States,Banking,1.51,0.27,15.98,2.35
+2008,1712,Kagoshima Bank,鹿儿岛银行,Japan,Banking,0.70,0.08,26.76,1.47
+2008,1713,Hokkoku Bank,北国银行,Japan,Banking,0.63,0.03,26.59,1.53
+2008,1714,Bank of Nagoya,名古屋银行,Japan,Banking,0.63,0.07,26.43,1.19
+2008,1714,Couche Tard,库世塔德,Canada,Food Markets,12.38,0.20,3.04,3.45
+2008,1716,Newcrest Mining,纽克雷斯特矿业公司,Australia,Materials,1.32,0.06,3.49,16.14
+2008,1717,Challenger Financial Svcs,Challenger金融服务集团,Australia,Diversified Financials,2.27,0.22,23.17,1.20
+2008,1717,First Solar,First Solar公司,United States,Technology Hardware & Equip,0.50,0.16,1.37,16.14
+2008,1717,Jean Coutu Group,金库图集团,Canada,Retailing,12.30,0.15,2.21,2.66
+2008,1717,Thai Airways Intl,泰国国际航空公司,Thailand,Transportation,6.03,0.20,8.42,1.74
+2008,1721,Colonial BancGroup,康联银行,United States,Banking,1.73,0.18,25.98,1.91
+2008,1721,Kloeckner & Co,[[]],Germany,Trading Companies,7.30,0.27,3.33,2.22
+2008,1721,Quicksilver Resources,[[]],United States,Oil & Gas Operations,0.56,0.48,2.78,5.45
+2008,1724,TECO Energy,泰科能源公司,United States,Utilities,3.54,0.41,6.77,3.16
+2008,1725,CapitaCommercial Trust,嘉康信托,Singapore,Diversified Financials,0.17,0.98,3.67,2.06
+2008,1725,Empire,帝国,Canada,Food Markets,12.07,0.19,4.72,2.53
+2008,1725,Suruga Bank,骏河银行,Japan,Banking,0.88,0.17,25.89,2.97
+2008,1728,Circuit City Stores,环城百货,United States,Retailing,12.03,-0.34,5.00,0.74
+2008,1729,Givaudan,奇华顿,Switzerland,Chemicals,3.64,0.08,6.79,7.13
+2008,1730,Aldar Properties,阿尔达,United Arab Emirates,Diversified Financials,0.07,0.34,1.39,7.33
+2008,1730,Federal-Mogul,美国辉门公司,United States,Consumer Durables,6.71,-0.44,7.53,1.82
+2008,1732,Whole Foods Market,美国全食超市公司,United States,Food Markets,7.18,0.17,3.21,4.90
+2008,1733,Sadia,萨迪亚,Brazil,Food Drink & Tobacco,4.84,0.39,4.54,3.82
+2008,1734,Keiyo Bank,京叶银行,Japan,Banking,0.58,0.12,25.21,1.65
+2008,1735,Energizer Holdings,劲量控股,United States,Household & Personal Products,3.60,0.30,5.92,5.33
+2008,1736,Country Garden Holdings,碧桂园集团,China,Diversified Financials,1.02,0.19,1.89,15.52
+2008,1737,Allied World Assurance,联合世界保险有限公司,Bermuda,Insurance,1.45,0.47,7.90,2.12
+2008,1737,Delta Electronics,台达电子工业股份有限公司,Taiwan,Technology Hardware & Equip,3.23,0.35,2.73,6.08
+2008,1737,Indian Overseas Bank,印度海外银行,India,Banking,1.43,0.23,19.03,2.25
+2008,1740,Copel,巴西巴纳纳州电力公司,Brazil,Utilities,2.52,0.58,5.43,4.59
+2008,1740,Endurance Specialty,耐力保险,Bermuda,Insurance,1.85,0.52,7.27,2.37
+2008,1742,Paragon Group of Cos,[[]],United Kingdom,Diversified Financials,1.58,0.13,24.66,0.67
+2008,1743,BMCE-Banque Marocaine,[[]],Morocco,Banking,0.85,0.10,10.06,6.60
+2008,1744,Indl Dev Bank of India,印度工业发展银行,India,Banking,1.70,0.14,24.51,2.14
+2008,1745,City Developments,城市发展银行,Singapore,Diversified Financials,1.66,0.23,7.17,7.80
+2008,1746,M-real,森林集团公司,Finland,Materials,6.48,-0.28,7.58,1.27
+2008,1746,Nippon Electric Glass,日本电气硝子,Japan,Technology Hardware & Equip,2.86,0.34,4.36,7.08
+2008,1748,Jaccs,Jaccs信用卡,Japan,Diversified Financials,1.32,0.02,24.11,0.63
+2008,1749,Toho Bank,东丰银行,Japan,Banking,0.54,0.05,24.07,0.90
+2008,1750,CenturyTel,世纪通讯,United States,Telecommunications Services,2.66,0.42,8.19,3.99
+2008,1751,Hanwa,阪和,Japan,Trading Companies,11.23,0.10,4.05,0.99
+2008,1752,Banco de Chile,智利银行,Chile,Banking,1.89,0.06,23.86,1.60
+2008,1753,Industrivarden,工业投资,Sweden,Diversified Financials,-0.27,-0.30,10.25,6.37
+2008,1753,Kingboard Chemical,建滔化工集团,Hong Kong/China,Chemicals,2.16,0.91,3.61,3.79
+2008,1753,Power Finance,印度电力金融公司,India,Business Services & Supplies,0.89,0.23,10.80,5.36
+2008,1756,Amdocs,阿姆多克斯,United Kingdom,Software & Services,2.89,0.37,4.38,6.45
+2008,1757,Husqvarna,胡斯华纳,Sweden,Consumer Durables,5.15,0.31,4.32,4.21
+2008,1758,Pusan Bank,釜山银行,South Korea,Banking,1.44,0.20,23.76,1.97
+2008,1759,Union Bank of India,印度联合银行,India,Banking,1.90,0.20,23.76,2.34
+2008,1760,Heidelberg,海德堡水泥,Germany,Capital Goods,5.08,0.35,4.45,1.90
+2008,1761,Ambac Financial Group,Ambac金融集团,United States,Insurance,-4.19,-3.23,23.57,1.13
+2008,1762,Shaw Group,绍尔集团,United States,Construction,6.16,0.00,4.09,5.37
+2008,1763,BOK Financial,知识体金融,United States,Banking,1.56,0.22,20.84,3.48
+2008,1763,Satyam Computer Services,萨特亚姆电脑服务公司,India,Software & Services,1.50,0.33,1.59,7.26
+2008,1765,AmeriCredit,美国信贷,United States,Diversified Financials,2.55,0.23,18.15,1.65
+2008,1766,Henry Schein,亨利香恩,United States,Health Care Equipment & Svcs,5.92,0.22,3.31,5.36
+2008,1767,CLH-Cía Logística de Hidrocarburos,[[]],Spain,Oil & Gas Operations,0.65,0.47,2.34,5.32
+2008,1768,Toyo Seikan Kaisha,东洋制罐,Japan,Materials,6.20,0.04,7.70,3.65
+2008,1768,Xilinx,塞灵思公司,United States,Semiconductors,1.81,0.37,3.21,6.40
+2008,1770,Kanematsu,金松公司,Japan,Trading Companies,10.90,0.06,4.63,0.60
+2008,1771,AMMB Holdings,AMMB控股,Malaysia,Banking,1.60,-0.06,22.50,2.91
+2008,1771,Omnicare,全护技术,United States,Health Care Equipment & Svcs,6.22,0.11,7.59,2.55
+2008,1773,Amphenol,安费诺集团,United States,Technology Hardware & Equip,2.85,0.35,2.68,6.55
+2008,1773,Anhui Conch Cement,安徽海螺水泥股份,China,Construction,1.95,0.19,2.85,14.04
+2008,1773,Fraser & Neave,星狮集团,Singapore,Conglomerates,3.19,0.26,8.66,4.88
+2008,1773,YIT Group,伊特集团,Finland,Construction,5.41,0.33,3.55,3.19
+2008,1777,Arab Banking,阿拉伯银行企业,Bahrain,Banking,1.47,0.20,22.39,1.85
+2008,1778,Oita Bank,大分银行,Japan,Banking,0.54,0.06,22.36,0.93
+2008,1779,Bank of Ikeda,池田银行,Japan,Banking,0.57,0.05,22.34,0.74
+2008,1780,Hong Leong Financial Group,丰隆金融集团有限公司,Malaysia,Banking,1.07,0.14,22.33,1.54
+2008,1781,Linear Technology,凌特科技,United States,Semiconductors,1.09,0.38,1.41,6.12
+2008,1782,CBD-Brasil Distrib,CBD-巴西,Brazil,Food Markets,6.50,0.04,5.07,4.93
+2008,1783,Hologic,美国Hologic公司,United States,Health Care Equipment & Svcs,0.95,-0.28,7.90,7.71
+2008,1784,Yamanashi Chuo Bank,山梨中央银行,Japan,Banking,0.52,0.07,22.08,1.07
+2008,1785,Sealed Air,希尔悦包装,United States,Materials,4.65,0.35,5.44,3.91
+2008,1786,Aspen Insurance Holdings,[[]],Bermuda,Insurance,2.01,0.49,7.19,2.52
+2008,1786,D'Ieteren,伊特伦,Belgium,Retailing,7.04,0.13,6.64,1.96
+2008,1786,Transurban Group,[[]],Australia,Transportation,0.43,-0.13,9.59,6.54
+2008,1789,CCR,巴西CCR公司,Brazil,Transportation,1.32,0.33,2.38,6.90
+2008,1790,Ultrapar Participacoes,欧特培公司,Brazil,Oil & Gas Operations,10.23,0.09,5.19,2.00
+2008,1791,Astoria Financial,埃斯托金融,United States,Banking,1.18,0.12,21.72,2.51
+2008,1791,Domtar,Domtar公司,Canada,Materials,5.95,-0.61,7.81,1.93
+2008,1791,Haseko,长谷工,Japan,Construction,6.15,0.29,4.29,1.97
+2008,1791,Petronas Gas,马来西亚石油公司,Malaysia,Oil & Gas Operations,0.86,0.36,2.75,6.26
+2008,1795,Far EasTone Telecom,台湾远传电信,Taiwan,Telecommunications Services,2.06,0.40,2.87,5.66
+2008,1796,Aichi Bank,爱知银行,Japan,Banking,0.48,0.07,21.64,0.87
+2008,1796,Fletcher Building,弗莱切建筑公司,New Zealand,Construction,4.58,0.37,3.37,3.85
+2008,1796,Macquarie Office Trust,麦格里房地产信托,Australia,Diversified Financials,0.18,0.82,4.25,2.07
+2008,1799,LG International,LG国际,South Korea,Trading Companies,10.16,0.11,2.30,0.71
+2008,1799,SanDisk,桑迪斯,United States,Technology Hardware & Equip,3.90,0.22,7.23,5.28
+2008,1801,Sanmina-SCI,新美亚电子制造服务公司,United States,Technology Hardware & Equip,10.14,-1.15,4.70,0.88
+2008,1802,Coca-Cola Amatil,可口可乐阿马,Australia,Food Drink & Tobacco,3.47,0.27,4.07,6.60
+2008,1803,Central Bank of India,印度中央银行,India,Banking,1.58,0.12,21.44,1.05
+2008,1804,Awa Bank,阿波银行,Japan,Banking,0.63,0.08,21.42,1.29
+2008,1805,EFG International,EFG国际,Switzerland,Diversified Financials,0.87,0.19,13.02,4.95
+2008,1805,NVR,NVR,United States,Construction,5.16,0.33,2.19,2.84
+2008,1805,United Industrial Corp,新加坡联合工业集团,Singapore,Diversified Financials,0.37,0.82,5.01,2.94
+2008,1808,Mizrahi Tefahot Bank,[[]],Israel,Banking,1.29,0.15,21.40,1.72
+2008,1809,Activision,美国动视有限公司,United States,Software & Services,2.61,0.29,2.61,8.00
+2008,1810,Pendragon,英国红龙,United Kingdom,Retailing,10.04,0.08,3.82,0.44
+2008,1810,Tanayong,泰华荣,Thailand,Diversified Financials,0.02,0.81,0.21,0.18
+2008,1812,E.Sun Financial,玉山金融控股公司,Taiwan,Banking,0.77,0.01,21.27,1.93
+2008,1813,Sumikin Bussan,住金物产株式会社,Japan,Trading Companies,10.02,0.08,3.64,0.55
+2008,1814,Atos Origin,法国源讯公司,France,Software & Services,7.12,-0.35,6.49,3.79
+2008,1814,Leopalace21,莱恩帕里斯二十一公司,Japan,Diversified Financials,5.37,0.32,3.84,3.31
+2008,1814,Whitbread,惠特布雷德控股,United Kingdom,"Hotels, Restaurants & Leisure",2.77,0.55,5.59,4.42
+2008,1817,Nippon Steel Trading,新日本制铁公司,Japan,Trading Companies,10.00,0.06,3.56,0.45
+2008,1817,Tokyo Tomin Bank,东京都民银行,Japan,Banking,0.53,0.08,21.11,0.91
+2008,1819,Basler Kantonalbank,巴斯勒堪通银行,Switzerland,Banking,0.85,0.21,21.04,3.32
+2008,1819,Fraport,法兰克福机场,Germany,Transportation,2.83,0.30,5.64,6.83
+2008,1819,Lite-On Technology,光宝科技,Taiwan,Technology Hardware & Equip,6.82,0.26,5.08,3.00
+2008,1822,Tokyo Leasing,东京租贷有限公司,Japan,Business Services & Supplies,4.17,-0.03,11.39,0.69
+2008,1823,Developers Diversified,DDR信托投资基金,United States,Diversified Financials,0.94,0.28,9.09,4.74
+2008,1824,WEG,巴西万高,Brazil,Capital Goods,2.11,0.27,2.74,8.34
+2008,1825,iStar Financial,埃斯塔金融,United States,Diversified Financials,1.43,0.24,15.85,2.64
+2008,1825,Shikoku Bank,四国銀行,Japan,Banking,0.45,0.05,20.92,0.81
+2008,1827,Sigma-Aldrich,阿德里奇化学,United States,Chemicals,2.04,0.31,2.63,7.12
+2008,1827,TMB Bank,泰国军人银行,Thailand,Banking,1.34,-1.46,20.85,1.77
+2008,1829,AMB Property,AMB地产公司,United States,Diversified Financials,0.67,0.31,7.26,4.91
+2008,1830,Sega Sammy Holdings,世嘉飒美,Japan,Consumer Durables,4.50,0.37,4.65,2.82
+2008,1831,Wing Hang Bank,香港永亨银行,Hong Kong/China,Banking,0.88,0.21,15.70,4.36
+2008,1832,SNC-Lavalin Group,加拿大SNC-兰万灵集团,Canada,Construction,4.42,0.14,5.33,6.64
+2008,1833,Syndicate Bank,印度辛迪加银行,India,Banking,1.54,0.17,20.66,1.28
+2008,1833,Yunnan Copper,云南铜业股份有限公司,China,Materials,3.59,0.15,1.92,8.72
+2008,1835,FIBI Holding,FIBI控股,Israel,Banking,0.99,0.09,20.57,0.64
+2008,1836,Petrol Ofisi,土耳其奥夫斯汽油,Turkey,Oil & Gas Operations,9.66,0.16,4.25,2.36
+2008,1837,Dundee REIT,[[]],Canada,Diversified Financials,0.16,0.77,1.17,0.73
+2008,1837,SanomaWSOY,SanomaWSOY媒体集团,Finland,Media,4.27,0.35,4.60,4.13
+2008,1839,BayWa,巴伐利亚商品中介公司,Germany,Food Drink & Tobacco,9.63,0.05,3.57,1.63
+2008,1840,Tomkins,汤姆金斯工程,United Kingdom,Conglomerates,5.84,0.29,4.41,2.98
+2008,1841,YRC Worldwide,美国YellowRoadway运输公司,United States,Transportation,9.62,-0.64,5.00,0.78
+2008,1842,Tong Yang Major,东洋水泥公司,South Korea,Construction,2.94,0.07,19.33,0.75
+2008,1843,Bank of Iwate,岩手銀行,Japan,Banking,0.39,0.05,20.19,1.16
+2008,1844,Flowserve,福斯公司,United States,Capital Goods,3.76,0.26,3.52,6.24
+2008,1844,Ford Otomotiv Sanayii,[[]],Turkey,Consumer Durables,4.60,0.35,1.98,3.37
+2008,1846,Great Portland Estates,大波特兰地产公司,United Kingdom,Diversified Financials,0.10,0.75,3.03,1.80
+2008,1847,HCC Insurance,HCC保险控股公司,United States,Insurance,2.39,0.40,8.07,2.76
+2008,1848,Plains Exploration & Production,Plains勘探开发公司,United States,Oil & Gas Operations,1.27,0.16,9.69,6.09
+2008,1849,Cimpor-Cimentos Portugal,西姆泊公司,Portugal,Construction,2.16,0.39,4.98,5.64
+2008,1849,Southwestern Energy,西南能源公司,United States,Oil & Gas Operations,1.26,0.22,3.62,11.15
+2008,1851,Western Refining,美国西部炼油公司,United States,Oil & Gas Operations,7.31,0.24,3.56,1.36
+2008,1852,Tong Yang Investment Bank,东阳投资银行,South Korea,Diversified Financials,3.18,0.13,16.91,2.22
+2008,1853,Credito Valtellinese,意大利Valtellinese信贷银行,Italy,Banking,1.14,0.09,19.60,2.17
+2008,1854,Ciba Specialty Chemicals,斯拜特种化工,Switzerland,Chemicals,5.75,0.21,7.60,2.69
+2008,1854,Dillard's,迪拉德公司,United States,Retailing,7.60,0.16,5.98,1.11
+2008,1854,Kesa Electricals,克萨电工,United Kingdom,Retailing,8.83,0.21,3.83,2.26
+2008,1857,Hakuhodo DY,博报堂广告公司,Japan,Media,9.26,0.10,4.46,2.23
+2008,1857,Sika,西卡,Switzerland,Chemicals,4.03,0.30,2.87,4.72
+2008,1859,Ashland,美国亚什兰集团,United States,Chemicals,7.94,0.21,5.65,2.78
+2008,1859,Tochigi Bank,枥木银行,Japan,Banking,0.39,0.05,19.46,0.67
+2008,1861,Impac Mortgage Holding,美国英派克房贷控股公司,United States,Diversified Financials,1.26,-1.52,19.41,0.08
+2008,1862,Bank Negara Indonesia,印尼国家银行,Indonesia,Banking,1.98,0.21,18.80,2.80
+2008,1863,Alibaba.com,阿里巴巴,China,Business Services & Supplies,0.17,0.03,0.23,12.25
+2008,1863,Level 3 Commun,美国Level 3通信公司,United States,Telecommunications Services,4.27,-1.11,10.25,3.43
+2008,1865,IntercontinentalExchange,美国洲际交易所,United States,Diversified Financials,0.57,0.24,2.80,9.14
+2008,1866,ASE-Advanced Semiconductor,日月光半导体制造股份有限公司,Taiwan,Semiconductors,3.12,0.38,4.70,5.16
+2008,1867,Arkema,阿科玛,France,Chemicals,7.47,0.06,5.95,3.47
+2008,1867,Bashneft,巴什石油公司,Russia,Oil & Gas Operations,3.80,0.44,2.94,2.37
+2008,1869,Family Dollar Stores,家庭美元店,United States,Retailing,6.92,0.24,2.61,2.69
+2008,1869,Robert Half Intl,罗勃海佛国际,United States,Business Services & Supplies,4.65,0.30,1.45,4.28
+2008,1869,Vontobel Holding,冯托贝尔控股集团,Switzerland,Diversified Financials,1.05,0.23,15.81,2.28
+2008,1872,Eighteenth Bank,十八银行,Japan,Banking,0.52,0.05,19.06,0.64
+2008,1872,ProSiebenSat.1 Media,德国ProSiebenSat.1公司,Germany,Media,3.70,0.12,8.76,4.74
+2008,1874,Siliconware Precision Inds,矽品精密工业股份有限公司,Taiwan,Semiconductors,1.75,0.41,2.37,5.15
+2008,1874,SpareBank 1 SR-Bank,[[]],Norway,Banking,1.06,0.17,19.06,0.67
+2008,1876,Drax Group,德拉克斯集团,United Kingdom,Utilities,2.48,0.70,2.77,3.92
+2008,1876,KKR Financial,KKR集团,United States,Diversified Financials,0.62,-0.10,19.05,1.66
+2008,1876,RMB Holdings,[[]],South Africa,Diversified Financials,0.92,0.57,3.30,4.28
+2008,1879,Akita Bank,秋田银行,Japan,Banking,0.43,0.04,19.04,0.83
+2008,1879,Crown Ltd,澳洲皇冠集团,Australia,"Hotels, Restaurants & Leisure",1.50,0.23,6.41,7.38
+2008,1881,BJ's Wholesale Club,BJ批发会员店,United States,Retailing,9.01,0.12,2.05,2.02
+2008,1882,Shire,Shire公司,United Kingdom,Drugs & Biotechnology,1.89,0.06,5.58,11.01
+2008,1883,Joy Global,久益环球,United States,Capital Goods,2.63,0.29,2.24,7.18
+2008,1884,Fidelity National Finl,富达国民金融公司,United States,Insurance,5.52,0.13,7.60,3.80
+2008,1885,Rhodia,罗地亚集团,France,Chemicals,6.35,0.08,6.56,2.52
+2008,1886,Ladbrokes,英国立博集团,United Kingdom,"Hotels, Restaurants & Leisure",2.45,0.68,2.09,3.64
+2008,1887,Western Mining,西部矿业股份有限公司,China,Materials,1.04,0.20,1.18,11.85
+2008,1888,Promise,普罗密斯,Japan,Diversified Financials,3.14,-3.22,13.35,4.29
+2008,1889,Goldwind Science & Technology,金风科技,China,Capital Goods,0.42,0.09,0.75,11.76
+2008,1890,Laurentian Bank,龙顺银行,Canada,Banking,1.16,0.10,18.61,0.98
+2008,1891,City National,城市国民银行,United States,Banking,1.20,0.22,15.89,2.45
+2008,1891,Clariant,瑞士科莱恩,Switzerland,Chemicals,7.52,0.00,5.82,1.98
+2008,1891,Microchip Technology,美国微芯科技公司,United States,Semiconductors,1.03,0.35,2.62,5.81
+2008,1891,RosBank,罗斯银行,Russia,Banking,1.42,0.14,11.16,5.10
+2008,1895,Aomori Bank,青森银行,Japan,Banking,0.37,0.04,18.45,0.67
+2008,1896,Naspers,纳斯帕斯集团,South Africa,Media,2.68,0.27,4.34,7.49
+2008,1897,LAN Airlines,智利国家航空,Chile,Transportation,3.69,0.32,3.90,4.65
+2008,1898,Range Resources,Range资源公司,United States,Oil & Gas Operations,0.86,0.23,4.02,9.17
+2008,1899,Emap,英国EMAP消费传媒集团,United Kingdom,Media,1.74,0.64,2.18,3.97
+2008,1900,Holly,美国Holly能源公司,United States,Oil & Gas Operations,4.79,0.32,1.66,2.72
+2008,1900,REN Group,REN集团,Portugal,Utilities,0.51,0.65,5.07,2.78
+2008,1902,CapitalSource,CapitalSource公司,United States,Diversified Financials,1.54,0.18,18.04,3.56
+2008,1902,Compagnie Industriali Riunite,意大利CIR公司,Italy,Conglomerates,5.46,0.13,7.47,2.33
+2008,1904,Fukui Bank,福井銀行,Japan,Banking,0.42,0.03,17.99,0.69
+2008,1905,HealthSouth,南方保健,United States,Health Care Equipment & Svcs,1.75,0.65,2.05,1.27
+2008,1905,Tencent Holdings,腾讯,China,Software & Services,0.36,0.14,0.58,11.37
+2008,1907,Brisa,布里萨,Portugal,Transportation,0.74,0.22,5.68,8.89
+2008,1908,Mitchells & Butlers,密歇-布特餐饮,United Kingdom,"Hotels, Restaurants & Leisure",3.87,-0.02,11.01,3.57
+2008,1908,StanCorp Financial,斯坦金融,United States,Insurance,2.71,0.23,14.98,2.41
+2008,1908,Stanley Works,史丹利公司,United States,Household & Personal Products,4.48,0.34,4.78,3.80
+2008,1911,Chiba Kogyo Bank,千叶兴业银行,Japan,Banking,0.39,0.08,17.82,0.65
+2008,1912,CarMax,车梅仕,United States,Retailing,8.04,0.20,2.11,4.01
+2008,1912,Hokuetsu Bank,北越银行,Japan,Banking,0.46,0.05,17.78,0.59
+2008,1912,Nine Dragons Paper Holdings,玖龙纸业(控股)有限公司,Hong Kong/China,Materials,1.29,0.26,2.67,7.73
+2008,1912,Norske Skog,诺斯克潜力纸业,Norway,Materials,4.99,-0.11,7.96,0.97
+2008,1912,United Rentals,联合租赁公司,United States,Business Services & Supplies,3.73,0.36,5.84,1.74
+2008,1917,AbitibiBowater,阿比波特公司,Canada,Materials,3.88,-0.49,10.80,0.60
+2008,1918,Yamana Gold,加拿大亚马纳黄金公司,Canada,Materials,0.16,-0.07,2.13,11.20
+2008,1919,Mahindra & Mahindra,印度Mahindra公司,India,Consumer Durables,4.07,0.35,4.59,4.12
+2008,1919,Pilgrim's Pride,朝圣至尊,United States,Food Drink & Tobacco,8.35,0.02,3.84,1.56
+2008,1919,Reliance Capital,信实资金公司,India,Business Services & Supplies,0.37,0.16,1.72,11.16
+2008,1919,Shimao Property Holdings,世茂房地产,Hong Kong/China,Diversified Financials,0.89,0.29,3.53,6.79
+2008,1923,Lexmark International,利盟国际,United States,Business Services & Supplies,4.97,0.30,3.12,3.14
+2008,1923,W Holding,W控股,United States,Banking,1.08,0.09,17.55,0.22
+2008,1925,Sonic Automotive,索尼克汽车,United States,Retailing,8.34,0.10,3.28,0.75
+2008,1926,Helmerich & Payne,黑尔梅里希＆佩恩公司,United States,Oil & Gas Operations,1.70,0.45,3.06,4.65
+2008,1926,Nippon Meat Packers,日本火腿食品集团,Japan,Food Drink & Tobacco,8.32,0.10,5.10,2.83
+2008,1926,Rowan Cos,罗旺公司,United States,Oil & Gas Operations,2.10,0.48,3.88,4.49
+2008,1929,Cintas,辛塔斯服装,United States,Business Services & Supplies,3.82,0.33,3.70,4.42
+2008,1929,Owens Corning,欧文斯科宁,United States,Construction,4.98,0.10,7.87,2.48
+2008,1931,LogicaCMG,逻辑家先杰,United Kingdom,Software & Services,6.10,0.16,6.53,2.70
+2008,1932,Bovespa Holding,圣保罗证劵交易所控股公司,Brazil,Diversified Financials,0.20,0.13,0.73,11.09
+2008,1932,Oberbank,奥伯银行,Austria,Banking,0.91,0.11,17.42,1.97
+2008,1932,Poly Real Estate Group,保利房地产（集团）股份有限公司,China,Diversified Financials,1.11,0.20,5.59,10.09
+2008,1935,UCO Bank,印度合众银行,India,Banking,1.35,0.07,17.32,1.01
+2008,1936,BEKB-BCBE,[[]],Switzerland,Banking,0.59,0.08,17.28,2.07
+2008,1937,Elan,爱尔兰Elan制药公司,Ireland,Drugs & Biotechnology,0.52,-0.43,2.83,10.98
+2008,1937,Ross Stores,罗斯服饰零售,United States,Retailing,5.93,0.26,2.34,3.77
+2008,1939,Plum Creek Timber,普客木材,United States,Diversified Financials,1.68,0.28,4.66,6.96
+2008,1940,Webster Financial,韦伯斯特金融,United States,Banking,1.20,0.10,17.20,1.50
+2008,1941,Yachiyo Bank,八千代银行,Japan,Banking,0.39,0.05,17.19,0.74
+2008,1942,First BanCorp,第一银行集团,United States,Banking,1.26,0.07,17.19,0.84
+2008,1943,National Bank of Pakistan,巴基斯坦国民银行,Pakistan,Banking,0.92,0.28,10.47,3.46
+2008,1944,NHN,韩国NHN集团,South Korea,Software & Services,0.70,0.16,0.63,10.88
+2008,1945,Nymex Holdings,纽约商业交易所控股公司,United States,Diversified Financials,0.67,0.22,2.23,9.17
+2008,1946,Intuitive Surgical,直觉外科手术公司,United States,Health Care Equipment & Svcs,0.60,0.14,1.04,10.85
+2008,1947,Mirvac Group,Mirvac集团,Australia,Diversified Financials,1.54,0.47,6.21,3.94
+2008,1948,Brazilian Mercantile & Futures,巴西商品与期货交易所,Brazil,Diversified Financials,0.21,0.09,0.76,10.81
+2008,1949,InterContinental Hotels,英国洲际酒店集团,United Kingdom,"Hotels, Restaurants & Leisure",1.75,0.46,3.59,4.52
+2008,1949,Metcash,澳大利亚Metcash公司,Australia,Food Markets,8.06,0.14,2.56,2.98
+2008,1949,Rank Group,兰科集团,United Kingdom,"Hotels, Restaurants & Leisure",1.06,0.62,1.18,0.70
+2008,1952,Oriental Bank of Commerce,印度东方商业银行,India,Banking,1.32,0.13,17.05,1.57
+2008,1953,Swedish Match,瑞典火柴集团,Sweden,Food Drink & Tobacco,1.94,0.32,2.55,6.01
+2008,1954,Petroleum Geo-Services,挪威油田服务集团,Norway,Oil & Gas Operations,1.62,0.50,2.69,4.27
+2008,1954,Shanghai Intl Airport,上海国际机场,China,Transportation,0.43,0.23,1.54,8.63
+2008,1954,Suzlon Energy,苏司兰能源,India,Utilities,1.85,0.20,2.90,10.52
+2008,1954,Thai Beverage,泰国啤酒,Thailand,Food Drink & Tobacco,3.37,0.35,2.67,4.59
+2008,1958,Close Brothers Group,英国Close Brothers国际控股集团,United Kingdom,Diversified Financials,1.68,0.27,10.89,1.95
+2008,1958,Denbury Resources,Denbury资源公司,United States,Oil & Gas Operations,0.97,0.25,2.77,7.79
+2008,1960,Teléfonos de Venezuela,委内瑞拉电信公司,Venezuela,Telecommunications Services,3.17,0.53,3.61,0.90
+2008,1961,Harsco,哈斯科公司,United States,Business Services & Supplies,3.69,0.30,3.91,4.76
+2008,1962,Guaranty Financial Group,[[]],United States,Banking,1.15,0.08,16.80,0.46
+2008,1963,NGK Insulators,日本碍子,Japan,Capital Goods,2.72,0.25,4.36,7.86
+2008,1963,Silvinit,俄罗斯西利维尼特公司,Russia,Chemicals,0.70,0.18,0.80,10.43
+2008,1965,Amer Eagle Outfitters,美国鹰牌服饰公司,United States,Retailing,3.03,0.41,1.98,4.57
+2008,1965,Jeronimo Martins,热劳尼姆斯.马尔丁斯公司,Portugal,Food Markets,5.81,0.15,3.34,4.66
+2008,1967,Belle International Holdings,百丽国际控股有限公司,China,Household & Personal Products,0.80,0.13,0.57,10.39
+2008,1968,Light,[[]],Brazil,Utilities,2.80,0.60,5.02,3.01
+2008,1969,Equitable Resources,美车公平资源公司,United States,Utilities,1.36,0.26,3.94,7.53
+2008,1969,Inventec,英业达,Taiwan,Technology Hardware & Equip,7.89,0.17,2.86,1.43
+2008,1971,Suzano Papel e Celulose,[[]],Brazil,Materials,1.92,0.30,6.44,4.92
+2008,1972,UGI,美国UGI公司,United States,Utilities,5.78,0.22,6.07,2.73
+2008,1973,Bank of Queensland,昆士兰银行有限公司,Australia,Banking,1.19,0.11,16.36,1.89
+2008,1974,Greek Postal Savings Bank,希腊邮政储蓄银行,Greece,Banking,0.84,0.18,16.23,2.13
+2008,1975,Bank of Saga,佐贺银行,Japan,Banking,0.36,0.04,16.23,0.53
+2008,1975,Centro Properties Group,澳大利亚中央地产物业集团,Australia,Diversified Financials,0.33,0.40,6.94,0.36
+2008,1975,Guoyuan Securities,国元证券有限责任公司,China,Diversified Financials,0.57,0.31,2.59,5.98
+2008,1978,St Galler Kantonalbank,圣加勒坎通纳银行,Switzerland,Banking,0.69,0.19,16.23,2.59
+2008,1979,Meinl European Land,美因尔欧洲土地有限公司,Channel Islands,Diversified Financials,0.22,0.30,9.09,3.78
+2008,1980,First Citizens Bcshs,第一公民银行,United States,Banking,1.20,0.11,16.21,1.48
+2008,1981,Commerce Bancshs,商贸控股银行,United States,Banking,1.32,0.21,16.20,2.99
+2008,1982,American Equity Invest,[[]],United States,Insurance,0.71,0.03,16.16,0.54
+2008,1982,Hays,英国Hays物流,United Kingdom,Business Services & Supplies,4.24,0.33,1.27,3.04
+2008,1984,Anixter International,美国艾利斯特公司,United States,Technology Hardware & Equip,5.85,0.25,3.02,2.32
+2008,1984,Atmos Energy,埃特莫斯能源,United States,Utilities,5.95,0.16,6.40,2.34
+2008,1984,RH Donnelley,美国RH当纳利,United States,Media,2.68,0.05,16.09,0.51
+2008,1984,San Miguel,菲律宾生力集团,Philippines,Food Drink & Tobacco,5.09,0.22,7.00,3.84
+2008,1988,Sumitomo Forestry,住友林业株式会社,Japan,Construction,7.76,0.10,4.25,1.40
+2008,1989,Fulton Financial,富尔顿金融,United States,Banking,1.09,0.15,15.92,2.02
+2008,1990,Stagecoach Group,捷达集团,United Kingdom,Transportation,3.01,0.55,2.88,3.56
+2008,1990,URS,美国URS优斯咨询,United States,Construction,5.38,0.13,6.93,3.36
+2008,1992,Brixton,英国布里克斯顿公司,United Kingdom,Diversified Financials,0.19,0.58,4.27,1.76
+2008,1993,Wesco International,西科国际有限公司,United States,Capital Goods,6.00,0.24,2.88,1.76
+2008,1994,Flagstar Bancorp,FBC银行,United States,Banking,1.04,-0.04,15.79,0.43
+2008,1995,Premier Foods,英国第一食品公司,United Kingdom,Food Drink & Tobacco,4.46,-0.13,8.12,1.55
+2008,1996,Allahabad Bank,阿拉哈巴德银行,India,Banking,1.22,0.18,15.68,1.23
+2008,1997,Michinoku Bank,陆奥银行,Japan,Banking,0.39,0.03,15.67,0.43
+2008,1997,Woori Investment & Securities,韩国友利投资证券公司,South Korea,Diversified Financials,1.01,0.23,13.27,3.08
+2008,1999,Miyazaki Bank,宫崎银行,Japan,Banking,0.39,0.04,15.67,0.61
+2008,2000,Mitsubishi Gas Chemical,三菱瓦斯化学股份有限公司,Japan,Chemicals,4.11,0.34,5.15,3.48
