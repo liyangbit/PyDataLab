@@ -5,18 +5,7 @@
 
 ## 微信公众号
 
-欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataRoad** ）
-
-本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
-
-**公众号文章分类汇总：**
-
-(a) [文章分类汇总](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484222&idx=1&sn=ce4832be3005a970e3e5afd50e3529a2&chksm=ea8b6c4dddfce55b529189af410ff29771a6ce09e3345fba2d4bcd6301d9c0886284e5423a36&scene=21#wechat_redirect)
-
-(b) [精华文章推荐](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484074&idx=1&sn=cb6174702fe8f495a37df8a74ef30ffe&chksm=ea8b6dd9ddfce4cffc0ea8aa1c3b5c51cf3623b2ae6b43ae7f7e0c5ab8a8db70d5f05f967eaf&scene=21#wechat_redirect)
-
-
-## 微信公众号文章及源码分享
+欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataRoad** ）。 请大家点点广告支持，谢谢！
 
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
 
