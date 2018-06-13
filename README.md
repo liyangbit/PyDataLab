@@ -9,11 +9,15 @@
 
 >请大家点点微信公众号文章底部广告支持，感谢！
 
+<div align="center">
+    <img src="./02photo/wechat-qr.jpg" width="120"/>
+</div>
+
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
 |-------|---------|---------|
-|20180611|[世界杯：用Python分析热门夺冠球队]()|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/football-world-cup)|
+|20180611|[世界杯：用Python分析热门夺冠球队](http://liyangbit.com/projects/projects-world-cup-top3-predict/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/football-world-cup)|
 |20180603|[Pandas：日期数据处理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484626&idx=1&sn=35ab4f1a120d66170f564b7547c481da&chksm=ea8b6ba1ddfce2b7e401aeff2b66d2e79f4b89c47d08d14d6d501594178adf0b25cb0d6d9317&scene=21#wechat_redirect)|[数据文件（"date.csv"）请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/01data)|
 |20170921|[Cheat sheet for Jupyter notebook](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484189&idx=1&sn=0d7f064d6c48dad3d78b571735849fe7&chksm=ea8b6c6eddfce578a0429dda924f28ea57a38de3ab3b16565144bd6981fc7a39b292de1f7723&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/cheat-sheet)|
 |20170717|[数据集资源分享！！！](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483972&idx=1&sn=6f59757fba7fd64df759f1cc4d63691d&chksm=ea8b6d37ddfce4215417691c6cd299b1bf4dcc8f2e3c22a6b608ff3f462655307d3a378007dd&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/dataset)|
