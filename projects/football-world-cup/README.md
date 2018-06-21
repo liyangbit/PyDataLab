@@ -8,7 +8,12 @@
 
 >请大家点点微信公众号文章底部广告支持，感谢！
 
-## 项目实战
+<div align="center">
+    <img src="../../02photo/wechat-qr.jpg" width="120"/>
+</div>
+
+
+## 世界杯项目实战
 
 
 |文章名称|代码 / 数据文件|
@@ -16,7 +21,7 @@
 |2018世界杯：用Python分析夺冠热门球队|代码：football-world-cup-top3-predict.ipynb  <br> 数据文件：results.csv|
 
 
-## 赞赏支持
+## 支持
 
 | <center>遇见，是缘</center> | <center>欢迎关注</center> |
 | ---------------------------------------- | ---------------------------------------- |
