@@ -19,6 +19,7 @@
 |发文日期|文章名称|代码 / 数据文件|
 |-------|-------|---------|
 | 2018-06-11 | [世界杯：用Python分析热门夺冠球队](http://liyangbit.com/projects/projects-world-cup-top3-predict/)|代码：football-world-cup-top3-predict.ipynb  <br> 数据文件：results.csv|
+|2018-06-25|[第二波分析：德国是2018世界杯夺冠最大热门？ Python数据分析来揭开神秘面纱…](http://liyangbit.com/projects/projects-world-cup-predict-2nd-post/)|代码：football-world-cup-predict-2nd-post.ipynb  <br> 数据文件：results.csv|
 
 
 ## 支持
