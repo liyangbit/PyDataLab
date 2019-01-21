@@ -16,8 +16,8 @@
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
-|20190121|[轻松用 Seaborn 进行数据可视化](http://liyangbit.com/pythonvisualization/Data-Visualization-with-Seaborn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Seaborn-data-visualization)|
 |-------|---------|---------|
+|20190121|[轻松用 Seaborn 进行数据可视化](http://liyangbit.com/pythonvisualization/Data-Visualization-with-Seaborn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Seaborn-data-visualization)|
 |20181224|[Matplotlib 必须掌握的 50 个可视化图表（附完整 Python 源代码）](http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/matplotlib-top-50-visualizations)|
 |20180625|[第二波分析：德国是2018世界杯夺冠最大热门？ Python数据分析来揭开神秘面纱…](http://liyangbit.com/projects/projects-world-cup-predict-2nd-post/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/football-world-cup)|
 |20180619|[Matplotlib小册子：饼图概览](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484694&idx=1&sn=c48c2013e1035153e9bba98b8db9ee51&chksm=ea8b6a65ddfce37399d293d2730899da3167d0ab0aba33e078bef4ecbbcf75735728f1de1fb8#rd)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/matplotlib-pie)|
