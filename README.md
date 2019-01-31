@@ -34,8 +34,8 @@
 |20170523|[python求职Top10城市，来看看是否有你所在的城市](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483767&idx=1&sn=26f1e8c43084f9e4859031d54148fe33&chksm=ea8b6e04ddfce7125d2463732557e1f4f4655271f745c83149adcf2feb0fbdecd9eb2566a110&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/zhilian_analysis)|
 
 
-## 赞赏支持
+## 见证成长之路
 
-| <center>遇见，是缘</center> | <center>欢迎关注</center> |
+| <center>知识星球</center> | <center>微信公众号</center> |
 | ---------------------------------------- | ---------------------------------------- |
-| <img src="./02photo/qr-geizan.png" width="400"/> | <img src="./02photo/foot.jpg" width="400"/> |
+| <img src="./02photo/xingqiu1.jpg" width="400"/> | <img src="./02photo/foot.jpg" width="400"/> |
