@@ -17,8 +17,9 @@
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
 |-------|---------|---------|
-|20190304|[干货推荐 | 掌握这几点，轻松玩转 Bokeh 可视化 （项目实战经验分享）]()|[请点击链接]([https://github.com/liyangbit/Python-Knowledge-Handbook](https://github.com/WillKoehrsen/Bokeh-Python-Visualization))|
+|20190304|[干货推荐：掌握这几点，轻松玩转 Bokeh 可视化 （项目实战经验分享）]()|[请点击链接]([https://github.com/liyangbit/Python-Knowledge-Handbook](https://github.com/WillKoehrsen/Bokeh-Python-Visualization))|
 |20190225|[推荐：免费获取365页《Python知识手册》](http://liyangbit.com/python-knowledge-handbook/)|[请点击链接](https://github.com/liyangbit/Python-Knowledge-Handbook)|
+|20190131|[轻松玩转Python发送新春祝福给指定好友](http://liyangbit.com/comprehensive/wechat-msg-sent/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/wechat-msg-send)|
 |20190121|[轻松用 Seaborn 进行数据可视化](http://liyangbit.com/pythonvisualization/Data-Visualization-with-Seaborn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Seaborn-data-visualization)|
 |20181224|[Matplotlib 必须掌握的 50 个可视化图表（附完整 Python 源代码）](http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/matplotlib-top-50-visualizations)|
 |20180625|[第二波分析：德国是2018世界杯夺冠最大热门？ Python数据分析来揭开神秘面纱…](http://liyangbit.com/projects/projects-world-cup-predict-2nd-post/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/football-world-cup)|
@@ -35,8 +36,8 @@
 |20170523|[python求职Top10城市，来看看是否有你所在的城市](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483767&idx=1&sn=26f1e8c43084f9e4859031d54148fe33&chksm=ea8b6e04ddfce7125d2463732557e1f4f4655271f745c83149adcf2feb0fbdecd9eb2566a110&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/zhilian_analysis)|
 
 
-## 赞赏支持
+## 见证成长之路
 
-| <center>遇见，是缘</center> | <center>欢迎关注</center> |
+| <center>知识星球</center> | <center>微信公众号</center> |
 | ---------------------------------------- | ---------------------------------------- |
-| <img src="./02photo/qr-geizan.png" width="400"/> | <img src="./02photo/foot.jpg" width="400"/> |
+| <img src="./02photo/xingqiu1.jpg" width="400"/> | <img src="./02photo/foot.jpg" width="400"/> |
