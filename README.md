@@ -36,7 +36,6 @@
 |20170605|[50年高考作文题，记录时代变迁](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483805&idx=1&sn=a368eb3528b2c2bd3f7ebceaec467d42&chksm=ea8b6eeeddfce7f832280c26b6cb08dc2daef0059a024276b7807b8e3d8e24af5cf0f72269b4&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/gaokaozw)|
 |20170523|[python求职Top10城市，来看看是否有你所在的城市](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483767&idx=1&sn=26f1e8c43084f9e4859031d54148fe33&chksm=ea8b6e04ddfce7125d2463732557e1f4f4655271f745c83149adcf2feb0fbdecd9eb2566a110&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/zhilian_analysis)|
 
-
 ## 见证成长之路
 
 | <center>知识星球</center> | <center>微信公众号</center> |
