@@ -17,7 +17,7 @@
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
 |-------|---------|---------|
-|20190323|[Python 可视化神器：Plotly Express 入门之路](http://liyangbit.com/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Plotly-Express-Introducing)|
+|20190323|[Python 可视化神器：Plotly Express 入门之路](http://liyangbit.com/pythonvisualization/Plotly-Express-introduction-cn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Plotly-Express-Introducing)|
 |20190304|[干货推荐：掌握这几点，轻松玩转 Bokeh 可视化 （项目实战经验分享）](http://liyangbit.com/pythonvisualization/Bokeh-Data-Visualization/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Bokeh-data-visualization)|
 |20190225|[推荐：免费获取365页《Python知识手册》](http://liyangbit.com/python-knowledge-handbook/)|[请点击链接](https://github.com/liyangbit/Python-Knowledge-Handbook)|
 |20190131|[轻松玩转Python发送新春祝福给指定好友](http://liyangbit.com/comprehensive/wechat-msg-sent/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/wechat-msg-send)|
