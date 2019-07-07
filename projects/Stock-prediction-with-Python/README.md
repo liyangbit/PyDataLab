@@ -1,10 +1,6 @@
-# zl_analysis
+# Stock Prediction with Python
 
-zhilian_data_analysis.ipynb 为主分析代码
-
-word_cloud 为词云图分析的代码
-
-先运行主分析代码，在运行词云图分析代码
+".ipynb" 文件为代码文件
 
 欢迎关注个人微信公众号“Python数据之道”（ID：PyDataRoad）
 
