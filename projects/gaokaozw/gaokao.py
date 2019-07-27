@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: lemon
+@author: lemonbit
+@出品：Python数据之道
 """
 
 import jieba
@@ -10,28 +11,30 @@ import os
 import PIL.Image as Image
 import numpy as np
 
+# import matplotlib.font_manager
+#
+# a = sorted([f.name for f in matplotlib.font_manager.fontManager.ttflist])
+#
+# for i in a:
+#     print(i)
+#
+# from matplotlib.font_manager import _rebuild
+#
+# _rebuild()
+#
+# # plt.rcParams['font.sans-serif'] = ['STFangsong']
+# # plt.rcParams['axes.unicode_minus'] = False
+
+# 解决matplotlib显示中文问题
+plt.rcParams['font.sans-serif'] = ['SimHei']  # 指定默认字体
+# plt.rcParams['font.sans-serif'] = ['AlibabaPuHuiTi-Light']  # 指定默认字体
+plt.rcParams['axes.unicode_minus'] = False  # 解决保存图像是负号'-'显示为方块的问题
+
 # 读取文本内容
 
 with open('gaokao.txt', 'rb') as f:
     text = f.read()
     f.close()
-
-
-# with open('2007-2016.txt', 'rb') as f:
-#     text = f.read()
-#     f.close()
-#
-# with open('1997-2006.txt', 'rb') as f:
-#     text = f.read()
-#     f.close()
-
-# with open('1987-1996.txt', 'rb') as f:
-#     text = f.read()
-#     f.close()
-
-# with open('1977-1986.txt', 'rb') as f:
-#     text = f.read()
-#     f.close()
 
 # 加载自定义词典
 # jieba.load_userdict(r"C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\jieba\userdict.txt")
@@ -44,7 +47,7 @@ wordlist = jieba.cut(text, cut_all=False)
 wordlist_space_split = ' '.join(wordlist)
 
 d = os.path.dirname(__file__)
-alice_coloring = np.array(Image.open(os.path.join(d,'orange.jpg')))
+alice_coloring = np.array(Image.open(os.path.join(d, 'orange.jpg')))
 # my_wordcloud = WordCloud(background_color='#000000', max_words=300, mask=alice_coloring,
 #                          max_font_size=300, random_state=42).generate(wordlist_space_split)
 
@@ -55,20 +58,22 @@ stopwords2 = [line.rstrip() for line in open('./哈工大停用词表.txt', 'r',
 stopwords3 = [line.rstrip() for line in open('./四川大学机器智能实验室停用词库.txt', 'r', encoding='utf-8')]
 
 # 添加自定义停用词
-stopwords_user1 = set([x.strip() for x in open(
-    os.path.join(os.path.dirname(__file__), 'stopwords_user')).read().split('\n')])
+# stopwords_user1 = set([x.strip() for x in open(
+#     os.path.join(os.path.dirname(__file__), 'stopwords_user')).read().split('\n')])
 
-stopwords_user = set(stopwords1) | set(stopwords2) | set(stopwords3) | set(stopwords_user1)
+# stopwords_user = set(stopwords1) | set(stopwords2) | set(stopwords3) | set(stopwords_user1)
+stopwords_user = set(stopwords1) | set(stopwords2) | set(stopwords3)
 
-
+font = r'/Users/lemon/Library/Fonts/Alibaba-PuHuiTi-Light.ttf'
 # 对分词后的文本生成词云
 my_wordcloud = WordCloud(background_color='#000000',
                          max_words=100,
                          font_step=1,
                          mask=alice_coloring,
-                         random_state= 30, # 设置有多少种随机生成状态，即有多少种配色方案
+                         random_state=30,  # 设置有多少种随机生成状态，即有多少种配色方案
                          max_font_size=300,
-                         stopwords=stopwords_user, # 停用词的类型为set
+                         stopwords=stopwords_user,  # 停用词的类型为set
+                         font_path=font,
                          )
 
 # Generate word cloud
@@ -76,7 +81,7 @@ my_wordcloud.generate(wordlist_space_split)
 
 image_colors = ImageColorGenerator(alice_coloring)
 
-plt.show(my_wordcloud.recolor(color_func=image_colors))
+# plt.show(my_wordcloud.recolor(color_func=image_colors))
 plt.imshow(my_wordcloud)            # 以图片的形式显示词云
 plt.axis('off')                     # 关闭坐标轴
 plt.show()
