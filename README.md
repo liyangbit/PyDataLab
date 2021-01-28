@@ -5,17 +5,18 @@
 
 ## 微信公众号
 
-欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataRoad** ）。
+欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataLab** ）。
 
 <div align="center">
-    <img src="./02photo/wechat-qr.jpg" width="120"/>
+    <img src="./02photo/QR-Python数据知道.jpg" width="200"/>
 </div>
 
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
 |-------|---------|---------|
-|20190619|[用Python快速分析、可视化和预测股票价格](http://liyangbit.com/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/Stock-prediction-with-Python)|
+|20210131|[财经数据神器 Tushare，股票数据全搞定](http://liyangbit.com/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Tushare)|
+|20190619|[用Python快速分析、可视化和预测股票价格]([用Python快速分析和预测股票价格](https://mp.weixin.qq.com/s/fVN4ImUd4xDszJOKecwIhg))|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/Stock-prediction-with-Python)|
 |20190323|[Python 可视化神器：Plotly Express 入门之路](http://liyangbit.com/pythonvisualization/Plotly-Express-introduction-cn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Plotly-Express-Introducing)|
 |20190304|[干货推荐：掌握这几点，轻松玩转 Bokeh 可视化 （项目实战经验分享）](http://liyangbit.com/pythonvisualization/Bokeh-Data-Visualization/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Bokeh-data-visualization)|
 |20190225|[推荐：免费获取365页《Python知识手册》](http://liyangbit.com/python-knowledge-handbook/)|[请点击链接](https://github.com/liyangbit/Python-Knowledge-Handbook)|

@@ -8,3 +8,9 @@ https://github.com/liyangbit/PyDataRoad/tree/master/projects/matplotlib-top-50-v
 
 链接：https://pan.baidu.com/s/1-C2MB9jvLN5ctjg31YKzfQ 
 提取码：s5pc
+
+欢迎关注个人微信公众号“Python数据之道”（ID：PyDataLab）
+
+<div align="center">
+    <img src="../../02photo/QR-Python数据知道.jpg" width="200"/>
+</div>
