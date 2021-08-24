@@ -8,7 +8,7 @@
 欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataLab** ）。
 
 <div align="center">
-    <img src="./02photo/QR-Python数据知道.jpg" width="200"/>
+    <img src="./02photo/QR-Python数据之道.jpg" width="200"/>
 </div>
 
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
