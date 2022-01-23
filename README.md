@@ -15,7 +15,7 @@
 
 |文章发布日期|文章名称及链接|代码 / 数据文件|
 |-------|---------|---------|
-|20210131|[财经数据神器 Tushare，股票数据全搞定](http://liyangbit.com/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Tushare)|
+|20210131|[财经数据神器 Tushare，股票数据全搞定](https://mp.weixin.qq.com/s/c1ukemeK12flCgA-lo69fA)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Tushare)|
 |20190619|[用Python快速分析、可视化和预测股票价格](https://mp.weixin.qq.com/s/fVN4ImUd4xDszJOKecwIhg)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/Stock-prediction-with-Python)|
 |20190323|[Python 可视化神器：Plotly Express 入门之路](http://liyangbit.com/pythonvisualization/Plotly-Express-introduction-cn/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Plotly-Express-Introducing)|
 |20190304|[干货推荐：掌握这几点，轻松玩转 Bokeh 可视化 （项目实战经验分享）](http://liyangbit.com/pythonvisualization/Bokeh-Data-Visualization/)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/comprehensive/Bokeh-data-visualization)|
@@ -35,9 +35,4 @@
 |20170611|[Pycon 2017： Python可视化库大全](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483838&idx=1&sn=975a7aeb05bde37aca473fd8f6c457b1&chksm=ea8b6ecdddfce7dbc2fb6c66e23f57366f1b0ae7fbf749e5c40be3f7142709b6f15d76cd74e6&scene=21#wechat_redirect)|链接：http://pan.baidu.com/s/1eRDfR7G 密码：uaf3|
 |20170605|[50年高考作文题，记录时代变迁](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483805&idx=1&sn=a368eb3528b2c2bd3f7ebceaec467d42&chksm=ea8b6eeeddfce7f832280c26b6cb08dc2daef0059a024276b7807b8e3d8e24af5cf0f72269b4&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/gaokaozw)|
 |20170523|[python求职Top10城市，来看看是否有你所在的城市](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483767&idx=1&sn=26f1e8c43084f9e4859031d54148fe33&chksm=ea8b6e04ddfce7125d2463732557e1f4f4655271f745c83149adcf2feb0fbdecd9eb2566a110&scene=21#wechat_redirect)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/zhilian_analysis)|
-
-<!-- ## 见证成长之路
-
-| <center>知识星球</center> | <center>微信公众号</center> |
-| ---------------------------------------- | ---------------------------------------- |
-| <img src="./02photo/xingqiu1.jpg" width="400"/> | <img src="./02photo/foot.jpg" width="400"/> | -->
+|20170513|[UFO长啥样？](https://mp.weixin.qq.com/s/SsK5Te6oKhgGF98Z8n3gsg)|[请点击链接](https://github.com/liyangbit/PyDataRoad/tree/master/projects/zhilian_analysis)|
